@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap');
+
 body {
     margin: 0;
     background-color: #a5d1a8;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 h1 {
     margin-top: 0;
