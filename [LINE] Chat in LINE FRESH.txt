@@ -1,5 +1,5 @@
 ﻿[LINE] Chat in LINE FRESH
-Saved on: 8/19/2021, 4:53 PM
+Saved on: 8/20/2021, 10:19 PM
 
 Thu, 6/24/2021
 12:06	LINE小幫手-A set the chat's max participants to 5000.
@@ -7,7 +7,7 @@ Thu, 6/24/2021
 12:22	LINE小幫手-A	歡迎大家一起加入
 12:29	LINE小幫手-A changed the chat's profile photo.
 12:32	LINE小幫手-A added Spam Filter to the chat.
-12:32	Spam Filter	您好！我是垃圾訊息過濾器，能自動過濾聊天室中的垃圾訊息。僅限管理員可變更垃圾訊息過濾器的相關設定喔。
+12:32	Unknown	您好！我是垃圾訊息過濾器，能自動過濾聊天室中的垃圾訊息。僅限管理員可變更垃圾訊息過濾器的相關設定喔。
 12:39	LINE小幫手-N joined the chat.
 12:39	LINE小幫手-A	歡迎👏
 12:40	LINE小幫手-Y	疑 為何(為什麼)
@@ -629,10 +629,10 @@ Fri, 7/23/2021
 
 也再次提醒大家(!!)
 每週三、五 晚上18:00開始，小幫手會退出沒有變更命名的同學，請尚未更名的同學特別留意囉～感謝您的配合(bow)
-16:06	台大-生科-Bruce	請問高中生可以參加比賽嗎？幫朋友問的～
+16:06	台大-生科-朝陽	請問高中生可以參加比賽嗎？幫朋友問的～
 17:17	LINE小幫手-MT	嗨～Bruce(yay)如果你的朋友是應屆畢業生，且在報名期間（9月開始）已有大專院校學籍，就有符合參賽資格，歡迎他報名參加哦～(thumbs up)
 詳細的參賽資格也有放在記事本的常見問題集裡了，歡迎去查看唷～
-17:45	台大-生科-Bruce	好的謝謝喔
+17:45	台大-生科-朝陽	好的謝謝喔
 18:12	77 was banned from the OpenChat by LINE小幫手-MT.
 18:12	adnil was banned from the OpenChat by LINE小幫手-MT.
 18:12	Alia was banned from the OpenChat by LINE小幫手-MT.
@@ -1349,3 +1349,188 @@ Thu, 8/19/2021
 15:36	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
+18:00	翔 joined the chat.
+18:00	Hsuan joined the chat.
+18:00	sky.33 joined the chat.
+18:00	Dena joined the chat.
+18:00	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+
+Fri, 8/20/2021
+10:31	輔仁-企管二-永怡 joined the chat.
+10:31	義大-後中-PINU joined the chat.
+10:31	國立台東大學-應用科學系-謝祥意 joined the chat.
+10:31	TTU-ID-林艾妮 joined the chat.
+10:31	台大-圖資二-謝沅瑾 joined the chat.
+10:31	國立臺東大學-數媒-謝文心 joined the chat.
+10:31	ting joined the chat.
+10:31	安迪 joined the chat.
+10:31	台大-圖資-Zoie joined the chat.
+10:31	郭 joined the chat.
+10:31	紀宇恆 joined the chat.
+10:31	NTU_PH_wannn joined the chat.
+10:31	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+14:48	陳乾走 joined the chat.
+14:48	NCKU_ME_竹 joined the chat.
+14:48	鈞 joined the chat.
+14:48	NIU-Horticulture-泳杰 joined the chat.
+14:48	TMU-護理-YIPING joined the chat.
+14:48	Ruby joined the chat.
+14:48	致理-資管-于翔 joined the chat.
+14:48	NCKU-LS-賴力君 joined the chat.
+14:48	臺北大學-企管-吳亮儀 joined the chat.
+14:48	台科-企研-Anna joined the chat.
+14:48	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+15:55	Cih joined the chat.
+15:55	育 joined the chat.
+15:55	pong joined the chat.
+15:55	台大-財金-林益弘 joined the chat.
+15:55	HONG joined the chat.
+15:55	之昀 joined the chat.
+15:55	阿豆 joined the chat.
+15:55	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+16:09	LINE小幫手-AWC joined the chat.
+16:09	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+16:09	Winni joined the chat.
+16:09	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+16:15	LINE小幫手-MT	同學們 午安～(peek)
+提醒大家今晚 18:00開始，小幫手會退出沒有變更命名的同學，請尚未更名的同學特別留意囉，感謝您的配合(bow)
+16:36	Kob joined the chat.
+16:36	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+16:43	嘉大-應用經濟系-陳沛涵 joined the chat.
+16:43	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+17:16	NQU-DAE-Beatrice joined the chat.
+17:16	南大-行管-黃小閔 joined the chat.
+17:16	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+17:17	明新-幼保-Rosa joined the chat.
+17:17	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+18:28	LINE小幫手-A	TGIF！!！(Capoo_rabbit)一週咻～一下過完了，離校園競賽開放報名的日子也越來越近了，最近收到很多同學關於競賽的問題，小幫手邊回答也開始越來越期待收到同學的報名了呢！(BacBac Admire)(BacBac Admire)(BacBac Admire)
+
+(同學們有問題記得要發問喔🙋‍♀️)
+
+下週三就是線上說明會了，有沒有同學報名了呢？有的以下開放+1 (BacBac Praise) 同學們不要害羞跟小幫手互動一下嘛～ (Capoo_head)(Capoo_body)(Capoo_tail)
+18:35	台大-生科-朝陽	＋1 
+18:42	台科-企研-Anna	想報名但沒隊友😢
+18:43	中興-資管-Joker	我也是QAQ
+18:43	台科-企研-Anna	最近會在組隊社團發文😂希望可以找到一起努力的隊友🥺
+18:44	LINE小幫手-A	什麼！小幫手聽到需要救援的聲音！！！
+18:44	台科-企研-Anna	[Sticker]
+18:45	LINE小幫手-A	[Sticker]
+18:46	NYCU-AI-嚴想容	缺隊友+1 希望可以找到有熱誠的隊友
+不論是擅長商管或是擅長程式的隊友都可以!
+18:46	中興-資管-Joker	創意發想不適合我哈哈 可能偏向實作面
+18:46	LINE小幫手-A	LINE FRESH成立組隊社團了（吶喊）
+快加入組隊社團，上傳你的尋人啟事找隊友吧！！！
+【LINE FRESH 2021校園競賽 組隊社團】
+👉 https://lin.ee/4IW394Q/newf
+18:47	台科-企研-Anna	[Sticker]
+18:47	LINE小幫手-A	[Sticker]
+18:49	清大-心諮23-鄭欣晨	[Sticker]
+18:49	LINE小幫手-AW	[Sticker]
+18:53	NTU-GMBA-Helen	[Sticker]
+19:01	LINE小幫手-A	揪起來揪起來～
+19:36	41黃 was banned from the OpenChat by LINE小幫手-MT.
+19:36	AJA was banned from the OpenChat by LINE小幫手-MT.
+19:36	Angel was banned from the OpenChat by LINE小幫手-MT.
+19:36	Ashley Hsu was banned from the OpenChat by LINE小幫手-MT.
+19:36	beck was banned from the OpenChat by LINE小幫手-MT.
+19:36	Catwalk was banned from the OpenChat by LINE小幫手-MT.
+19:36	Chong was banned from the OpenChat by LINE小幫手-MT.
+19:36	CHUN was banned from the OpenChat by LINE小幫手-MT.
+19:36	Cih was banned from the OpenChat by LINE小幫手-MT.
+19:36	Dena was banned from the OpenChat by LINE小幫手-MT.
+19:36	der was banned from the OpenChat by LINE小幫手-MT.
+19:36	Gintama was banned from the OpenChat by LINE小幫手-MT.
+19:37	Hazel was banned from the OpenChat by LINE小幫手-MT.
+19:37	HONG was banned from the OpenChat by LINE小幫手-MT.
+19:37	Jerry was banned from the OpenChat by LINE小幫手-MT.
+19:37	Jessie was banned from the OpenChat by LINE小幫手-MT.
+19:38	Johnny was banned from the OpenChat by LINE小幫手-MT.
+19:38	Js was banned from the OpenChat by LINE小幫手-MT.
+19:38	Jyun was banned from the OpenChat by LINE小幫手-MT.
+19:38	Kelly was banned from the OpenChat by LINE小幫手-MT.
+19:39	Kelvin was banned from the OpenChat by LINE小幫手-MT.
+19:39	Kob was banned from the OpenChat by LINE小幫手-MT.
+19:39	Ollie was banned from the OpenChat by LINE小幫手-MT.
+19:39	Oray was banned from the OpenChat by LINE小幫手-MT.
+19:39	Pan pan was banned from the OpenChat by LINE小幫手-MT.
+19:39	Pascal was banned from the OpenChat by LINE小幫手-MT.
+19:39	pong was banned from the OpenChat by LINE小幫手-MT.
+19:40	Ruby was banned from the OpenChat by LINE小幫手-MT.
+19:40	shan was banned from the OpenChat by LINE小幫手-MT.
+19:40	Stephanie was banned from the OpenChat by LINE小幫手-MT.
+19:40	ting was banned from the OpenChat by LINE小幫手-MT.
+19:40	Vic was banned from the OpenChat by LINE小幫手-MT.
+19:40	Winni was banned from the OpenChat by LINE小幫手-MT.
+19:40	Wonderful was banned from the OpenChat by LINE小幫手-MT.
+19:40	Yu was banned from the OpenChat by LINE小幫手-MT.
+19:40	Yvonne was banned from the OpenChat by LINE小幫手-MT.
+19:40	yyy was banned from the OpenChat by LINE小幫手-MT.
+19:40	zz was banned from the OpenChat by LINE小幫手-MT.
+19:40	ネギ was banned from the OpenChat by LINE小幫手-MT.
+19:41	之昀 was banned from the OpenChat by LINE小幫手-MT.
+19:41	佑子 was banned from the OpenChat by LINE小幫手-MT.
+19:41	儂儂 was banned from the OpenChat by LINE小幫手-MT.
+19:42	吳金澍 was banned from the OpenChat by LINE小幫手-MT.
+19:42	嗨 was banned from the OpenChat by LINE小幫手-MT.
+19:42	地瓜 was banned from the OpenChat by LINE小幫手-MT.
+19:42	天天 was banned from the OpenChat by LINE小幫手-MT.
+19:42	奕興 was banned from the OpenChat by LINE小幫手-MT.
+19:42	安迪 was banned from the OpenChat by LINE小幫手-MT.
+19:42	容飛 was banned from the OpenChat by LINE小幫手-MT.
+19:42	小騎士 was banned from the OpenChat by LINE小幫手-MT.
+19:42	張桂洋 was banned from the OpenChat by LINE小幫手-MT.
+19:42	恩 was banned from the OpenChat by LINE小幫手-MT.
+19:42	想不到ㄅ was banned from the OpenChat by LINE小幫手-MT.
+19:43	本喵～ was banned from the OpenChat by LINE小幫手-MT.
+19:43	森林綠 was banned from the OpenChat by LINE小幫手-MT.
+19:43	汪汪喵 was banned from the OpenChat by LINE小幫手-MT.
+19:43	狗狗 was banned from the OpenChat by LINE小幫手-MT.
+19:43	琳 was banned from the OpenChat by LINE小幫手-MT.
+19:43	紀宇恆 was banned from the OpenChat by LINE小幫手-MT.
+19:44	郭 was banned from the OpenChat by LINE小幫手-MT.
+19:44	鈞 was banned from the OpenChat by LINE小幫手-MT.
+19:44	鈞鈞 was banned from the OpenChat by LINE小幫手-MT.
+19:44	阿懷 was banned from the OpenChat by LINE小幫手-MT.
+19:44	阿豆 was banned from the OpenChat by LINE小幫手-MT.
+19:44	阿賢 was banned from the OpenChat by LINE小幫手-MT.
+19:44	陳乾走 was banned from the OpenChat by LINE小幫手-MT.
+19:44	面七七 was banned from the OpenChat by LINE小幫手-MT.
+19:44	香香 was banned from the OpenChat by LINE小幫手-MT.
+19:44	🍉 was banned from the OpenChat by LINE小幫手-MT.
+19:48	南實 時尚四 楊逸 joined the chat.
+19:48	Lilian💗 joined the chat.
+19:48	Kerry joined the chat.
+19:48	FCU-AM-Peterson joined the chat.
+19:48	程ton joined the chat.
+19:49	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+19:59	北科-資工二-王信宇 joined the chat.
+19:59	高科-應英-Jessie joined the chat.
+19:59	成大-現文二-任冠穎 joined the chat.
+19:59	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+20:24	NUTN-BM-詠琪	請問~報名要繳交的作品集、證照等證明，LINE有格式規定嗎？
+20:40	LINE小幫手-A	嗨詠琪～排版格式不限，但建議有影片、網頁等等內容，用網址的方式列入檔案，最後會需要存成一整個📎PDF檔案📎在報名時上傳作為附件喔！下週三有說明會，有空的話歡迎線上來參加(clap)
+20:40	LINE小幫手-A	[Sticker]
