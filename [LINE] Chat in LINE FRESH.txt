@@ -1,5 +1,5 @@
 ﻿[LINE] Chat in LINE FRESH
-Saved on: 8/24/2021, 1:45 PM
+Saved on: 8/25/2021, 10:27 AM
 
 Thu, 6/24/2021
 12:06	LINE小幫手-A set the chat's max participants to 5000.
@@ -1090,7 +1090,7 @@ Fri, 8/13/2021
 19:07	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-20:08	台大 工科 Tiana	請問程式編碼能力大概要求到什麼程度呢
+20:08	台大 工海 Tiana	請問程式編碼能力大概要求到什麼程度呢
 20:22	LINE小幫手-A	Hi Tiana～
 程式編碼主要以能打造出 LINE Chatbot 應用為主即可唷～(roger)
 歡迎到我們的LINE Developer官網上查看相關技術規格 https://developers.line.biz/zh-hant/
@@ -1652,7 +1652,7 @@ Mon, 8/23/2021
 17:51	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-23:14	成大-企研-鄭淳芬	想請問決賽會取幾隊進入呢？若進入決賽後會有工作坊之類的培訓計畫嗎？謝謝😊
+23:14	成大-企研-Ruby	想請問決賽會取幾隊進入呢？若進入決賽後會有工作坊之類的培訓計畫嗎？謝謝😊
 
 Tue, 8/24/2021
 09:35	NCKU-BME-柏瑜	請問說明會要怎麼報名呢？有連結嗎
@@ -1664,7 +1664,7 @@ Tue, 8/24/2021
 10:17	台大-工管-朱向崴	可以再發一次說明會報名連結嗎 因為比較晚進來群組顯示不出來 謝謝🙏
 10:18	LINE小幫手-A	好D，等我一下下唷～
 10:18	台大-工管-朱向崴	謝謝～
-10:18	成大-企研-鄭淳芬	好的，謝謝
+10:18	成大-企研-Ruby	好的，謝謝
 10:30	LINE小幫手-A	小幫手剛剛確認由於第一場說明會是明晚舉行，所以明天場次的報名表目前已經關閉無法送出囉！(Capoo_smile)
 
 但想參加明晚場次的同學還是可以在晚上七點上LINE FRESH 官方粉絲團 & 官方帳號上等直播唷！
@@ -1673,3 +1673,53 @@ Tue, 8/24/2021
 10:30	LINE小幫手-A	[Sticker]
 10:31	NTU-CSIE-Rain	[Sticker]
 10:45	台大-工管-朱向崴	好的 謝謝
+14:46	UT-Math-PoYung joined the chat.
+14:46	台大-工管-wang joined the chat.
+14:46	Johnnie joined the chat.
+14:46	Hsia joined the chat.
+14:46	抒情 joined the chat.
+14:46	NCU-企研-SONG joined the chat.
+14:46	SCU-Hao joined the chat.
+14:46	中央-資管-Leo joined the chat.
+14:46	Ken joined the chat.
+14:46	仁仁 joined the chat.
+14:46	Domo joined the chat.
+14:46	MarsWang joined the chat.
+14:46	UT-UIMM-ming joined the chat.
+14:46	William joined the chat.
+14:46	全兄 joined the chat.
+14:46	文山雨神 joined the chat.
+14:46	Evie joined the chat.
+14:46	呱呱 joined the chat.
+14:46	SHU-JOUR-Claire joined the chat.
+14:46	東吳-資科-Lightning joined the chat.
+14:46	Kenny joined the chat.
+14:46	東吳-資科-雷 joined the chat.
+14:46	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+16:13	yeeda joined the chat.
+16:13	中央大學-碩一-何亮甫 joined the chat.
+16:13	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+17:30	Lyra joined the chat.
+17:30	蔡時富 joined the chat.
+17:30	Irene joined the chat.
+17:30	許世琦 joined the chat.
+17:30	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+18:31	NTU-化工系David joined the chat.
+18:31	龔照峻 joined the chat.
+18:31	耶 joined the chat.
+18:31	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+18:33	NTU-化工系David	你好~請問有活動辦法的相關資訊嗎?
+18:38	LINE小幫手-A	Hi David～
+你指的是哪一方面的活動辦法呢？目前競賽懶人包已經發文在LINE FRESH官方粉絲團上囉>>
+https://www.facebook.com/LINEFRESHTW/posts/121800776823483
+
+明晚也會在粉絲團及官方帳號上進行線上說明會，歡迎來參加～
+19:00	NTU-化工系David	謝謝🙏
