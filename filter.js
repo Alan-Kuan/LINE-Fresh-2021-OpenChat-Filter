@@ -22,7 +22,7 @@ line_reader.on('line', function (line) {
     if(line.includes('was banned from the OpenChat')) return;
     if(line.includes('[Sticker]')) return;
     if(line.includes('請參考置頂公告改暱稱喔')) return;
-    if(line.includes('(!)重要訊息(!)加入社群後請協助依照「學校-系級-姓名」做暱稱變更')) return;
+    if(line.includes('依照「學校-系級-姓名」做暱稱變更')) return;
 
     // new date
     if(date_pattern.test(line)) {
