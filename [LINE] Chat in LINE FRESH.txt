@@ -1,5 +1,5 @@
 ﻿[LINE] Chat in LINE FRESH
-Saved on: 8/27/2021, 5:57 PM
+Saved on: 8/27/2021, 9:19 PM
 
 Thu, 6/24/2021
 12:06	LINE小幫手-A set the chat's max participants to 5000.
@@ -12,7 +12,7 @@ Thu, 6/24/2021
 12:39	LINE小幫手-A	歡迎👏
 12:40	LINE小幫手-Y	疑 為何(為什麼)
 12:43	LINE小幫手-A added Auto-reply to the chat.
-12:43	Auto-reply	大家好！我會自動傳送歡迎新成員的訊息、已指定時間或日期的預約訊息，以及回應特定關鍵字的訊息喔！
+12:43	Unknown	大家好！我會自動傳送歡迎新成員的訊息、已指定時間或日期的預約訊息，以及回應特定關鍵字的訊息喔！
 13:12	LINE小幫手E joined the chat.
 13:12	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
 13:24	LINE小幫手-MT joined the chat.
@@ -1991,3 +1991,77 @@ https://www.facebook.com/LINEFRESHTW/posts/121800776823483
 
 9/8也會有線上說明會，想了解更多歡迎參加～(clap)(clap)(clap)
 17:15	LINE小幫手-A	要麻煩同一隊伍的同學一起集結成一個pdf檔案並小於10M(roger)
+19:07	LINE小幫手-MT	大家晚上好(moon grin) 一週又過完了🙌🙌🙌
+離校園競賽🏫開放報名就是下週！下週！下週了喔！
+還未回到校園的各位是否每天都過得很充實呢？(hahaha)
+
+本週的線上說明會感謝很多同學參加(please!)
+但會後小幫手也有不斷被詢問加場問題！
+(hand pointing right)九月八日(!)(!)(!)
+我們要加開啦～除了賽程賽制與媒合活動說明
+還邀請了另外兩組學長姐👫與大家分享
+走過路過不能錯過的線上說明會
+😗快點相約報一下嘛～
+https://lin.ee/mNfZwsy/newf
+
+(heart) 溫馨提醒
+今晚 20:00開始，小幫手會退出沒有變更命名的同學，請尚未更名的同學特別留意囉，感謝您的配合(content)
+19:18	NDHU 良	小幫手您好~
+想請問「line服務的瞭解程度」之項目具體期待參賽者呈現對開發技術的了解或者line產品提供消費者的服務之描述？
+19:31	LINE小幫手-AW	嗨 良～ 您說的都可以寫進去，沒有特別設限喔！關於 LINE 的所有服務或是 API 等開發工具的了解都可以具體的描述出來讓我們知道的！
+20:18	NDHU 良	謝謝您
+20:18	NDHU 良	[Sticker]
+20:33	NKNU-SEM-yeeda	想請問一下一些問題～
+作品集是隊中每個人都要放嗎？
+作品集是各放各的嗎？
+20:55	LINE小幫手-AW	哈囉 yeeda！雖說沒有限定每個人的作品都要放入，但建議是您們團隊成員互相討論後各取最精華的部分放置喔！
+21:01	LINE小幫手-AW	儘可能地展現團隊的優勢讓我們看到就是了～
+21:12	00 was banned from the OpenChat by LINE小幫手-MT.
+21:12	Aliciaaa was banned from the OpenChat by LINE小幫手-MT.
+21:13	Allen was banned from the OpenChat by LINE小幫手-MT.
+21:13	Anber was banned from the OpenChat by LINE小幫手-MT.
+21:13	Andy Do was banned from the OpenChat by LINE小幫手-MT.
+21:13	CCs was banned from the OpenChat by LINE小幫手-MT.
+21:13	Chloe was banned from the OpenChat by LINE小幫手-MT.
+21:13	Chichy Vichy was banned from the OpenChat by LINE小幫手-MT.
+21:13	D was banned from the OpenChat by LINE小幫手-MT.
+21:13	Domo was banned from the OpenChat by LINE小幫手-MT.
+21:13	Emily was banned from the OpenChat by LINE小幫手-MT.
+21:13	Evie was banned from the OpenChat by LINE小幫手-MT.
+21:13	Ezra Lin was banned from the OpenChat by LINE小幫手-MT.
+21:13	Ga was banned from the OpenChat by LINE小幫手-MT.
+21:13	Jeff was banned from the OpenChat by LINE小幫手-MT.
+21:14	Joanne Chu was banned from the OpenChat by LINE小幫手-MT.
+21:14	Johnnie was banned from the OpenChat by LINE小幫手-MT.
+21:14	Judy was banned from the OpenChat by LINE小幫手-MT.
+21:14	Ken was banned from the OpenChat by LINE小幫手-MT.
+21:14	Kerry was banned from the OpenChat by LINE小幫手-MT.
+21:14	KID was banned from the OpenChat by LINE小幫手-MT.
+21:14	kk was banned from the OpenChat by LINE小幫手-MT.
+21:14	Lilian💗 was banned from the OpenChat by LINE小幫手-MT.
+21:14	Mei was banned from the OpenChat by LINE小幫手-MT.
+21:14	Mike was banned from the OpenChat by LINE小幫手-MT.
+21:15	Oreo was banned from the OpenChat by LINE小幫手-MT.
+21:15	Shannon was banned from the OpenChat by LINE小幫手-MT.
+21:15	Shu was banned from the OpenChat by LINE小幫手-MT.
+21:15	Vy was banned from the OpenChat by LINE小幫手-MT.
+21:15	Weiii was banned from the OpenChat by LINE小幫手-MT.
+21:15	Weiwei was banned from the OpenChat by LINE小幫手-MT.
+21:16	喬俊杰 was banned from the OpenChat by LINE小幫手-MT.
+21:16	安 was banned from the OpenChat by LINE小幫手-MT.
+21:16	小菜 was banned from the OpenChat by LINE小幫手-MT.
+21:16	彥瑞 was banned from the OpenChat by LINE小幫手-MT.
+21:16	文山雨神 was banned from the OpenChat by LINE小幫手-MT.
+21:16	昕 was banned from the OpenChat by LINE小幫手-MT.
+21:16	洋蔥🧅 was banned from the OpenChat by LINE小幫手-MT.
+21:16	白白 was banned from the OpenChat by LINE小幫手-MT.
+21:17	程ton was banned from the OpenChat by LINE小幫手-MT.
+21:17	竹子君 was banned from the OpenChat by LINE小幫手-MT.
+21:17	紀醬 was banned from the OpenChat by LINE小幫手-MT.
+21:17	耶 was banned from the OpenChat by LINE小幫手-MT.
+21:17	菜雞 was banned from the OpenChat by LINE小幫手-MT.
+21:17	蔡時富 was banned from the OpenChat by LINE小幫手-MT.
+21:17	蘇蘇 was banned from the OpenChat by LINE小幫手-MT.
+21:17	黃冠泓 was banned from the OpenChat by LINE小幫手-MT.
+21:17	龔照峻 was banned from the OpenChat by LINE小幫手-MT.
+21:17	🐯 was banned from the OpenChat by LINE小幫手-MT.
