@@ -21,6 +21,7 @@ line_reader.on('line', function (line) {
     if(line.includes('the chat')) return;
     if(line.includes('was banned from the OpenChat')) return;
     if(line.includes('[Sticker]')) return;
+    if(line.includes('加入聊天')) return;
     if(line.includes('請參考置頂公告改暱稱喔')) return;
     if(line.includes('依照「學校-系級-姓名」做暱稱變更')) return;
 
