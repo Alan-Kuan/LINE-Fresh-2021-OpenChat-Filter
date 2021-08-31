@@ -1,5 +1,5 @@
 ﻿[LINE] Chat in LINE FRESH
-Saved on: 8/27/2021, 9:19 PM
+Saved on: 8/31/2021, 1:43 PM
 
 Thu, 6/24/2021
 12:06	LINE小幫手-A set the chat's max participants to 5000.
@@ -1831,7 +1831,7 @@ https://linliv.ee/qCCXD2B/li/tk/sh/ll
 還是需要「考量到全部四個商圈」呢？
 謝謝☺️
 20:04	NYCU-AI-嚴想容	您好~我也有一樣的問題，希望小編能抽空答覆，謝謝
-20:05	NDHU 良	請問商圈數位轉型是以整體商圈為主 還是可以針對某類型店家做企劃呢
+20:05	NDHU ACI C	請問商圈數位轉型是以整體商圈為主 還是可以針對某類型店家做企劃呢
 20:05	NCU-EE-Mars	想多問一下：
 1. 定義“提案商圈”是否是指一整個商圈？或是能夠對一個商圈內的某個行業做提案呢？
 2. 是否再提案的解決方法需要完全使用Line原生的服務？還是能夠自行額外設計解決方案來設計？
@@ -2006,11 +2006,11 @@ https://lin.ee/mNfZwsy/newf
 
 (heart) 溫馨提醒
 今晚 20:00開始，小幫手會退出沒有變更命名的同學，請尚未更名的同學特別留意囉，感謝您的配合(content)
-19:18	NDHU 良	小幫手您好~
+19:18	NDHU ACI C	小幫手您好~
 想請問「line服務的瞭解程度」之項目具體期待參賽者呈現對開發技術的了解或者line產品提供消費者的服務之描述？
 19:31	LINE小幫手-AW	嗨 良～ 您說的都可以寫進去，沒有特別設限喔！關於 LINE 的所有服務或是 API 等開發工具的了解都可以具體的描述出來讓我們知道的！
-20:18	NDHU 良	謝謝您
-20:18	NDHU 良	[Sticker]
+20:18	NDHU ACI C	謝謝您
+20:18	NDHU ACI C	[Sticker]
 20:33	NKNU-SEM-yeeda	想請問一下一些問題～
 作品集是隊中每個人都要放嗎？
 作品集是各放各的嗎？
@@ -2065,3 +2065,109 @@ https://lin.ee/mNfZwsy/newf
 21:17	黃冠泓 was banned from the OpenChat by LINE小幫手-MT.
 21:17	龔照峻 was banned from the OpenChat by LINE小幫手-MT.
 21:17	🐯 was banned from the OpenChat by LINE小幫手-MT.
+21:56	NCU-CSIE-Ezra joined the chat.
+21:56	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+22:02	高科-應英-Jessica joined the chat.
+22:02	高醫-107-邱緯嘉 joined the chat.
+22:02	TKU-CSIE-Harry joined the chat.
+22:02	NTU-CSIE-Johnson joined the chat.
+22:02	Amy joined the chat.
+22:02	台大-電機二-林暐城 joined the chat.
+22:02	Paul joined the chat.
+22:02	Tang joined the chat.
+22:02	中大-財金-cyc joined the chat.
+22:02	Vicky Young joined the chat.
+22:03	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+22:03	NTU-網媒所碩一 Alan joined the chat.
+22:03	南台科大-csie-黃彥瑞 joined the chat.
+22:03	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+
+Mon, 8/30/2021
+10:39	Jolin加入聊天
+10:39	王冠勛加入聊天
+10:39	tou加入聊天
+10:39	NTU-CE-mu加入聊天
+10:39	NCCU-MBA-00加入聊天
+10:39	安安加入聊天
+10:39	108國企 張博崴加入聊天
+10:39	Ning加入聊天
+10:39	柔加入聊天
+10:39	NTU FIN JACK加入聊天
+10:39	嗨嗨加入聊天
+10:39	Claire加入聊天
+10:39	W加入聊天
+10:39	Tku-ic-Chen加入聊天
+10:39	Masalu加入聊天
+10:39	ntu_law_allen加入聊天
+10:39	Emily加入聊天
+10:39	rocio加入聊天
+10:39	JJ加入聊天
+10:39	阿懷加入聊天
+10:39	庭筠加入聊天
+10:39	Calvin加入聊天
+10:39	FCU-MKT-Lillian加入聊天
+10:39	成大-碩一-龔照峻加入聊天
+10:39	中山-財管-Hu加入聊天
+10:39	Sicilia加入聊天
+10:39	台大-資管所-林璟耀加入聊天
+10:39	清華-計財-林家伃加入聊天
+10:39	高科-海事資訊-周嘉睿加入聊天
+10:39	SamSun加入聊天
+10:39	淡江-法文-Irene加入聊天
+10:39	🙈🙈🙈加入聊天
+10:39	小盛加入聊天
+10:39	蔡時富加入聊天
+10:39	喬俊杰加入聊天
+10:39	北科-電資三-蔡翔宇加入聊天
+10:39	Cheng加入聊天
+10:39	NTHU/CS碩一/Elmon加入聊天
+10:39	成大-政治-曹瑋彤加入聊天
+10:39	Ring加入聊天
+10:39	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+16:02	NYCU-AC-Riley joined the chat.
+16:02	FJU-DE-Chloe joined the chat.
+16:02	交大-運管-Mich joined the chat.
+16:02	Huei joined the chat.
+16:02	mannyj joined the chat.
+16:02	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+18:16	台科大-資管四-Amy joined the chat.
+18:16	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+20:19	交大-管科-翊榛	請問一下小幫手 作品集需要幾頁啊
+
+Tue, 8/31/2021
+10:23	Xin joined the chat.
+10:23	成大-企管-7 joined the chat.
+10:23	Amber.N joined the chat.
+10:23	Yin joined the chat.
+10:23	台科大-電子-詹宏澤 joined the chat.
+10:23	Yuwan joined the chat.
+10:23	EMMMM joined the chat.
+10:23	梳子 joined the chat.
+10:23	阿唐 joined the chat.
+10:23	Nicole joined the chat.
+10:23	政大-資管-Vanessa joined the chat.
+10:23	小白 joined the chat.
+10:23	小涵 @hannahyen79 joined the chat.
+10:23	語禾 joined the chat.
+10:23	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+11:02	LINE小幫手-MT	翊榛 您好，作品集不限頁數喔，只要總檔案小於10M即可喔～～
+11:13	交大-管科-翊榛	 想問一下 那初賽規定的五大標準是各自分開的pdf檔嗎 還是其實是要五個合起來為一個pdf
+11:22	LINE小幫手-A	需要同學幫我們合成一個檔案喔！特別叮嚀～我們是分組競賽所以繳交文件都是以組為單位，不是一人一個喔！(BacBac Praise)
+11:23	中興大學行銷碩一周書懃	想問如果作品集的原檔是企劃書或者市場調查報告，頁數很多，可以貼雲端網址嗎？
+11:27	LINE小幫手-MT	可以的！！
+11:30	LINE小幫手-MT	建議是以簡述＋雲端網址，才有機會吸引評審注意了解更多喔(thumbs up)
+11:33	中興大學行銷碩一周書懃	[Sticker]
