@@ -4,49 +4,34 @@
 const http = require('http');
 const fs = require('fs').promises;
 
+const responseWithFile = (res, file_path, header) => {
+    fs.readFile(__dirname + file_path)
+        .then(content => {
+            res.writeHead(200, header);
+            res.end(content);
+        })
+        .catch(err => {
+            console.error(err);
+            res.writeHead(302, {'Location': '/'});
+            res.end();
+        });
+};
+
 http.createServer(function (req, res) {
+
     if(req.url === '/') {
-        fs.readFile(__dirname + '/index.html')
-            .then(content => {
-                res.writeHead(200, {'Content-Type': 'text/html'});
-                res.end(content);
-            })
-            .catch(err => {
-                res.writeHead(404);
-                res.end(err);
-            });
-    } else if(req.url === '/filtered_messages.json') {
-        fs.readFile(__dirname + '/filtered_messages.json')
-            .then(content => {
-                res.writeHead(200, {'Content-Type': 'application/json'});
-                res.end(content);
-            })
-            .catch(err => {
-                res.writeHead(404);
-                res.end(err);
-            });
-    } else if(req.url === '/display.js') {
-        fs.readFile(__dirname + '/display.js')
-            .then(content => {
-                res.writeHead(200);
-                res.end(content);
-            })
-            .catch(err => {
-                res.writeHead(404);
-                res.end(err);
-            });
-    } else if(req.url === '/style.css') {
-        fs.readFile(__dirname + '/style.css')
-            .then(content => {
-                res.writeHead(200, {'Content-Type': 'text/css'});
-                res.end(content);
-            })
-            .catch(err => {
-                res.writeHead(404);
-                res.end(err);
-            });
+        responseWithFile(res, '/index.html', {'Content-Type': 'text/html'});
+    } else if(req.url.endsWith('.html')) {
+        responseWithFile(res, req.url, {'Content-Type': 'text/html'})
+    } else if(req.url.endsWith('.css')) {
+        responseWithFile(res, req.url, {'Content-Type': 'text/css'});
+    } else if(req.url.endsWith('.js')) {
+        responseWithFile(res, req.url, {'Content-Type': 'text/javascript'});
+    } else if(req.url.endsWith('.json')) {
+        responseWithFile(res, req.url, {'Content-Type': 'application/json'});
     } else {
-        res.writeHead(404);
+        res.writeHead(302, {'Location': '/'});
         res.end();
     }
+
 }).listen(3000);

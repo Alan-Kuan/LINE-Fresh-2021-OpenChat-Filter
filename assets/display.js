@@ -3,7 +3,7 @@
  */
 $(document).ready(function () {
 
-    $.getJSON('./filtered_messages.json', function (history) {
+    $.getJSON('../filtered_messages.json', function (history) {
         $.each(history, function (date, messages) {
             if(messages.length > 0) {
                 $('<div />', {
