@@ -4,6 +4,7 @@
 $(document).ready(function () {
 
     $.getJSON('../filtered_messages.json', function (history) {
+
         $.each(history, function (date, messages) {
             if(messages.length > 0) {
                 $('<div />', {
@@ -28,6 +29,9 @@ $(document).ready(function () {
                 });
             }
         });
+
+        scrollBack();
+
     });
 
 });
