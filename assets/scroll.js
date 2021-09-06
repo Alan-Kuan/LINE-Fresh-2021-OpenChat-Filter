@@ -16,7 +16,7 @@ $(document).ready(function () {
         localStorage.setItem('LFOCF_reading_location', $(window).scrollTop());
         // hide the scroll-bottom button if at bottom
         let diff = Math.abs($(this).scrollTop() - bottom_loc);
-        if(diff <= 2) {
+        if(diff <= 80) {
             $('#scroll-bottom').fadeOut();
         } else {
             $('#scroll-bottom').fadeIn();
