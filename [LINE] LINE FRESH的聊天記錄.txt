@@ -1,41 +1,42 @@
-﻿[LINE] Chat in LINE FRESH
-Saved on: 9/3/2021, 3:01 PM
+﻿[LINE] LINE FRESH的聊天記錄
+儲存日期：2021/9/6 下午5:22
 
-Thu, 6/24/2021
-12:06	LINE小幫手-A set the chat's max participants to 5000.
-12:15	LINE小幫手-Y joined the chat.
+2021/6/24（週四）
+12:06	LINE小幫手-A已將聊天室的人數上限設為5000人
+12:15	LINE小幫手-Y加入聊天
 12:22	LINE小幫手-A	歡迎大家一起加入
-12:29	LINE小幫手-A changed the chat's profile photo.
-12:32	LINE小幫手-A added Spam Filter to the chat.
-12:32	Unknown	您好！我是垃圾訊息過濾器，能自動過濾聊天室中的垃圾訊息。僅限管理員可變更垃圾訊息過濾器的相關設定喔。
-12:39	LINE小幫手-N joined the chat.
+12:29	LINE小幫手-A變更了聊天室圖片
+12:32	LINE小幫手-A已將「Spam Filter」加入
+12:32	Spam Filter	您好！我是垃圾訊息過濾器，能自動過濾聊天室中的垃圾訊息。僅限管理員可變更垃圾訊息過濾器的相關設定喔。
+12:39	LINE小幫手-N加入聊天
 12:39	LINE小幫手-A	歡迎👏
 12:40	LINE小幫手-Y	疑 為何(為什麼)
-12:43	LINE小幫手-A added Auto-reply to the chat.
-12:43	Unknown	大家好！我會自動傳送歡迎新成員的訊息、已指定時間或日期的預約訊息，以及回應特定關鍵字的訊息喔！
-13:12	LINE小幫手E joined the chat.
+12:43	LINE小幫手-A已將「Auto-reply」加入
+12:43	Auto-reply	大家好！我會自動傳送歡迎新成員的訊息、已指定時間或日期的預約訊息，以及回應特定關鍵字的訊息喔！
+13:12	LINE小幫手E加入聊天
 13:12	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
-13:24	LINE小幫手-MT joined the chat.
-13:24	LINE小幫手-AW joined the chat.
-13:24	LINE小幫手-EC joined the chat.
+13:24	LINE小幫手-MT加入聊天
+13:24	LINE小幫手-AW加入聊天
+13:24	LINE小幫手-EC加入聊天
 13:24	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
 13:24	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
 13:24	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
-13:41	LINE小幫手-HC joined the chat.
+13:41	LINE小幫手-HC加入聊天
 13:41	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
 
-Tue, 6/29/2021
-20:08	LINE小幫手-A changed the chat's profile photo.
+2021/6/29（週二）
+20:08	LINE小幫手-A變更了聊天室圖片
 
-Mon, 7/12/2021
-10:39	kimi joined the chat.
+2021/7/12（週一）
+10:39	kimi加入聊天
 10:39	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
-10:39	汪次君 joined the chat.
-10:39	郁芬 joined the chat.
-10:39	小賀 joined the chat.
-10:39	黃子涵 joined the chat.
-10:39	阿輝 joined the chat.
-10:39	洪大象 joined the chat.
+10:39	汪次君加入聊天
+10:39	郁芬加入聊天
+10:39	小賀加入聊天
+10:39	小賀加入聊天
+10:39	黃子涵加入聊天
+10:39	阿輝加入聊天
+10:39	洪大象加入聊天
 10:39	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
 10:39	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
 10:39	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
@@ -47,33 +48,33 @@ Mon, 7/12/2021
 10:44	LINE小幫手-A	@汪次君 
 嗨～ 非常可惜，本屆校園競賽還是以該年度仍維持有在學學籍的同學為主（大專院校、研究所、博士學位在學皆可），如果到決賽時您已經畢業了，可能就不好意思囉～
 10:44	汪次君	好的
-10:45	LINE小幫手-A	[Sticker]
-11:17	北大-應外-Amanda joined the chat.
+10:45	LINE小幫手-A	[貼圖]
+11:17	北大-應外-Amanda加入聊天
 11:17	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
-11:51	珮姬 joined the chat.
-11:51	:-D joined the chat.
+11:51	珮姬加入聊天
+11:51	:-D加入聊天
 11:51	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
 11:51	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
 11:53	LINE小幫手-A	提醒同學加入後記得改名喔，請參考記事本置頂文章～
-12:00	Yang joined the chat.
+12:00	Yang加入聊天
 12:00	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
-12:13	臺大-財金-JR joined the chat.
+12:13	臺大-財金-JR加入聊天
 12:13	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
-12:40	Eric joined the chat.
+12:40	Eric加入聊天
 12:40	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
-14:09	淡江-經濟-Wennn joined the chat.
-14:09	東海-財金二-BRIAN joined the chat.
-14:09	成大_經濟_Cindy joined the chat.
+14:09	淡江-經濟-Wennn加入聊天
+14:09	東海-財金二-BRIAN加入聊天
+14:09	成大_經濟_Cindy加入聊天
 14:09	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
 14:09	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
 14:09	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
-14:37	政大_哲學三_陳宛妮 joined the chat.
+14:37	政大_哲學三_陳宛妮加入聊天
 14:37	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
-15:31	潘裔城 joined the chat.
+15:31	潘裔城加入聊天
 15:31	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
-16:19	台大-會計二升三-William joined the chat.
-16:19	中央/企管三/Yvonne joined the chat.
-16:19	台大-政治-Janet joined the chat.
+16:19	台大-會計二升三-William加入聊天
+16:19	中央/企管三/Yvonne加入聊天
+16:19	台大-政治-Janet加入聊天
 16:19	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
 16:19	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
 16:19	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
@@ -81,35 +82,35 @@ Mon, 7/12/2021
 17:15	LINE小幫手-A	@j 
 今年的LINE FRESH校園競賽預計不會再分組別，而是希望大家能有跨領域的合作經驗，因此在最後的成果展現會同時需要企劃簡報＋coding demo唷！
 如果你身邊有具備程式技能的朋友，歡迎揪團一起組隊參加，若沒有相關領域的朋友可，之後活動小組也將會提供協助組隊的機制，就歡迎你繼續留意我們的官方SNS平台，留意我們的活動訊息唷～
-17:18	台大-工管-Vivian joined the chat.
+17:18	台大-工管-Vivian加入聊天
 17:18	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
-17:18	阿懷 joined the chat.
+17:18	阿懷加入聊天
 17:18	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏👏
 17:21	LINE小幫手-A	(!)重要訊息(!)加入社群後請協助依照「學校-系級-姓名」做暱稱變更，宣導期後小幫手將會退出不配合命名的同學，請大家特別注意唷～謝謝(clap)
 18:31	台大-政治-Janet	謝謝！
-18:48	甜筒 joined the chat.
+18:48	甜筒加入聊天
 18:48	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Tue, 7/13/2021
-09:08	成大-資訊-Kuan joined the chat.
-09:08	Alicia joined the chat.
-09:08	北科電機Eric joined the chat.
-09:08	交大傳科所Aurora joined the chat.
-09:08	33 joined the chat.
-09:08	成大-企管-Ali joined the chat.
-09:08	國北-教經三-Jessie joined the chat.
-09:08	東海－會計－soda joined the chat.
-09:08	清大 生科 lin joined the chat.
-09:08	Mei Huang joined the chat.
-09:08	台北科大-資工四-Lambert joined the chat.
-09:08	yun joined the chat.
-09:08	NSYSU-MBA-蕭瑜垚Daniel joined the chat.
+2021/7/13（週二）
+09:08	成大-資訊-Kuan加入聊天
+09:08	Alicia加入聊天
+09:08	北科電機Eric加入聊天
+09:08	交大傳科所Aurora加入聊天
+09:08	33加入聊天
+09:08	成大-企管-Ali加入聊天
+09:08	國北-教經三-Jessie加入聊天
+09:08	東海－會計－soda加入聊天
+09:08	清大 生科 lin加入聊天
+09:08	Mei Huang加入聊天
+09:08	台北科大-資工四-Lambert加入聊天
+09:08	yun加入聊天
+09:08	NSYSU-MBA-蕭瑜垚Daniel加入聊天
 09:08	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-10:01	輔大 西文 Rosendo joined the chat.
+10:01	輔大 西文 Rosendo加入聊天
 10:01	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
@@ -121,414 +122,418 @@ Tue, 7/13/2021
 10:32	LINE小幫手-A	小幫手偷偷劇透，暑假有時間可以多上網了解LINE官方帳號，會對今年的題目發揮有大大的幫助唷 (chubby)
 10:32	台大-會計二升三-William	OK!!!
 10:32	台大-會計二升三-William	太重要的leak了
-10:34	LINE小幫手-A	[Sticker]
-11:09	酷哥 joined the chat.
+10:34	LINE小幫手-A	[貼圖]
+11:09	酷哥加入聊天
 11:09	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-11:42	北商-國商三-邦尼 joined the chat.
-11:53	台科大-四管理四-鍾馥謙 joined the chat.
+11:42	北商-國商三-邦尼加入聊天
+11:53	台科大-四管理四-鍾馥謙加入聊天
 11:53	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-12:17	yuki joined the chat.
+12:17	yuki加入聊天
 12:18	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-12:34	東吳-日文-Tracy joined the chat.
-12:34	成大-資工-CoSMos joined the chat.
+12:34	東吳-日文-Tracy加入聊天
+12:34	成大-資工-CoSMos加入聊天
 12:34	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-12:39	台大經濟Andy joined the chat.
+12:39	台大經濟Andy加入聊天
 12:39	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 12:47	LINE小幫手-A	午餐時間到囉！大家動腦想專案的同時不要忘記吃午餐！有好的營養才能讓人文思泉湧(BacBac Touch)
 也提醒還沒有變更暱稱的同學，請參考置頂公告進行變更，讓同學們更快認識你(BacBac Praise)
-13:29	政大-廣告三-Peter joined the chat.
-13:29	Darren joined the chat.
+13:29	政大-廣告三-Peter加入聊天
+13:29	Darren加入聊天
 13:29	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-14:10	Jgxnskhb joined the chat.
+14:10	Jgxnskhb加入聊天
 14:11	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-14:27	台科大-機械三丙-蔡欣芸 joined the chat.
+14:27	台科大-機械三丙-蔡欣芸加入聊天
 14:27	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-14:55	交大/資工一升二/Meow joined the chat.
+14:55	交大/資工一升二/Meow加入聊天
 14:55	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-15:28	政大_國貿三_陳溫亮 joined the chat.
+15:28	政大_國貿三_陳溫亮加入聊天
 15:28	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-16:31	逢甲-資工-Minta joined the chat.
+16:31	逢甲-資工-Minta加入聊天
 16:31	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-16:35	成大_數據所_王健安 joined the chat.
+16:35	成大_數據所_王健安加入聊天
 16:35	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-18:47	真理_人資三_花 joined the chat.
-18:47	交大-經管-卓宛俞 joined the chat.
-18:47	CCY joined the chat.
+18:47	真理_人資三_花加入聊天
+18:47	交大-經管-卓宛俞加入聊天
+18:47	CCY加入聊天
 18:47	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-19:16	台師大-科技三-李軒騰 joined the chat.
-19:16	義守大學-大傳系-林軒羽 joined the chat.
+19:16	台師大-科技三-李軒騰加入聊天
+19:16	義守大學-大傳系-林軒羽加入聊天
 19:16	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Wed, 7/14/2021
-10:14	One joined the chat.
-10:14	像奶茶一樣甜🥞 joined the chat.
-10:14	嘉大－資管－莊淳珺 joined the chat.
-10:14	台科大-電子所-查喬 joined the chat.
-10:14	NTUE-111-Erin joined the chat.
-10:14	Eric.hong joined the chat.
-10:14	中原-資管-彭冠慈 joined the chat.
-10:14	中原-資管-呂亮進 Tony joined the chat.
-10:14	東吳-財精-李明臻 joined the chat.
-10:14	培培 joined the chat.
-10:14	台科-管理四-施純陽 joined the chat.
-10:14	交大-傳科-Lu joined the chat.
-10:14	清大_計財_林羽霈 joined the chat.
+2021/7/14（週三）
+10:14	One加入聊天
+10:14	像奶茶一樣甜🥞加入聊天
+10:14	嘉大－資管－莊淳珺加入聊天
+10:14	台科大-電子所-查喬加入聊天
+10:14	NTUE-111-Erin加入聊天
+10:14	Eric.hong加入聊天
+10:14	中原-資管-彭冠慈加入聊天
+10:14	中原-資管-呂亮進 Tony加入聊天
+10:14	東吳-財精-李明臻加入聊天
+10:14	培培加入聊天
+10:14	台科-管理四-施純陽加入聊天
+10:14	交大-傳科-Lu加入聊天
+10:14	清大_計財_林羽霈加入聊天
 10:14	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-10:28	台大-財金三-鄧濬澤 joined the chat.
+10:28	台大-財金三-鄧濬澤加入聊天
 10:28	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-10:29	中興-外文-Eric joined the chat.
+10:29	中興-外文-Eric加入聊天
 10:29	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 11:07	LINE小幫手-AW	(!)重要訊息(!)各位同學大家好！加入社群後請先協助依照「學校-系級-姓名」做暱稱變更，宣導期後（預計下週一）小幫手將會退出沒有配合命名的同學，請大家特別注意唷～謝謝(clap)
-11:28	台大-工科所-YIHAN joined the chat.
+11:28	台大-工科所-YIHAN加入聊天
 11:28	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-12:01	均 joined the chat.
+12:01	均加入聊天
 12:01	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-12:27	清大-科管-Judy joined the chat.
+12:27	清大-科管-Judy加入聊天
 12:27	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-13:06	Researchain joined the chat.
+13:06	Researchain加入聊天
 13:06	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-13:21	CityU/FinTech/Brian joined the chat.
+13:21	CityU/FinTech/Brian加入聊天
 13:21	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-15:19	莫 joined the chat.
+15:19	莫加入聊天
 15:19	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-16:03	高師-軟工系-吳佳臻 joined the chat.
+16:03	高師-軟工系-吳佳臻加入聊天
 16:03	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-18:28	台大-財金一-Jamie joined the chat.
+18:28	台大-財金一-Jamie加入聊天
 18:28	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Thu, 7/15/2021
-10:06	交大-資工-邱頎霖 joined the chat.
-10:06	stuhuang joined the chat.
-10:06	台科-企研-邱紫婷 joined the chat.
-10:06	台大-財金三-Hsuan joined the chat.
-10:06	台大-經濟系-Austin joined the chat.
+2021/7/15（週四）
+10:06	交大-資工-邱頎霖加入聊天
+10:06	stuhuang加入聊天
+10:06	台科-企研-邱紫婷加入聊天
+10:06	台大-財金三-Hsuan加入聊天
+10:06	台大-財金三-Hsuan加入聊天
+10:06	台大-經濟系-Austin加入聊天
 10:06	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 10:14	LINE小幫手-AW	(!)重要訊息(!)各位同學大家早安！麻煩各位加入社群後請先協助依照「學校-系級-姓名」做暱稱變更，宣導期後（預計下週一）小幫手將會退出沒有配合命名的同學，請大家特別注意唷～謝謝(clap)
-11:23	成大-資工-cptsai joined the chat.
+11:23	成大-資工-cptsai加入聊天
 11:23	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-12:22	交大-資工-lions joined the chat.
+12:22	交大-資工-lions加入聊天
 12:22	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-13:12	政大-資管-Irene joined the chat.
+13:12	政大-資管-Irene加入聊天
 13:12	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-15:11	高師-軟工-Juan joined the chat.
+15:11	高師-軟工-Juan加入聊天
 15:11	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-16:24	逢甲-企管-沅瑾 joined the chat.
+16:24	逢甲-企管-沅瑾加入聊天
 16:24	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-16:30	臺師-地理113-鄭得人 joined the chat.
+16:30	臺師-地理113-鄭得人加入聊天
 16:30	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-16:56	LINE小幫手-LC joined the chat.
-16:56	LINE小幫手-AC joined the chat.
+16:56	LINE小幫手-LC加入聊天
+16:56	LINE小幫手-AC加入聊天
 16:56	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-17:02	LINE小幫手-EV joined the chat.
+17:02	LINE小幫手-EV加入聊天
 17:03	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-18:41	Ian 貓（上屆成員） joined the chat.
-18:41	北大＿企管＿林恩禾 joined the chat.
+18:41	Ian 貓（上屆成員）加入聊天
+18:41	北大＿企管＿林恩禾加入聊天
 18:41	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Fri, 7/16/2021
-10:10	台大-工管-Bonnie joined the chat.
-10:10	Hsuan joined the chat.
-10:10	臺大-國企二-Andrea joined the chat.
-10:10	中央-企碩二-U joined the chat.
-10:10	輔大_醫學資訊(主要資訊)3_許稚岭 joined the chat.
-10:10	銘傳-餐旅/周榮軒 joined the chat.
-10:10	台大-國企-Cathy joined the chat.
-10:10	台大_工管_Connie joined the chat.
+2021/7/16（週五）
+10:10	台大-工管-Bonnie加入聊天
+10:10	Hsuan加入聊天
+10:10	臺大-國企二-Andrea加入聊天
+10:10	中央-企碩二-U加入聊天
+10:10	輔大_醫學資訊(主要資訊)3_許稚岭加入聊天
+10:10	銘傳-餐旅/周榮軒加入聊天
+10:10	台大-國企-Cathy加入聊天
+10:10	台大_工管_Connie加入聊天
 10:10	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-15:40	高科-資管二-林澤權 joined the chat.
+15:40	高科-資管二-林澤權加入聊天
 15:40	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-15:49	清大_計財_任翊瑄 joined the chat.
+15:49	清大_計財_任翊瑄加入聊天
 15:49	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-16:45	翔 joined the chat.
+16:45	翔加入聊天
 16:45	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 17:43	LINE小幫手-MT	今天是 HAPPY FRIDAY (music note)
 愉快的週末打算疫直宅在家(house)，這時候不妨打開「LINE 熱點」體驗看看叫餐功能吧(eating)～也許這個經驗會對之後的競賽準備有意想不到的幫助喔(sparkle)
-18:14	政大_風管_Justin joined the chat.
+18:14	政大_風管_Justin加入聊天
 18:14	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Mon, 7/19/2021
-09:54	Angela joined the chat.
-09:54	中央-資工所-Jason joined the chat.
-09:54	Sashaaa joined the chat.
-09:54	臺大-財金一-陳吟珍 joined the chat.
-09:54	政大-企管-Eric joined the chat.
-09:54	政大-歐語-陳葳芃 joined the chat.
-09:54	輔大-心理三-廖怡鈞 joined the chat.
-09:54	Ruiiii joined the chat.
-09:54	Jason joined the chat.
-09:54	政大 企管 Celia joined the chat.
-09:54	我的豆花30塊 joined the chat.
-09:54	孝璇 joined the chat.
-09:54	政大-企研碩一-張芷瑄 joined the chat.
-09:54	中央-資管二-小颯 joined the chat.
-09:54	張喻婷 joined the chat.
-09:54	Ray H. joined the chat.
-09:54	羊羊 joined the chat.
-09:54	淡大-西班牙文三-陳昀 joined the chat.
-09:54	世新-公廣-JU joined the chat.
-09:54	政大—風管三—阮亦伶 joined the chat.
-09:54	北大-企管四-黃紋芸 joined the chat.
-09:54	成大-台文-圍巾 joined the chat.
-09:54	成大-經濟-lilin joined the chat.
-09:54	sapling joined the chat.
-09:54	政大-資管-Chloe joined the chat.
+2021/7/19（週一）
+09:54	Angela加入聊天
+09:54	中央-資工所-Jason加入聊天
+09:54	中央-資工所-Jason加入聊天
+09:54	Sashaaa加入聊天
+09:54	臺大-財金一-陳吟珍加入聊天
+09:54	政大-企管-Eric加入聊天
+09:54	政大-歐語-陳葳芃加入聊天
+09:54	輔大-心理三-廖怡鈞加入聊天
+09:54	Ruiiii加入聊天
+09:54	Jason加入聊天
+09:54	政大 企管 Celia加入聊天
+09:54	我的豆花30塊加入聊天
+09:54	孝璇加入聊天
+09:54	政大-企研碩一-張芷瑄加入聊天
+09:54	中央-資管二-小颯加入聊天
+09:54	張喻婷加入聊天
+09:54	Ray H.加入聊天
+09:54	羊羊加入聊天
+09:54	淡大-西班牙文三-陳昀加入聊天
+09:54	世新-公廣-JU加入聊天
+09:54	政大—風管三—阮亦伶加入聊天
+09:54	北大-企管四-黃紋芸加入聊天
+09:54	成大-台文-圍巾加入聊天
+09:54	成大-經濟-lilin加入聊天
+09:54	sapling加入聊天
+09:54	政大-資管-Chloe加入聊天
 09:54	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 10:12	LINE小幫手-AW	(!)重要訊息(!)各位同學早安！又是新的一週，大家都準備好了嗎？再次提醒大家，麻煩各位加入社群後請先協助依照「學校-系級-姓名」做暱稱變更，今天中午開始，小幫手將會退出沒有配合命名的同學，請大家特別注意唷～謝謝🙏
-12:50	阿輝 was banned from the OpenChat by LINE小幫手-MT.
-12:52	33 was banned from the OpenChat by LINE小幫手-MT.
-12:52	:-D was banned from the OpenChat by LINE小幫手-MT.
-12:52	Alicia was banned from the OpenChat by LINE小幫手-MT.
-12:52	Angela was banned from the OpenChat by LINE小幫手-MT.
-12:52	Darren was banned from the OpenChat by LINE小幫手-MT.
-12:52	Eric.hong was banned from the OpenChat by LINE小幫手-MT.
+12:50	LINE小幫手-MT已將阿輝強制退出社群。
+12:52	LINE小幫手-MT已將33強制退出社群。
+12:52	LINE小幫手-MT已將:-D強制退出社群。
+12:52	LINE小幫手-MT已將Alicia強制退出社群。
+12:52	LINE小幫手-MT已將Angela強制退出社群。
+12:52	LINE小幫手-MT已將Darren強制退出社群。
+12:52	LINE小幫手-MT已將Eric.hong強制退出社群。
 12:55	LINE小幫手-AW	各位同學午安，我們現在開始做退出沒有配合命名同學的動作，請大家了解體諒，若之後有興趣者還是可以依照規範重新加入此社群，謝謝！
-12:56	Hsuan was banned from the OpenChat by LINE小幫手-MT.
-12:56	Ian 貓（上屆成員） was banned from the OpenChat by LINE小幫手-MT.
-12:56	Jason was banned from the OpenChat by LINE小幫手-MT.
-12:56	One was banned from the OpenChat by LINE小幫手-MT.
-12:56	Ray H. was banned from the OpenChat by LINE小幫手-MT.
-12:57	Ruiiii was banned from the OpenChat by LINE小幫手-MT.
-12:57	sapling was banned from the OpenChat by LINE小幫手-MT.
-12:57	Sashaaa was banned from the OpenChat by LINE小幫手-MT.
-12:57	stuhuang was banned from the OpenChat by LINE小幫手-MT.
-12:57	Yang was banned from the OpenChat by LINE小幫手-MT.
-12:57	yun was banned from the OpenChat by LINE小幫手-MT.
-12:57	像奶茶一樣甜🥞 was banned from the OpenChat by LINE小幫手-MT.
-12:57	均 was banned from the OpenChat by LINE小幫手-MT.
-12:57	孝璇 was banned from the OpenChat by LINE小幫手-MT.
-12:57	小賀 was banned from the OpenChat by LINE小幫手-MT.
-12:57	張喻婷 was banned from the OpenChat by LINE小幫手-MT.
-12:57	我的豆花30塊 was banned from the OpenChat by LINE小幫手-MT.
-12:58	汪次君 was banned from the OpenChat by LINE小幫手-MT.
-12:58	洪大象 was banned from the OpenChat by LINE小幫手-MT.
-12:58	珮姬 was banned from the OpenChat by LINE小幫手-MT.
-12:58	甜筒 was banned from the OpenChat by LINE小幫手-MT.
-12:58	羊羊 was banned from the OpenChat by LINE小幫手-MT.
-12:58	翔 was banned from the OpenChat by LINE小幫手-MT.
-12:58	莫 was banned from the OpenChat by LINE小幫手-MT.
-12:58	郁芬 was banned from the OpenChat by LINE小幫手-MT.
-12:58	酷哥 was banned from the OpenChat by LINE小幫手-MT.
-12:58	阿懷 was banned from the OpenChat by LINE小幫手-MT.
-12:58	黃子涵 was banned from the OpenChat by LINE小幫手-MT.
-13:01	Angela joined the chat.
+12:56	LINE小幫手-MT已將Hsuan強制退出社群。
+12:56	LINE小幫手-MT已將Ian 貓（上屆成員）強制退出社群。
+12:56	LINE小幫手-MT已將Jason強制退出社群。
+12:56	LINE小幫手-MT已將One強制退出社群。
+12:56	LINE小幫手-MT已將Ray H.強制退出社群。
+12:57	LINE小幫手-MT已將Ruiiii強制退出社群。
+12:57	LINE小幫手-MT已將sapling強制退出社群。
+12:57	LINE小幫手-MT已將Sashaaa強制退出社群。
+12:57	LINE小幫手-MT已將stuhuang強制退出社群。
+12:57	LINE小幫手-MT已將Yang強制退出社群。
+12:57	LINE小幫手-MT已將yun強制退出社群。
+12:57	LINE小幫手-MT已將像奶茶一樣甜🥞強制退出社群。
+12:57	LINE小幫手-MT已將均強制退出社群。
+12:57	LINE小幫手-MT已將孝璇強制退出社群。
+12:57	LINE小幫手-MT已將小賀強制退出社群。
+12:57	LINE小幫手-MT已將張喻婷強制退出社群。
+12:57	LINE小幫手-MT已將我的豆花30塊強制退出社群。
+12:58	LINE小幫手-MT已將汪次君強制退出社群。
+12:58	LINE小幫手-MT已將洪大象強制退出社群。
+12:58	LINE小幫手-MT已將洪大象強制退出社群。
+12:58	LINE小幫手-MT已將珮姬強制退出社群。
+12:58	LINE小幫手-MT已將甜筒強制退出社群。
+12:58	LINE小幫手-MT已將羊羊強制退出社群。
+12:58	LINE小幫手-MT已將翔強制退出社群。
+12:58	LINE小幫手-MT已將莫強制退出社群。
+12:58	LINE小幫手-MT已將郁芬強制退出社群。
+12:58	LINE小幫手-MT已將酷哥強制退出社群。
+12:58	LINE小幫手-MT已將阿懷強制退出社群。
+12:58	LINE小幫手-MT已將黃子涵強制退出社群。
+13:01	Angela加入聊天
 13:01	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-13:04	暨大-國企三-王芊云 joined the chat.
+13:04	暨大-國企三-王芊云加入聊天
 13:04	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 13:10	Angela	抱歉~我是早上才剛被加入群組的，只是中午才收到通知要改名字，就被移出了><
 13:16	LINE小幫手-AW	不好意思請見諒喔～勞煩您再次加入了！這邊也再次提醒 Angela，方便的話幫我們順手改暱稱唷～謝謝 🙏
-14:02	政大-國貿二-李叡 joined the chat.
+14:02	政大-國貿二-李叡加入聊天
 14:02	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-15:02	清大-計財23-伍柏宇 joined the chat.
+15:02	清大-計財23-伍柏宇加入聊天
 15:02	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-15:17	政大企管蔡昀芯 joined the chat.
+15:17	政大企管蔡昀芯加入聊天
 15:17	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-16:55	銘傳-財金-均 joined the chat.
-16:55	政大-財政-謝于燕 joined the chat.
-16:55	yu-xin joined the chat.
+16:55	銘傳-財金-均加入聊天
+16:55	政大-財政-謝于燕加入聊天
+16:55	yu-xin加入聊天
 16:55	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Tue, 7/20/2021
-10:27	長庚-資管三-Pan joined the chat.
-10:27	臺大-電機三-Yu joined the chat.
-10:27	成大-系統112-周呈陽 joined the chat.
-10:27	台大-國企二-家葳 joined the chat.
-10:27	台大-國企三-黃欣妤 joined the chat.
-10:27	成大-醫工-Daniel joined the chat.
-10:27	台大-電機-子易 joined the chat.
+2021/7/20（週二）
+10:27	長庚-資管三-Pan加入聊天
+10:27	臺大-電機三-Yu加入聊天
+10:27	成大-系統112-周呈陽加入聊天
+10:27	台大-國企二-家葳加入聊天
+10:27	台大-國企三-黃欣妤加入聊天
+10:27	成大-醫工-Daniel加入聊天
+10:27	台大-電機-子易加入聊天
 10:27	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-11:00	中央-資管-Daniel joined the chat.
+11:00	中央-資管-Daniel加入聊天
 11:00	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-15:56	Christiana joined the chat.
+15:56	Christiana加入聊天
 15:56	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-17:18	政大-資管-謝承霖 joined the chat.
+17:18	政大-資管-謝承霖加入聊天
 17:18	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-17:39	政大-資管-Mic joined the chat.
+17:39	政大-資管-Mic加入聊天
 17:39	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-18:44	L.F.J. joined the chat.
+18:44	L.F.J.加入聊天
 18:44	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-18:53	清大-心諮23-鄭欣晨 joined the chat.
+18:53	清大-心諮23-鄭欣晨加入聊天
 18:53	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-19:00	清大-科管24-yoyo joined the chat.
+19:00	清大-科管24-yoyo加入聊天
 19:00	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Wed, 7/21/2021
-10:28	清大-電資-Hanson joined the chat.
-10:28	芝麻湯圓 joined the chat.
-10:28	ting joined the chat.
-10:28	中央-企管-Chcha joined the chat.
+2021/7/21（週三）
+10:28	清大-電資-Hanson加入聊天
+10:28	芝麻湯圓加入聊天
+10:28	ting加入聊天
+10:28	ting加入聊天
+10:28	中央-企管-Cheng加入聊天
 10:28	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 12:15	LINE小幫手-MT	(!!!)重要訊息
 各位同學午安～提醒大家加入社群後要依照「學校-系級-姓名」做暱稱變更哦(wave)
 今天晚上18:00開始，小幫手將會退出沒有變更命名的同學，請尚未協助更名的同學特別留意囉～感謝您的配合(bow)
-15:59	政大_歐語_許翰天 joined the chat.
+15:59	政大_歐語_許翰天加入聊天
 15:59	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-16:09	陽明交通_醫學_Jasmin joined the chat.
+16:09	陽明交通_醫學_Jasmin加入聊天
 16:09	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-16:32	台大-政治-林孝璇 joined the chat.
+16:32	台大-政治-林孝璇加入聊天
 16:32	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-18:01	中央-資管-Derek joined the chat.
+18:01	中央-資管-Derek加入聊天
 18:01	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-18:30	芝麻湯圓 was banned from the OpenChat by LINE小幫手-MT.
-18:30	ting was banned from the OpenChat by LINE小幫手-MT.
-18:30	Christiana was banned from the OpenChat by LINE小幫手-MT.
-18:31	Angela was banned from the OpenChat by LINE小幫手-MT.
+18:30	LINE小幫手-MT已將芝麻湯圓強制退出社群。
+18:30	LINE小幫手-MT已將ting強制退出社群。
+18:30	LINE小幫手-MT已將Christiana強制退出社群。
+18:31	LINE小幫手-MT已將Angela強制退出社群。
 
-Thu, 7/22/2021
-10:00	中原-心理二甲-侯旻昕 joined the chat.
-10:00	台科-資工三-薛晨 joined the chat.
-10:00	宜大-經濟-Sheila joined the chat.
-10:00	Rrrr joined the chat.
-10:00	東吳-企管-李芷儀 joined the chat.
-10:00	清華大學-科技管理-劉世允 joined the chat.
-10:00	Ting joined the chat.
+2021/7/22（週四）
+10:00	中原-心理二甲-侯旻昕加入聊天
+10:00	台科-資工三-薛晨加入聊天
+10:00	宜大-經濟-Sheila加入聊天
+10:00	Rrrr加入聊天
+10:00	東吳-企管-李芷儀加入聊天
+10:00	清華大學-科技管理-劉世允加入聊天
+10:00	Ting加入聊天
 10:00	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-10:00	北商-資管-J joined the chat.
+10:00	北商-資管-J加入聊天
 10:00	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-10:34	中科大-保金-Warm joined the chat.
-10:34	清華大學-電資-hwc joined the chat.
-10:34	簡 joined the chat.
+10:34	中科大-保金-Warm加入聊天
+10:34	清華大學-電資-hwc加入聊天
+10:34	簡加入聊天
 10:34	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-11:04	交大-傳科-An joined the chat.
+11:04	交大-傳科-An加入聊天
 11:04	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-12:00	淡江-財金-王湘寧 joined the chat.
+12:00	淡江-財金-王湘寧加入聊天
 12:01	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-12:11	臺大 生傳 Angela Wang joined the chat.
+12:11	臺大 生傳 Angela Wang加入聊天
 12:11	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-13:14	政大-土文四-彭安慈 joined the chat.
-13:14	交大-資工-Yucheng joined the chat.
-13:14	北科-土木-野狼同學 joined the chat.
+13:14	政大-土文四-彭安慈加入聊天
+13:14	交大-資工-Yucheng加入聊天
+13:14	北科-土木-野狼同學加入聊天
 13:14	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
@@ -541,84 +546,85 @@ https://lin.ee/V2ekwZy/yltz
 另外～小幫手也已經將比賽相關常見問題與解答新增到記事本裡面囉(hands forming heart)
 請大家多多利用(green book)
 有任何問題也歡迎在這裡交流討論哦(moon wink)
-13:39	世新-公廣-ting joined the chat.
+13:39	世新-公廣-ting加入聊天
 13:39	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-14:43	威 joined the chat.
+14:43	威加入聊天
 14:43	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-16:14	交大-資工-黃建豪 joined the chat.
-16:14	東吳-經濟-Rita joined the chat.
+16:14	交大-資工-黃建豪加入聊天
+16:14	東吳-國貿-Luby加入聊天
 16:14	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-16:16	中央-企管-p joined the chat.
+16:16	NCU-BA-p加入聊天
+16:16	NCU-BA-p加入聊天
 16:16	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-17:02	噗噗 joined the chat.
+17:02	噗噗加入聊天
 17:02	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-17:42	台科-資工-鄭文翔 joined the chat.
+17:42	台科-資工-鄭文翔加入聊天
 17:42	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Fri, 7/23/2021
-10:01	輔大-經濟-Jason joined the chat.
-10:01	北護-資管三-黃文譽 joined the chat.
-10:01	Angel joined the chat.
-10:01	中興-資工四-Tomy joined the chat.
-10:01	Miseey joined the chat.
-10:01	Alia joined the chat.
-10:01	螺絲 joined the chat.
-10:01	Nini joined the chat.
-10:01	中原-工工-sola joined the chat.
-10:01	yichennn joined the chat.
-10:01	北科-土木-jt joined the chat.
-10:01	mumy joined the chat.
-10:01	UIUC-IE-Lisa joined the chat.
-10:01	老公公 joined the chat.
-10:01	博士 joined the chat.
+2021/7/23（週五）
+10:01	輔大-經濟-Jason加入聊天
+10:01	北護-資管三-黃文譽加入聊天
+10:01	Angel加入聊天
+10:01	中興-資工四-Tomy加入聊天
+10:01	Miseey加入聊天
+10:01	Alia加入聊天
+10:01	螺絲加入聊天
+10:01	Nini加入聊天
+10:01	中原-工工-sola加入聊天
+10:01	yichennn加入聊天
+10:01	北科-土木-jt加入聊天
+10:01	mumy加入聊天
+10:01	UIUC-IE-Lisa加入聊天
+10:01	老公公加入聊天
+10:01	博士加入聊天
 10:01	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-11:58	逢甲-企管-幸岑 joined the chat.
-11:58	Lisa joined the chat.
-11:58	中央－通訊－張薷云 joined the chat.
-11:58	Wenchun joined the chat.
-11:58	長庚-保營-LING joined the chat.
-11:58	77 joined the chat.
+11:58	逢甲-企管-幸岑加入聊天
+11:58	Lisa加入聊天
+11:58	中央－通訊－張薷云加入聊天
+11:58	Wenchun加入聊天
+11:58	長庚-保營-LING加入聊天
+11:58	77加入聊天
 11:58	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-12:10	佛光-管理-歐香伶 joined the chat.
+12:10	佛光-管理-歐香伶加入聊天
 12:10	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-12:21	adnil joined the chat.
+12:21	adnil加入聊天
 12:21	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-12:35	東吳-企管-Teresa joined the chat.
+12:35	東吳-企管-Teresa加入聊天
 12:35	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-14:37	___ joined the chat.
-14:37	Ruby Liao joined the chat.
-14:37	台大-生科-Bruce joined the chat.
-14:37	阿月 joined the chat.
+14:37	___加入聊天
+14:37	Ruby Liao加入聊天
+14:37	台大-生科-朝陽加入聊天
+14:37	阿月加入聊天
 14:37	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-14:54	Emily joined the chat.
+14:54	Emily加入聊天
 14:54	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-15:37	交大-管科-翊榛 joined the chat.
+15:37	交大-管科-翊榛加入聊天
 15:37	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
@@ -633,169 +639,171 @@ Fri, 7/23/2021
 17:17	LINE小幫手-MT	嗨～Bruce(yay)如果你的朋友是應屆畢業生，且在報名期間（9月開始）已有大專院校學籍，就有符合參賽資格，歡迎他報名參加哦～(thumbs up)
 詳細的參賽資格也有放在記事本的常見問題集裡了，歡迎去查看唷～
 17:45	台大-生科-朝陽	好的謝謝喔
-18:12	77 was banned from the OpenChat by LINE小幫手-MT.
-18:12	adnil was banned from the OpenChat by LINE小幫手-MT.
-18:12	Alia was banned from the OpenChat by LINE小幫手-MT.
-18:12	Angel was banned from the OpenChat by LINE小幫手-MT.
-18:12	Emily was banned from the OpenChat by LINE小幫手-MT.
-18:13	Lisa was banned from the OpenChat by LINE小幫手-MT.
-18:13	Miseey was banned from the OpenChat by LINE小幫手-MT.
-18:13	mumy was banned from the OpenChat by LINE小幫手-MT.
-18:13	Nini was banned from the OpenChat by LINE小幫手-MT.
-18:13	Rrrr was banned from the OpenChat by LINE小幫手-MT.
-18:13	Ruby Liao was banned from the OpenChat by LINE小幫手-MT.
-18:13	Wenchun was banned from the OpenChat by LINE小幫手-MT.
-18:13	yichennn was banned from the OpenChat by LINE小幫手-MT.
-18:13	博士 was banned from the OpenChat by LINE小幫手-MT.
-18:13	威 was banned from the OpenChat by LINE小幫手-MT.
-18:14	簡 was banned from the OpenChat by LINE小幫手-MT.
-18:14	老公公 was banned from the OpenChat by LINE小幫手-MT.
-18:14	螺絲 was banned from the OpenChat by LINE小幫手-MT.
-18:14	阿月 was banned from the OpenChat by LINE小幫手-MT.
-18:17	Nickname joined the chat.
-18:17	嘉大-教育-Xu joined the chat.
-18:17	淩 joined the chat.
-18:17	Sunnnnn joined the chat.
-18:17	交大-管科-于婷 joined the chat.
-18:17	彰師 公育 小豬 joined the chat.
-18:17	高大-資管-胡雅涵 joined the chat.
-18:17	基隆女中 蔡昕穎 joined the chat.
-18:17	南華-視設-ㄚ寶 joined the chat.
+18:12	LINE小幫手-MT已將77強制退出社群。
+18:12	LINE小幫手-MT已將77強制退出社群。
+18:12	LINE小幫手-MT已將adnil強制退出社群。
+18:12	LINE小幫手-MT已將Alia強制退出社群。
+18:12	LINE小幫手-MT已將Angel強制退出社群。
+18:12	LINE小幫手-MT已將Emily強制退出社群。
+18:13	LINE小幫手-MT已將Lisa強制退出社群。
+18:13	LINE小幫手-MT已將Miseey強制退出社群。
+18:13	LINE小幫手-MT已將mumy強制退出社群。
+18:13	LINE小幫手-MT已將Nini強制退出社群。
+18:13	LINE小幫手-MT已將Rrrr強制退出社群。
+18:13	LINE小幫手-MT已將Ruby Liao強制退出社群。
+18:13	LINE小幫手-MT已將Wenchun強制退出社群。
+18:13	LINE小幫手-MT已將yichennn強制退出社群。
+18:13	LINE小幫手-MT已將博士強制退出社群。
+18:13	LINE小幫手-MT已將威強制退出社群。
+18:14	LINE小幫手-MT已將簡強制退出社群。
+18:14	LINE小幫手-MT已將老公公強制退出社群。
+18:14	LINE小幫手-MT已將螺絲強制退出社群。
+18:14	LINE小幫手-MT已將阿月強制退出社群。
+18:17	Nickname加入聊天
+18:17	嘉大-教育-Xu加入聊天
+18:17	淩加入聊天
+18:17	Sunnnnn加入聊天
+18:17	交大-管科-于婷加入聊天
+18:17	彰師 公育 小豬加入聊天
+18:17	高大-資管-胡雅涵加入聊天
+18:17	基隆女中 蔡昕穎加入聊天
+18:17	南華-視設-ㄚ寶加入聊天
 18:17	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-18:17	台師大-設計111-莊宜蓁 joined the chat.
+18:17	台師大-設計111-莊宜蓁加入聊天
 18:17	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-18:17	清大-資工-Wei joined the chat.
+18:17	清大-資工-Wei加入聊天
 18:18	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-18:22	朝陽科大-工設2-珮翎 joined the chat.
+18:22	朝陽科大-工設2-珮翎加入聊天
 18:22	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-18:56	Ping joined the chat.
-18:56	🈹️🈹️🈵️🈶️ joined the chat.
-18:56	成大-工設-Murph joined the chat.
+18:56	Ping加入聊天
+18:56	🈹️🈹️🈵️🈶️加入聊天
+18:56	成大-工設-Murph加入聊天
 18:56	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Mon, 7/26/2021
-10:02	台大-國企-施若謙 joined the chat.
-10:02	Aurelia_Chang(張伃姍) joined the chat.
-10:02	屏科大-木設系-Chieh joined the chat.
-10:02	清大-科管-Erica joined the chat.
-10:02	CHU-CSIE-盧昱達 joined the chat.
-10:02	張開聞 joined the chat.
-10:02	Coco joined the chat.
-10:02	Sherry joined the chat.
-10:02	中國醫-藥妝-amber joined the chat.
-10:02	Lynn joined the chat.
-10:02	中山-企管-Fiona joined the chat.
-10:02	高師大-軟體三-蘇穎珊 joined the chat.
-10:02	政大國貿林佐融 joined the chat.
-10:02	東海-國貿-Hazel joined the chat.
-10:02	孫 joined the chat.
-10:02	台科-資工-承武 joined the chat.
-10:02	北商-創科-Dd joined the chat.
-10:02	龍曼 joined the chat.
-10:02	明新-幼保-優格 joined the chat.
-10:02	淑文 joined the chat.
-10:02	貝拉 joined the chat.
-10:02	逢甲-資工-羅可晴 joined the chat.
-10:02	高師大-軟體三-許文君 joined the chat.
-10:02	金大 企管 邱玄睿 joined the chat.
-10:02	屏科大-餐旅四-Vanessa joined the chat.
-10:02	NUU-109CSIE-康康 joined the chat.
+2021/7/26（週一）
+10:02	台大-國企-施若謙加入聊天
+10:02	Aurelia_Chang(張伃姍)加入聊天
+10:02	屏科大-木設系-Chieh加入聊天
+10:02	清大-科管-Erica加入聊天
+10:02	CHU-CSIE-盧昱達加入聊天
+10:02	張開聞加入聊天
+10:02	Coco加入聊天
+10:02	Sherry加入聊天
+10:02	中國醫-藥妝-amber加入聊天
+10:02	Lynn加入聊天
+10:02	中山-企管-Fiona加入聊天
+10:02	中山-企管-Fiona加入聊天
+10:02	高師大-軟體三-蘇穎珊加入聊天
+10:02	政大-國貿-Jayden加入聊天
+10:02	東海-國貿-Hazel加入聊天
+10:02	孫加入聊天
+10:02	台科-資工-承武加入聊天
+10:02	NTUB-CTD-Dd加入聊天
+10:02	龍曼加入聊天
+10:02	明新-幼保-優格加入聊天
+10:02	淑文加入聊天
+10:02	貝拉加入聊天
+10:02	逢甲-資工-羅可晴加入聊天
+10:02	高師大-軟體三-許文君加入聊天
+10:02	金大 企管 邱玄睿加入聊天
+10:02	屏科大-餐旅四-Vanessa加入聊天
+10:02	NUU-109CSIE-康康加入聊天
 10:02	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-10:03	JS🐺 joined the chat.
+10:03	JS🐺加入聊天
 10:03	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-10:13	高師大 -軟體三-Chenp6 joined the chat.
+10:13	高師大 -軟體三-Chenp6加入聊天
 10:13	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-11:46	銘傳-資傳-江 joined the chat.
+11:46	銘傳-資傳-江加入聊天
 11:46	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-12:59	淑文	[Sticker]
-13:01	LINE小幫手-AW	[Sticker]
-18:08	世新-資傳-peter joined the chat.
+12:59	淑文	[貼圖]
+13:01	LINE小幫手-AW	[貼圖]
+18:08	世新-資傳-peter加入聊天
 18:08	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-18:49	清大-資工-Genevieve joined the chat.
+18:49	清大-資工-Genevieve加入聊天
 18:49	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-18:51	中興-資管-Joker joined the chat.
+18:51	中興-資管-Joker加入聊天
 18:51	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Tue, 7/27/2021
-12:23	清大-數學23-Webb joined the chat.
-12:23	中山-光電-Ralph joined the chat.
-12:23	Timmy joined the chat.
+2021/7/27（週二）
+12:23	清大-數學23-Webb加入聊天
+12:23	中山-光電-Ralph加入聊天
+12:23	Timmy加入聊天
 12:23	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-12:51	高科-資工-Jason joined the chat.
+12:51	高科-資工-Jason加入聊天
 12:51	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-16:48	淡江-資工所-邱炫宸 joined the chat.
-16:48	北科大-智動科-Francis joined the chat.
-16:48	☁️☁️ joined the chat.
-16:48	Kr1s joined the chat.
+16:48	淡江-資工所-邱炫宸加入聊天
+16:48	北科大-智動科-Francis加入聊天
+16:48	☁️☁️加入聊天
+16:48	Kr1s加入聊天
 16:48	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-19:07	北醫-醫管-Steven joined the chat.
+19:07	北醫-醫管-Steven加入聊天
 19:07	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Wed, 7/28/2021
-10:52	東華-資管-林暐翰 joined the chat.
-10:52	成大-醫學-王棋暐 joined the chat.
+2021/7/28（週三）
+10:52	東華-資管-林暐翰加入聊天
+10:52	成大-醫學-王棋暐加入聊天
 10:52	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-16:06	魚 joined the chat.
-16:06	東華-資管-張汶綺 joined the chat.
+16:06	魚加入聊天
+16:06	東華-資管-張汶綺加入聊天
 16:06	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Thu, 7/29/2021
-10:57	政大-資科-惠品嘉 joined the chat.
-10:57	輔大－金企－tanya joined the chat.
-10:57	台大-工管-tong joined the chat.
-10:57	政大-財政-張簡 joined the chat.
+2021/7/29（週四）
+10:57	政大-資科-惠品嘉加入聊天
+10:57	輔大－金企－tanya加入聊天
+10:57	台大-工管-tong加入聊天
+10:57	政大-財政-張簡加入聊天
 10:57	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-16:05	成大-會計-張家嘉 joined the chat.
-16:05	淡江-資工所-廖宏澤 joined the chat.
-16:05	成大-電機-陳立婕 joined the chat.
+16:05	成大-會計-張家嘉加入聊天
+16:05	淡江-資工所-廖宏澤加入聊天
+16:05	成大-電機-陳立婕加入聊天
 16:05	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Fri, 7/30/2021
-11:05	輔大-影傳二-陳楚涵 joined the chat.
-11:05	成大-外文-盧彥伶 joined the chat.
-11:05	CHY joined the chat.
-11:05	成大-企管-王品淇 joined the chat.
-11:05	成大-資訊-梁華軒 joined the chat.
+2021/7/30（週五）
+11:05	輔大-影傳二-陳楚涵加入聊天
+11:05	成大-外文-盧彥伶加入聊天
+11:05	CHY加入聊天
+11:05	成大-企管-王品淇加入聊天
+11:05	成大-資訊-梁華軒加入聊天
 11:05	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
@@ -811,71 +819,72 @@ Fri, 7/30/2021
 (!!!)重要提醒
 今晚 18:00開始，小幫手會退出沒有變更命名的同學，請尚未更名的同學特別留意囉～感謝您的配合(bow)
 
-Mon, 8/2/2021
-10:45	中金院-財金三-clovia joined the chat.
-10:45	清大-人社-牟懋軒 joined the chat.
-10:45	盧 joined the chat.
-10:45	PunchShadow joined the chat.
-10:45	Tim joined the chat.
-10:45	中信金-財金三-蘇琬淳 joined the chat.
-10:45	Ruby joined the chat.
-10:45	逢甲-資工-che joined the chat.
-10:45	高師大-軟體三-賴傳恩 joined the chat.
+2021/8/2（週一）
+10:45	中金院-財金三-clovia加入聊天
+10:45	清大-人社-牟懋軒加入聊天
+10:45	盧加入聊天
+10:45	PunchShadow加入聊天
+10:45	Tim加入聊天
+10:45	中信金-財金三-蘇琬淳加入聊天
+10:45	Ruby加入聊天
+10:45	逢甲-資工-che加入聊天
+10:45	高師大-軟體三-賴傳恩加入聊天
 10:45	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-16:22	Sydney joined the chat.
-16:22	中山-碩一-陳澤勳 joined the chat.
-16:22	鬼鬼 joined the chat.
-16:22	台大-生傳-陳霽之 joined the chat.
-16:22	中正-中文-Yeh joined the chat.
+16:22	Sydney加入聊天
+16:22	中山-碩一-陳澤勳加入聊天
+16:22	鬼鬼加入聊天
+16:22	台大-生傳-陳霽之加入聊天
+16:22	中正-中文-Yeh加入聊天
 16:22	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Tue, 8/3/2021
-10:23	NTUT-CSIE-Leaf joined the chat.
-10:23	台科-資工-SHUNG joined the chat.
-10:23	高師大－軟工二－Fred joined the chat.
-10:23	NTU-CSIE-Teddy joined the chat.
-10:23	台南大學-經管三-郭凰鈺 joined the chat.
-10:23	東吳-企管-周育承 joined the chat.
-10:23	小雞 joined the chat.
-10:23	台大-工管-阿根廷 joined the chat.
-10:23	維他命C joined the chat.
-10:23	成大-企管-F joined the chat.
+2021/8/3（週二）
+10:23	NTUT-CSIE-Leaf加入聊天
+10:23	台科-資工-SHUNG加入聊天
+10:23	Fred加入聊天
+10:23	NTU-CSIE-Teddy加入聊天
+10:23	台南大學-經管三-郭凰鈺加入聊天
+10:23	東吳-企管-周育承加入聊天
+10:23	小雞加入聊天
+10:23	台大-工管-阿根廷加入聊天
+10:23	維他命C加入聊天
+10:23	成大-企管-F加入聊天
 10:23	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-12:14	南大-經管-詠琪 joined the chat.
-12:14	成功大學-企管112-連姵涵 joined the chat.
+12:14	NUTN-BM-詠琪加入聊天
+12:14	成功大學-企管112-連姵涵加入聊天
 12:14	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-18:49	Michael joined the chat.
-18:49	中興大學-企管三-粉圓 joined the chat.
-18:49	台灣大學-資工四-林義閔 joined the chat.
+18:49	Michael加入聊天
+18:49	中興大學-企管三-粉圓加入聊天
+18:49	中興大學-企管三-粉圓加入聊天
+18:49	台灣大學-資工四-林義閔加入聊天
 18:49	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Thu, 8/5/2021
-10:34	政大/科智/emily joined the chat.
-10:34	成大-電管-盧曉慧 joined the chat.
-10:34	政大-中文三-陳師駿 joined the chat.
-10:34	蘿蔔Robert joined the chat.
-10:34	Pen醬 joined the chat.
-10:34	陽明交大-資工12-李璨宇 joined the chat.
-10:34	台大-國企-張正沂 joined the chat.
-10:34	NTHU-hongyun joined the chat.
-10:34	德明-財金-溫祐葦 joined the chat.
+2021/8/5（週四）
+10:34	政大/科智/emily加入聊天
+10:34	成大-電管-盧曉慧加入聊天
+10:34	政大-中文三-陳師駿加入聊天
+10:34	蘿蔔Robert加入聊天
+10:34	Pen醬加入聊天
+10:34	陽明交大-資工12-李璨宇加入聊天
+10:34	台大-國企-張正沂加入聊天
+10:34	NTHU-hongyun加入聊天
+10:34	德明-財金-溫祐葦加入聊天
 10:35	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Fri, 8/6/2021
-10:37	中教-國企-張翊虔 joined the chat.
-10:37	OD joined the chat.
+2021/8/6（週五）
+10:37	中教-國企-張翊虔加入聊天
+10:37	OD加入聊天
 10:37	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
@@ -887,94 +896,95 @@ Fri, 8/6/2021
 
 (!!!)重要提醒
 今晚 18:00開始，小幫手會退出沒有變更命名的同學，請尚未更名的同學特別留意囉～感謝您的配合(moon big smile)
-21:57	Aurelia_Chang(張伃姍) was banned from the OpenChat by LINE小幫手-MT.
-21:58	CHY was banned from the OpenChat by LINE小幫手-MT.
-21:58	Coco was banned from the OpenChat by LINE小幫手-MT.
-21:58	JS🐺 was banned from the OpenChat by LINE小幫手-MT.
-21:58	Kr1s was banned from the OpenChat by LINE小幫手-MT.
-21:58	Lynn was banned from the OpenChat by LINE小幫手-MT.
-21:58	Michael was banned from the OpenChat by LINE小幫手-MT.
-21:58	Nickname was banned from the OpenChat by LINE小幫手-MT.
-21:58	OD was banned from the OpenChat by LINE小幫手-MT.
-21:58	Pen醬 was banned from the OpenChat by LINE小幫手-MT.
-21:58	PunchShadow was banned from the OpenChat by LINE小幫手-MT.
-21:58	Ruby was banned from the OpenChat by LINE小幫手-MT.
-21:58	Sherry was banned from the OpenChat by LINE小幫手-MT.
-21:59	Sunnnnn was banned from the OpenChat by LINE小幫手-MT.
-21:59	Sydney was banned from the OpenChat by LINE小幫手-MT.
-21:59	Timmy was banned from the OpenChat by LINE小幫手-MT.
-21:59	☁️☁️ was banned from the OpenChat by LINE小幫手-MT.
-21:59	孫 was banned from the OpenChat by LINE小幫手-MT.
-21:59	小雞 was banned from the OpenChat by LINE小幫手-MT.
-21:59	張開聞 was banned from the OpenChat by LINE小幫手-MT.
-21:59	淑文 was banned from the OpenChat by LINE小幫手-MT.
-21:59	盧 was banned from the OpenChat by LINE小幫手-MT.
-22:00	維他命C was banned from the OpenChat by LINE小幫手-MT.
-22:00	蘿蔔Robert was banned from the OpenChat by LINE小幫手-MT.
-22:00	貝拉 was banned from the OpenChat by LINE小幫手-MT.
-22:00	鬼鬼 was banned from the OpenChat by LINE小幫手-MT.
-22:00	魚 was banned from the OpenChat by LINE小幫手-MT.
-22:00	🈹️🈹️🈵️🈶️ was banned from the OpenChat by LINE小幫手-MT.
-22:00	Tim was banned from the OpenChat by LINE小幫手-MT.
+21:57	LINE小幫手-MT已將Aurelia_Chang(張伃姍)強制退出社群。
+21:58	LINE小幫手-MT已將CHY強制退出社群。
+21:58	LINE小幫手-MT已將Coco強制退出社群。
+21:58	LINE小幫手-MT已將JS🐺強制退出社群。
+21:58	LINE小幫手-MT已將Kr1s強制退出社群。
+21:58	LINE小幫手-MT已將Lynn強制退出社群。
+21:58	LINE小幫手-MT已將Michael強制退出社群。
+21:58	LINE小幫手-MT已將Nickname強制退出社群。
+21:58	LINE小幫手-MT已將OD強制退出社群。
+21:58	LINE小幫手-MT已將Pen醬強制退出社群。
+21:58	LINE小幫手-MT已將PunchShadow強制退出社群。
+21:58	LINE小幫手-MT已將Ruby強制退出社群。
+21:58	LINE小幫手-MT已將Sherry強制退出社群。
+21:59	LINE小幫手-MT已將Sunnnnn強制退出社群。
+21:59	LINE小幫手-MT已將Sydney強制退出社群。
+21:59	LINE小幫手-MT已將Timmy強制退出社群。
+21:59	LINE小幫手-MT已將☁️☁️強制退出社群。
+21:59	LINE小幫手-MT已將孫強制退出社群。
+21:59	LINE小幫手-MT已將小雞強制退出社群。
+21:59	LINE小幫手-MT已將張開聞強制退出社群。
+21:59	LINE小幫手-MT已將淑文強制退出社群。
+21:59	LINE小幫手-MT已將盧強制退出社群。
+22:00	LINE小幫手-MT已將維他命C強制退出社群。
+22:00	LINE小幫手-MT已將蘿蔔Robert強制退出社群。
+22:00	LINE小幫手-MT已將貝拉強制退出社群。
+22:00	LINE小幫手-MT已將鬼鬼強制退出社群。
+22:00	LINE小幫手-MT已將魚強制退出社群。
+22:00	LINE小幫手-MT已將🈹️🈹️🈵️🈶️強制退出社群。
+22:00	LINE小幫手-MT已將Tim強制退出社群。
 
-Mon, 8/9/2021
-10:54	Chloe💫👌❤ joined the chat.
-10:54	佩姬 joined the chat.
-10:54	中興大學-企管三-洪伯瑄 joined the chat.
-10:54	台科大-四管理二-彭元 joined the chat.
-10:54	台大-工管-張荔荃 joined the chat.
-10:54	南藝大-藝史四-Robertson joined the chat.
-10:54	Bay joined the chat.
-10:54	清大-心諮大三-林宜德 joined the chat.
-10:54	勤益-企管-洪貽莙 joined the chat.
-10:54	台大_圖資 Zowie joined the chat.
-10:54	台科大-商設-玉書 joined the chat.
-10:54	北科大-資工系碩二-林哲立 joined the chat.
-10:54	勤益科大-企管三-施存恩 joined the chat.
-10:54	SH. joined the chat.
-10:54	NCKU-CSIE-DilrabaFan joined the chat.
-10:54	Harper joined the chat.
-10:54	元智-管院英專-陳怡樺 joined the chat.
-10:54	東華-觀遊-簡禧 joined the chat.
-10:54	東華-資管-王嬿甯 joined the chat.
-10:54	NTUST-CSIE-韓悅華 joined the chat.
-10:54	Clare joined the chat.
-10:54	逢甲-資工-李柏村 joined the chat.
+2021/8/9（週一）
+10:54	Chloe💫👌❤加入聊天
+10:54	佩姬加入聊天
+10:54	中興大學-企管三-洪伯瑄加入聊天
+10:54	中興大學-企管三-洪伯瑄加入聊天
+10:54	台科大-四管理二-彭元加入聊天
+10:54	台大-工管-張荔荃加入聊天
+10:54	南藝大-藝史四-Robertson加入聊天
+10:54	清大-心諮大三-林宜德加入聊天
+10:54	Bay加入聊天
+10:54	勤益-企管-洪貽莙加入聊天
+10:54	台大_圖資 Zowie加入聊天
+10:54	SH.加入聊天
+10:54	勤益科大-企管三-施存恩加入聊天
+10:54	北科大-資工系碩二-林哲立加入聊天
+10:54	台科大-商設-玉書加入聊天
+10:54	NCKU-CSIE-DilrabaFan加入聊天
+10:54	NTUST-CSIE-韓悅華加入聊天
+10:54	東華-資管-王嬿甯加入聊天
+10:54	ndhu-trls-jessie加入聊天
+10:54	元智-管院英專-陳怡樺加入聊天
+10:54	Harper加入聊天
+10:54	逢甲-資工-李柏村加入聊天
+10:54	Clare加入聊天
 10:54	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-12:37	Nicole joined the chat.
+12:37	Nicole加入聊天
 12:37	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Tue, 8/10/2021
-09:13	台大-資工-翁菀羚 joined the chat.
+2021/8/10（週二）
+09:13	台大-資工-翁菀羚加入聊天
 09:13	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Wed, 8/11/2021
-13:13	政大-財政-鄭宸宜 joined the chat.
-13:13	NCCU_RMI_Albert joined the chat.
-13:13	政大-企管-邱德晏 joined the chat.
-13:13	Wayne joined the chat.
-13:13	台大 工海 Tiana joined the chat.
-13:13	SCU-ECO-Amber joined the chat.
-13:13	政大-土文系-蘇昱璇 joined the chat.
-13:13	金大 國際暨大陸事務學系 思涵 joined the chat.
-13:13	崑山科技大學-電子工程系-林冠廷 joined the chat.
+2021/8/11（週三）
+13:13	NCCU_RMI_Albert加入聊天
+13:13	政大-財政-鄭宸宜加入聊天
+13:13	逢甲-資工-裴鼎軒加入聊天
+13:13	政大-企管-邱德晏加入聊天
+13:13	SCU-ECO-Amber加入聊天
+13:13	台大 工海 Tiana加入聊天
+13:13	金大 國際暨大陸事務學系 思涵加入聊天
+13:13	政大-土文系-蘇昱璇加入聊天
+13:13	崑山科技大學-電子工程系-林冠廷加入聊天
 13:13	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-18:01	東華-資管-鄭渝暄 joined the chat.
-18:01	東華-資管-陳彩湄 joined the chat.
-18:01	北大-休運1-李昕語 joined the chat.
+18:01	東華-資管-鄭渝暄加入聊天
+18:01	北大-休運1-李昕語加入聊天
+18:01	東華-資管-陳彩湄加入聊天
 18:01	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Thu, 8/12/2021
+2021/8/12（週四）
 00:01	政大-資科-惠品嘉	請問一下報名當下就要繳交企畫書嗎還是之後會另訂時間?還有報名參賽資格證明文件和成員作品集是什麼意思呢?
 08:59	NUU-109CSIE-康康	請問可使用的line服務 有哪些項目
 10:25	LINE小幫手-A	早安品嘉～ 
@@ -996,31 +1006,31 @@ https://line.me/zh-hant/
 
 另外，今年度的校園競賽會有三大服務是必須使用的，這邊先讓小幫手賣個關子(Capoo_rabbit) 在說明會的時候會跟大家公開到底是哪三大服務中選，所以歡迎來參加線上說明會>>https://www.facebook.com/LINEFRESHTW/posts/126262936377267
 相關的賽程與賽制也會陸續在社群平台公開，歡迎加入追蹤我們(BacBac Admire)
-14:32	NCCU-IB-Samantha joined the chat.
-14:32	NinaLee joined the chat.
-14:32	Grace joined the chat.
-14:32	liz joined the chat.
-14:32	硯硯 joined the chat.
-14:32	沛珊Betty joined the chat.
-14:32	根號N joined the chat.
-14:32	台科-工管-起源 joined the chat.
+14:32	NinaLee加入聊天
+14:32	NCCU-IB-Samantha加入聊天
+14:32	硯硯加入聊天
+14:32	liz加入聊天
+14:32	Grace加入聊天
+14:32	台科-工管-起源加入聊天
+14:32	陽明交大-資工-官澔恩加入聊天
+14:32	元智大學-國企-Betty加入聊天
 14:32	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-15:20	東吳-企管-Karis joined the chat.
+15:20	東吳-企管-Karis加入聊天
 15:20	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Fri, 8/13/2021
-12:25	交大-工工-楊子月 joined the chat.
-12:25	高師 視設二 陳芊羽 joined the chat.
-12:25	朝陽-資工四-林鈺凱 joined the chat.
-12:25	舜仔 joined the chat.
-12:25	Nuo joined the chat.
-12:25	Anna joined the chat.
-12:25	L🌙 joined the chat.
-12:25	哦哦喔 joined the chat.
+2021/8/13（週五）
+12:25	舜仔加入聊天
+12:25	朝陽-資工四-林鈺凱加入聊天
+12:25	高師 視設二 陳芊羽加入聊天
+12:25	交大-工工-楊子月加入聊天
+12:25	Anna加入聊天
+12:25	Nuo加入聊天
+12:25	L🌙加入聊天
+12:25	哦哦喔加入聊天
 12:25	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
@@ -1037,56 +1047,57 @@ Fri, 8/13/2021
 
 (!!!)重要提醒
 今晚 18:00開始，小幫手會退出沒有變更命名的同學，請尚未更名的同學特別留意囉，感謝大家的配合(cony big smile)
-16:01	Meow joined the chat.
-16:01	清大 資工 Angela joined the chat.
+16:01	Meow加入聊天
+16:01	清大 資工 Angela加入聊天
 16:01	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-16:09	成大-會計-李庭瑋 joined the chat.
+16:09	成大-會計-李庭瑋加入聊天
 16:09	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 18:06	LINE小幫手-A	(Capoo_rabbit) 這次競賽的四大特色商圈公佈囉！快去官方粉絲團關注一下吧～ 
 大家平時在逛商圈的時候最容易被什麼行銷方式吸引呢？歡迎大家跟小幫手分享(clap)(clap)(clap)
-18:06	LINE小幫手-A	[Sticker]
-18:33	Anna was banned from the OpenChat by LINE小幫手-MT.
-18:33	Bay was banned from the OpenChat by LINE小幫手-MT.
-18:33	Chloe💫👌❤ was banned from the OpenChat by LINE小幫手-MT.
-18:33	Grace was banned from the OpenChat by LINE小幫手-MT.
-18:33	Harper was banned from the OpenChat by LINE小幫手-MT.
-18:33	liz was banned from the OpenChat by LINE小幫手-MT.
-18:33	L🌙 was banned from the OpenChat by LINE小幫手-MT.
-18:33	Meow was banned from the OpenChat by LINE小幫手-MT.
-18:34	NinaLee was banned from the OpenChat by LINE小幫手-MT.
-18:34	Nuo was banned from the OpenChat by LINE小幫手-MT.
-18:34	SH. was banned from the OpenChat by LINE小幫手-MT.
-18:34	佩姬 was banned from the OpenChat by LINE小幫手-MT.
-18:34	哦哦喔 was banned from the OpenChat by LINE小幫手-MT.
-18:34	硯硯 was banned from the OpenChat by LINE小幫手-MT.
-18:34	舜仔 was banned from the OpenChat by LINE小幫手-MT.
-18:36	Amy Liao joined the chat.
-18:36	薇薇 joined the chat.
-18:36	成大-工資-Hsu joined the chat.
-18:36	台大-歷史-張寶娜 joined the chat.
+18:06	LINE小幫手-A	[貼圖]
+18:33	LINE小幫手-MT已將Anna強制退出社群。
+18:33	LINE小幫手-MT已將Bay強制退出社群。
+18:33	LINE小幫手-MT已將Chloe💫👌❤強制退出社群。
+18:33	LINE小幫手-MT已將Grace強制退出社群。
+18:33	LINE小幫手-MT已將Harper強制退出社群。
+18:33	LINE小幫手-MT已將liz強制退出社群。
+18:33	LINE小幫手-MT已將L🌙強制退出社群。
+18:33	LINE小幫手-MT已將Meow強制退出社群。
+18:34	LINE小幫手-MT已將NinaLee強制退出社群。
+18:34	LINE小幫手-MT已將Nuo強制退出社群。
+18:34	LINE小幫手-MT已將SH.強制退出社群。
+18:34	LINE小幫手-MT已將佩姬強制退出社群。
+18:34	LINE小幫手-MT已將哦哦喔強制退出社群。
+18:34	LINE小幫手-MT已將硯硯強制退出社群。
+18:34	LINE小幫手-MT已將舜仔強制退出社群。
+18:36	成大-工資-Hsu加入聊天
+18:36	薇薇加入聊天
+18:36	清大-資工-Amy加入聊天
+18:36	台大-歷史-張寶娜加入聊天
 18:37	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-18:49	台大-工管-Amanda joined the chat.
-18:49	東吳大學-資管系-Bay joined the chat.
-18:49	東吳-企管-Queenie joined the chat.
+18:49	東吳-企管-Queenie加入聊天
+18:49	東吳-資管-Bay加入聊天
+18:49	台大-工管-Amanda加入聊天
 18:49	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-18:56	成大-國企-Melody joined the chat.
-18:56	政大-資科-liz joined the chat.
+18:56	政大-資科-liz加入聊天
+18:56	成大-國企-Melody加入聊天
 18:56	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-19:06	配菜 joined the chat.
+19:06	政大-日文-詹珮渝加入聊天
 19:07	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-19:07	政大-資科-硯硯 joined the chat.
+19:07	政大-資科-硯硯加入聊天
+19:07	政大-資科-硯硯加入聊天
 19:07	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
@@ -1098,228 +1109,230 @@ Fri, 8/13/2021
 另外，關於這次競賽中有哪些程式應用的重點，預計都會在8/25的線上說明會公開，歡迎報名參加～(clap)
 https://www.facebook.com/LINEFRESHTW/posts/126262936377267
 20:24	LINE小幫手-A	小幫手先祝同學們週末愉快～ 疫情趨緩大家還是要注意健康多多小心唷
-20:25	LINE小幫手-A	[Sticker]
+20:25	LINE小幫手-A	[貼圖]
 
-Mon, 8/16/2021
-10:18	苡瑄 joined the chat.
-10:18	ネギ joined the chat.
-10:18	狗狗 joined the chat.
-10:18	Luke joined the chat.
-10:18	邦 joined the chat.
-10:18	Allen joined the chat.
-10:18	東吳-企管-格葦 joined the chat.
-10:18	阿睿 joined the chat.
-10:18	ALiao joined the chat.
-10:18	Terry joined the chat.
-10:18	shin joined the chat.
-10:18	Yhsuag joined the chat.
-10:18	Grace joined the chat.
-10:18	小慈 joined the chat.
-10:18	Winnie joined the chat.
-10:18	本喵～ joined the chat.
-10:18	T joined the chat.
+2021/8/16（週一）
+10:18	ネギ加入聊天
+10:18	清大-計財-彭苡瑄加入聊天
+10:18	東吳-企管-格葦加入聊天
+10:18	台大-會計-Allen加入聊天
+10:18	臺大-資工-Sean加入聊天
+10:18	清華大學-資工21級-Luke加入聊天
+10:18	狗狗加入聊天
+10:18	UT-UIMM-yitzu加入聊天
+10:18	師大-公領-Grace加入聊天
+10:18	臺大-資工-Avery加入聊天
+10:18	南臺-企管-施宇欣加入聊天
+10:18	交大-管科-terry加入聊天
+10:18	NTU-fin-Liao加入聊天
+10:18	中原-電資三-黃于睿加入聊天
+10:18	NCU-EC-Elena加入聊天
+10:18	本喵～加入聊天
+10:18	臺大-政治-丹加入聊天
 10:18	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-11:45	Terry 葉庭睿 joined the chat.
-11:45	台灣大學國際企業學系袁翌翔 joined the chat.
-11:45	Pascal joined the chat.
-11:45	中原-電資-🐵 joined the chat.
-11:45	Angel joined the chat.
+11:45	政大-金融二-葉庭睿加入聊天
+11:45	Angel加入聊天
+11:45	中原-電資-🐵加入聊天
+11:45	Pascal加入聊天
+11:45	台灣大學國際企業學系袁翌翔加入聊天
 11:45	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-12:25	Johnny joined the chat.
+12:25	Johnny加入聊天
 12:25	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-15:23	Jerry joined the chat.
+15:23	Jerry加入聊天
 15:23	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-18:51	政治大學資科系張曉雲 joined the chat.
+18:51	政治大學資科系張曉雲加入聊天
 18:51	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Tue, 8/17/2021
-10:12	NTU-GMBA-Helen joined the chat.
-10:12	中央-資管-Bosh joined the chat.
-10:12	中央-資管-Melody joined the chat.
-10:12	輔大-生科-nicole joined the chat.
-10:12	NCKU-BME-柏瑜 joined the chat.
-10:12	小騎士 joined the chat.
-10:12	中央-經濟-Irene joined the chat.
-10:12	世新-資管-葉昱辰 joined the chat.
+2021/8/17（週二）
+10:12	NCKU-BME-柏瑜加入聊天
+10:12	輔大-生科-nicole加入聊天
+10:12	中央-資管-Melody加入聊天
+10:12	NCU-MIS-Paul加入聊天
+10:12	NTU-GMBA-Helen加入聊天
+10:12	小騎士加入聊天
+10:12	中央-經濟-min加入聊天
+10:12	世新-資管-葉昱辰加入聊天
 10:12	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-11:21	MiaLee joined the chat.
-11:21	淡江-日文-yuyu joined the chat.
-11:21	Chong joined the chat.
-11:21	Vic joined the chat.
-11:21	曾琳 joined the chat.
-11:21	東華-國企四-蕙華 joined the chat.
-11:21	中央-企管-Angela joined the chat.
-11:21	艾比同學 joined the chat.
-11:21	嗨 joined the chat.
-11:21	Lolo joined the chat.
-11:21	清大-化工-Yuchi joined the chat.
-11:21	北商-資管-蘇宛婷 joined the chat.
-11:21	景文-國貿-H.L joined the chat.
-11:21	中央-生醫-Steven joined the chat.
-11:21	佑子 joined the chat.
+11:21	淡江-日文-yuyu加入聊天
+11:21	MiaLee加入聊天
+11:21	東華-國企四-蕙華加入聊天
+11:21	曾琳加入聊天
+11:21	曾琳加入聊天
+11:21	Vic加入聊天
+11:21	Chong加入聊天
+11:21	NTUB-CDM-安琪加入聊天
+11:21	中央-企管-Angela加入聊天
+11:21	清大-化工-Yuchi加入聊天
+11:21	國北-課傳-Yinglou加入聊天
+11:21	嗨加入聊天
+11:21	景文-國貿-H.L加入聊天
+11:21	北商-資管-蘇宛婷加入聊天
+11:21	佑子加入聊天
+11:21	NCU-BME-Steven加入聊天
 11:21	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-12:06	yyy joined the chat.
-12:06	AJA joined the chat.
-12:06	41黃 joined the chat.
-12:06	勤益-流管-黃柔蓁 joined the chat.
-12:06	文藻外語大學，英文系，曾琳 joined the chat.
-12:06	成大-工資管-Joyce joined the chat.
-12:06	Bee joined the chat.
-12:06	der joined the chat.
-12:06	CUTE-建築-Shin Jie joined the chat.
-12:06	屏科大-動畜系-陳采渝 joined the chat.
+12:06	AJA加入聊天
+12:06	yyy加入聊天
+12:06	NCUT-DDM-z加入聊天
+12:06	41黃加入聊天
+12:06	NPUST-AS-Idelle加入聊天
+12:06	CUTE-建築-Shin Jie加入聊天
+12:06	der加入聊天
+12:06	淡江-化材-hebe加入聊天
+12:06	成大-工資管-Joyce加入聊天
+12:06	文藻外語大學，英文系，曾琳加入聊天
 12:06	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-15:49	中央-經濟-Elisa joined the chat.
-15:49	七七 joined the chat.
-15:49	陽明交通大學-資工-黃立鈞 joined the chat.
-15:49	北醫-公衛-Sandra joined the chat.
-15:49	禎 joined the chat.
-15:49	나 비 joined the chat.
-15:49	東海-國貿-Yang Ting joined the chat.
-15:49	NYUST-VCD-MIRIN joined the chat.
-15:49	Yvonne joined the chat.
-15:49	森林綠 joined the chat.
-15:49	Chao joined the chat.
-15:49	又又 joined the chat.
-15:49	Jean joined the chat.
-15:49	容飛 joined the chat.
-15:49	抓七 joined the chat.
-15:49	北市大 學材 wowsehh joined the chat.
-15:49	Stephanie joined the chat.
-15:49	Debby joined the chat.
-15:49	恩 joined the chat.
-15:49	CSU-資管四-吳珮瑜 joined the chat.
-15:49	Melissa joined the chat.
-15:49	CSU-資管-黃柏清 joined the chat.
-15:49	暨南－會計－映辰 joined the chat.
-15:49	Jade joined the chat.
-15:49	zz joined the chat.
-15:49	淡江 法文 溫妮 joined the chat.
+15:49	NCU-經濟-Elisa加入聊天
+15:49	北醫-公衛-Sandra加入聊天
+15:49	交大-資工-黃立鈞加入聊天
+15:49	國北-數位-Tomray加入聊天
+15:49	東海-國貿-Yang Ting加入聊天
+15:49	臺大 心理 나비加入聊天
+15:49	禎加入聊天
+15:49	Chao加入聊天
+15:49	森林綠加入聊天
+15:49	Yvonne加入聊天
+15:49	NYUST-VCD-MIRIN加入聊天
+15:49	屏大-文創-虹萱加入聊天
+15:49	Stephanie加入聊天
+15:49	北市大 學材 wowsehh加入聊天
+15:49	師大-設計-朱嘉頎加入聊天
+15:49	容飛加入聊天
+15:49	大同-工設-Jean加入聊天
+15:49	輔英 醫技 陳又靚加入聊天
+15:49	NTU-AGEC-Jade加入聊天
+15:49	暨南－會計－映辰加入聊天
+15:49	CSU-資管-黃柏清加入聊天
+15:49	輔大-新聞傳播-詹欣儒加入聊天
+15:49	CSU-資管四-吳珮瑜加入聊天
+15:49	恩加入聊天
+15:49	淡江 法文 溫妮加入聊天
+15:49	zz加入聊天
 15:49	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-19:07	CHUN joined the chat.
-19:07	勤益-工管系-江明昱 joined the chat.
-19:07	Ana joined the chat.
-19:07	CYCU-EECS-吳俊霆 joined the chat.
-19:07	NYCU-AI-嚴想容 joined the chat.
-19:07	Aurora joined the chat.
-19:07	台科大-工管系-楊佑婕 joined the chat.
-19:07	THU 國貿 Carol joined the chat.
-19:07	NTU-CSIE-Rain joined the chat.
-19:07	Shannon joined the chat.
-19:07	Gintama joined the chat.
+19:07	勤益-工管系-江明昱加入聊天
+19:07	CHUN加入聊天
+19:07	Aurora加入聊天
+19:07	NYCU-AI-嚴想容加入聊天
+19:07	CYCU-EECS-吳俊霆加入聊天
+19:07	元智-資英-邱湘珺加入聊天
+19:07	中教-國企-Shannon加入聊天
+19:07	NTU-CSIE-Rain加入聊天
+19:07	THU 國貿 Carol加入聊天
+19:07	台科大-工管系-楊佑婕加入聊天
+19:07	Gintama加入聊天
 19:07	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-21:41	LINE小幫手-AL joined the chat.
+21:41	LINE小幫手-AL加入聊天
 21:41	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Wed, 8/18/2021
-10:46	北科-自動化所-Joseph joined the chat.
-10:46	Js joined the chat.
-10:46	勤益科大-企管-吳志暉 joined the chat.
-10:46	淡大－管科－甘毓雯 joined the chat.
-10:46	中山-人管-雅淳 joined the chat.
-10:46	北大_應外_MinJui joined the chat.
-10:46	東華 藝創 joined the chat.
-10:46	實踐-工設-Li joined the chat.
-10:46	聯合-經管-品佑 joined the chat.
-10:46	清大-科管-莊佳欣 joined the chat.
-10:46	hc joined the chat.
-10:46	輔英科大-醫技系-杜念潔 joined the chat.
-10:46	奕興 joined the chat.
-10:46	台大-哲學-kenji joined the chat.
-10:46	Yu joined the chat.
+2021/8/18（週三）
+10:46	北科-自動化所-Joseph加入聊天
+10:46	NDHU ACI C加入聊天
+10:46	北大_應外_MinJui加入聊天
+10:46	中山-人管-雅淳加入聊天
+10:46	淡大－管科－甘毓雯加入聊天
+10:46	勤益科大-企管-吳志暉加入聊天
+10:46	Js加入聊天
+10:46	hc加入聊天
+10:46	清大-科管-莊佳欣加入聊天
+10:46	聯合-經管-品佑加入聊天
+10:46	實踐-工設-Li加入聊天
+10:46	Yu加入聊天
+10:46	台大-哲學-kenji加入聊天
+10:46	奕興加入聊天
+10:46	輔英科大-醫技系-杜念潔加入聊天
 10:46	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-13:13	台藝大-影創-楊子萱 joined the chat.
-13:13	逢甲-環工_Woody joined the chat.
-13:13	香香 joined the chat.
-13:13	勤益科大-企管系-詩琦 joined the chat.
-13:13	Catwalk joined the chat.
-13:13	北護-健管-何佩庭 joined the chat.
-13:13	台大-政治-傅安霓 joined the chat.
-13:13	Ari joined the chat.
-13:13	啾吉掰 joined the chat.
-13:13	汪汪喵 joined the chat.
-13:13	Ollie joined the chat.
-13:13	元培-醫管-阿芳 joined the chat.
-13:13	政大 統計 小宇 joined the chat.
+13:13	勤益科大-企管系-詩琦加入聊天
+13:13	香香加入聊天
+13:13	逢甲-環工_Woody加入聊天
+13:13	台藝大-影創-楊子萱加入聊天
+13:13	元培-醫管-阿芳加入聊天
+13:13	Ollie加入聊天
+13:13	汪汪喵加入聊天
+13:13	NTUST-EE-Hung加入聊天
+13:13	Ari加入聊天
+13:13	台大-政治-傅安霓加入聊天
+13:13	北護-健管-何佩庭加入聊天
+13:13	Catwalk加入聊天
+13:13	政大 統計 小宇加入聊天
 13:13	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-17:35	Jessie joined the chat.
-17:35	淡江－管科－洪鈺禎 joined the chat.
-17:35	輔大-英文-Esther joined the chat.
-17:35	Pan pan joined the chat.
-17:35	Wayne joined the chat.
-17:35	吳金澍 joined the chat.
-17:35	Hazel joined the chat.
-17:35	Jasper joined the chat.
+17:35	Hazel加入聊天
+17:35	吳金澍加入聊天
+17:35	台師大-表藝行銷-宇樺加入聊天
+17:35	台師大-表藝行銷-宇樺加入聊天
+17:35	Pan pan加入聊天
+17:35	輔大-英文-Esther加入聊天
+17:35	淡江－管科－洪鈺禎加入聊天
+17:35	Jessie加入聊天
+17:35	台大-工管-莊翰旻加入聊天
 17:35	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Thu, 8/19/2021
-10:15	鴻宇 joined the chat.
-10:15	shan joined the chat.
-10:15	Jyun joined the chat.
-10:15	Oray joined the chat.
-10:15	Koi joined the chat.
-10:15	tc joined the chat.
-10:15	東海-資管-Kate joined the chat.
-10:15	奕儒 joined the chat.
-10:15	beck joined the chat.
-10:15	台科 紀沛瑜 joined the chat.
-10:15	你好 joined the chat.
-10:15	h joined the chat.
-10:15	@ @ joined the chat.
-10:15	Yifan joined the chat.
-10:15	邱 joined the chat.
-10:15	柏儒 joined the chat.
-10:15	Dora joined the chat.
-10:15	Wilson joined the chat.
-10:15	空空 joined the chat.
-10:15	YYJ joined the chat.
-10:15	Kelvin joined the chat.
-10:15	元智-資英二- Chris joined the chat.
-10:15	面七七 joined the chat.
-10:15	台大-中文-董宇然 joined the chat.
-10:15	Ashley Hsu joined the chat.
-10:15	阿懷 joined the chat.
-10:15	世新-企管-Clara joined the chat.
-10:15	張桂洋 joined the chat.
+2021/8/19（週四）
+10:15	東吳-社會-泓宇加入聊天
+10:15	Jyun加入聊天
+10:15	shan加入聊天
+10:15	成大-測量-tc加入聊天
+10:15	雲科-文資系-Koi加入聊天
+10:15	Oray加入聊天
+10:15	中央-資管-James加入聊天
+10:15	台科-企管-紀沛瑜加入聊天
+10:15	beck加入聊天
+10:15	實踐-資管-奕儒加入聊天
+10:15	東海-資管-Kate加入聊天
+10:15	逢甲-資訊-黃柏儒加入聊天
+10:15	東吳-企管-邱加入聊天
+10:15	輔仁-企管-Yifan加入聊天
+10:15	@ @加入聊天
+10:15	淡江-全財管-黃緗淳加入聊天
+10:15	北大-企管-YYJ加入聊天
+10:15	臺北大學-企管系-陳宛妤加入聊天
+10:15	臺大-財金-李旻剛加入聊天
+10:15	東吳-國貿-Vivian加入聊天
+10:15	元智-資英二- Chris加入聊天
+10:15	Kelvin加入聊天
+10:15	張桂洋加入聊天
+10:15	世新-企管-Clara加入聊天
+10:15	阿懷加入聊天
+10:15	Ashley Hsu加入聊天
+10:15	台大-中文-董宇然加入聊天
+10:15	面七七加入聊天
 10:15	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-12:33	Wonderful joined the chat.
-12:33	Kelly joined the chat.
-12:33	地瓜 joined the chat.
-12:33	李 joined the chat.
-12:33	葹 joined the chat.
-12:33	🍉 joined the chat.
-12:33	劉明修-創新創富諮詢 joined the chat.
-12:33	儂儂 joined the chat.
+12:33	Wonderful加入聊天
+12:33	李加入聊天
+12:33	地瓜加入聊天
+12:33	Kelly加入聊天
+12:33	葹加入聊天
+12:33	儂儂加入聊天
+12:33	美和科大-企管-劉明修加入聊天
+12:33	🍉加入聊天
 12:33	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
@@ -1330,96 +1343,98 @@ Thu, 8/19/2021
 立即加入找尋志同道合的夥伴吧～～
  👉LINE FRESH 2021校園競賽 組隊社團
  👉https://lin.ee/4IW394Q/newf
-12:37	NKUHT-MKT-洪珮紜 joined the chat.
+12:37	NKUHT-MKT-洪珮紜加入聊天
 12:37	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-15:36	東吳-企管三-沛渝 joined the chat.
-15:36	台大-日文四-邵雅靖 joined the chat.
-15:36	鈞鈞 joined the chat.
-15:36	天天 joined the chat.
-15:36	想不到ㄅ joined the chat.
-15:36	暨大-國比-豆腐鯊 joined the chat.
-15:36	Louis⚒️ joined the chat.
-15:36	許宇涵Allison joined the chat.
-15:36	阿賢 joined the chat.
-15:36	國立陽明交通大學-管科所碩一吳家輝 joined the chat.
-15:36	琳 joined the chat.
-15:36	Haruke joined the chat.
+15:36	天天加入聊天
+15:36	鈞鈞加入聊天
+15:36	台大-日文四-Masa加入聊天
+15:36	東吳-企管三-沛渝加入聊天
+15:36	國立陽明交通大學-管科所碩一吳家輝加入聊天
+15:36	阿賢加入聊天
+15:36	政大-企研-許宇涵Allison加入聊天
+15:36	輔大-社會-陳碩君加入聊天
+15:36	暨大-國比-豆腐鯊加入聊天
+15:36	想不到ㄅ加入聊天
+15:36	想不到ㄅ加入聊天
+15:36	琳加入聊天
+15:36	CJCU-IM-鄭品榕加入聊天
 15:36	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-18:00	翔 joined the chat.
-18:00	Hsuan joined the chat.
-18:00	sky.33 joined the chat.
-18:00	Dena joined the chat.
+18:00	FCU-土管-sky加入聊天
+18:00	FCU-IB-Hsuan加入聊天
+18:00	WZU-傳藝-Zone加入聊天
+18:00	Dena加入聊天
 18:00	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Fri, 8/20/2021
-10:31	輔仁-企管二-永怡 joined the chat.
-10:31	義大-後中-PINU joined the chat.
-10:31	國立台東大學-應用科學系-謝祥意 joined the chat.
-10:31	TTU-ID-林艾妮 joined the chat.
-10:31	台大-圖資二-謝沅瑾 joined the chat.
-10:31	國立臺東大學-數媒-謝文心 joined the chat.
-10:31	ting joined the chat.
-10:31	安迪 joined the chat.
-10:31	台大-圖資-Zoie joined the chat.
-10:31	郭 joined the chat.
-10:31	紀宇恆 joined the chat.
-10:31	NTU_PH_wannn joined the chat.
+2021/8/20（週五）
+10:31	輔仁-企管二-永怡加入聊天
+10:31	國立台東大學-應用科學系-謝祥意加入聊天
+10:31	義大-後中-PINU加入聊天
+10:31	台大-圖資二-謝沅瑾加入聊天
+10:31	TTU-ID-林艾妮加入聊天
+10:31	台大-圖資-Zoie加入聊天
+10:31	安迪加入聊天
+10:31	ting加入聊天
+10:31	國立臺東大學-數媒-謝文心加入聊天
+10:31	紀宇恆加入聊天
+10:31	郭加入聊天
+10:31	NTU_PH_wannn加入聊天
 10:31	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-14:48	陳乾走 joined the chat.
-14:48	NCKU_ME_竹 joined the chat.
-14:48	鈞 joined the chat.
-14:48	NIU-Horticulture-泳杰 joined the chat.
-14:48	TMU-護理-YIPING joined the chat.
-14:48	Ruby joined the chat.
-14:48	致理-資管-于翔 joined the chat.
-14:48	NCKU-LS-賴力君 joined the chat.
-14:48	臺北大學-企管-吳亮儀 joined the chat.
-14:48	台科-企研-Anna joined the chat.
+14:48	陳乾走加入聊天
+14:48	鈞加入聊天
+14:48	NCKU_ME_竹加入聊天
+14:48	NCKU-LS-賴力君加入聊天
+14:48	致理-資管-于翔加入聊天
+14:48	Ruby加入聊天
+14:48	TMU-護理-YIPING加入聊天
+14:48	NIU-Horticulture-泳杰加入聊天
+14:48	臺北大學-企管-吳亮儀加入聊天
+14:48	台科-企研-Anna加入聊天
 14:48	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-15:55	Cih joined the chat.
-15:55	育 joined the chat.
-15:55	pong joined the chat.
-15:55	台大-財金-林益弘 joined the chat.
-15:55	HONG joined the chat.
-15:55	之昀 joined the chat.
-15:55	阿豆 joined the chat.
+15:55	育加入聊天
+15:55	Cih加入聊天
+15:55	之昀加入聊天
+15:55	HONG加入聊天
+15:55	台大-財金-林益弘加入聊天
+15:55	pong加入聊天
+15:55	阿豆加入聊天
 15:55	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-16:09	LINE小幫手-AWC joined the chat.
+16:09	LINE小幫手-AWC加入聊天
 16:09	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-16:09	Winni joined the chat.
+16:09	Winni加入聊天
+16:09	Winni加入聊天
 16:09	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 16:15	LINE小幫手-MT	同學們 午安～(peek)
 提醒大家今晚 18:00開始，小幫手會退出沒有變更命名的同學，請尚未更名的同學特別留意囉，感謝您的配合(bow)
-16:36	Kob joined the chat.
+16:36	Kob加入聊天
 16:36	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-16:43	嘉大-應用經濟系-陳沛涵 joined the chat.
+16:43	嘉大-應用經濟系-陳沛涵加入聊天
 16:43	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-17:16	NQU-DAE-Beatrice joined the chat.
-17:16	南大-行管-黃小閔 joined the chat.
+17:16	南大-行管-黃小閔加入聊天
+17:16	NQU-DAE-Beatrice加入聊天
 17:16	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-17:17	明新-幼保-Rosa joined the chat.
+17:17	明新-幼保-Rosa加入聊天
 17:17	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
@@ -1433,8 +1448,8 @@ Fri, 8/20/2021
 18:43	中興-資管-Joker	我也是QAQ
 18:43	台科-企研-Anna	最近會在組隊社團發文😂希望可以找到一起努力的隊友🥺
 18:44	LINE小幫手-A	什麼！小幫手聽到需要救援的聲音！！！
-18:44	台科-企研-Anna	[Sticker]
-18:45	LINE小幫手-A	[Sticker]
+18:44	台科-企研-Anna	[貼圖]
+18:45	LINE小幫手-A	[貼圖]
 18:46	NYCU-AI-嚴想容	缺隊友+1 希望可以找到有熱誠的隊友
 不論是擅長商管或是擅長程式的隊友都可以!
 18:46	中興-資管-Joker	創意發想不適合我哈哈 可能偏向實作面
@@ -1442,147 +1457,150 @@ Fri, 8/20/2021
 快加入組隊社團，上傳你的尋人啟事找隊友吧！！！
 【LINE FRESH 2021校園競賽 組隊社團】
 👉 https://lin.ee/4IW394Q/newf
-18:47	台科-企研-Anna	[Sticker]
-18:47	LINE小幫手-A	[Sticker]
-18:49	清大-心諮23-鄭欣晨	[Sticker]
-18:49	LINE小幫手-AW	[Sticker]
-18:53	NTU-GMBA-Helen	[Sticker]
+18:47	台科-企研-Anna	[貼圖]
+18:47	LINE小幫手-A	[貼圖]
+18:49	清大-心諮23-鄭欣晨	[貼圖]
+18:49	LINE小幫手-AW	[貼圖]
+18:53	NTU-GMBA-Helen	[貼圖]
 19:01	LINE小幫手-A	揪起來揪起來～
-19:36	41黃 was banned from the OpenChat by LINE小幫手-MT.
-19:36	AJA was banned from the OpenChat by LINE小幫手-MT.
-19:36	Angel was banned from the OpenChat by LINE小幫手-MT.
-19:36	Ashley Hsu was banned from the OpenChat by LINE小幫手-MT.
-19:36	beck was banned from the OpenChat by LINE小幫手-MT.
-19:36	Catwalk was banned from the OpenChat by LINE小幫手-MT.
-19:36	Chong was banned from the OpenChat by LINE小幫手-MT.
-19:36	CHUN was banned from the OpenChat by LINE小幫手-MT.
-19:36	Cih was banned from the OpenChat by LINE小幫手-MT.
-19:36	Dena was banned from the OpenChat by LINE小幫手-MT.
-19:36	der was banned from the OpenChat by LINE小幫手-MT.
-19:36	Gintama was banned from the OpenChat by LINE小幫手-MT.
-19:37	Hazel was banned from the OpenChat by LINE小幫手-MT.
-19:37	HONG was banned from the OpenChat by LINE小幫手-MT.
-19:37	Jerry was banned from the OpenChat by LINE小幫手-MT.
-19:37	Jessie was banned from the OpenChat by LINE小幫手-MT.
-19:38	Johnny was banned from the OpenChat by LINE小幫手-MT.
-19:38	Js was banned from the OpenChat by LINE小幫手-MT.
-19:38	Jyun was banned from the OpenChat by LINE小幫手-MT.
-19:38	Kelly was banned from the OpenChat by LINE小幫手-MT.
-19:39	Kelvin was banned from the OpenChat by LINE小幫手-MT.
-19:39	Kob was banned from the OpenChat by LINE小幫手-MT.
-19:39	Ollie was banned from the OpenChat by LINE小幫手-MT.
-19:39	Oray was banned from the OpenChat by LINE小幫手-MT.
-19:39	Pan pan was banned from the OpenChat by LINE小幫手-MT.
-19:39	Pascal was banned from the OpenChat by LINE小幫手-MT.
-19:39	pong was banned from the OpenChat by LINE小幫手-MT.
-19:40	Ruby was banned from the OpenChat by LINE小幫手-MT.
-19:40	shan was banned from the OpenChat by LINE小幫手-MT.
-19:40	Stephanie was banned from the OpenChat by LINE小幫手-MT.
-19:40	ting was banned from the OpenChat by LINE小幫手-MT.
-19:40	Vic was banned from the OpenChat by LINE小幫手-MT.
-19:40	Winni was banned from the OpenChat by LINE小幫手-MT.
-19:40	Wonderful was banned from the OpenChat by LINE小幫手-MT.
-19:40	Yu was banned from the OpenChat by LINE小幫手-MT.
-19:40	Yvonne was banned from the OpenChat by LINE小幫手-MT.
-19:40	yyy was banned from the OpenChat by LINE小幫手-MT.
-19:40	zz was banned from the OpenChat by LINE小幫手-MT.
-19:40	ネギ was banned from the OpenChat by LINE小幫手-MT.
-19:41	之昀 was banned from the OpenChat by LINE小幫手-MT.
-19:41	佑子 was banned from the OpenChat by LINE小幫手-MT.
-19:41	儂儂 was banned from the OpenChat by LINE小幫手-MT.
-19:42	吳金澍 was banned from the OpenChat by LINE小幫手-MT.
-19:42	嗨 was banned from the OpenChat by LINE小幫手-MT.
-19:42	地瓜 was banned from the OpenChat by LINE小幫手-MT.
-19:42	天天 was banned from the OpenChat by LINE小幫手-MT.
-19:42	奕興 was banned from the OpenChat by LINE小幫手-MT.
-19:42	安迪 was banned from the OpenChat by LINE小幫手-MT.
-19:42	容飛 was banned from the OpenChat by LINE小幫手-MT.
-19:42	小騎士 was banned from the OpenChat by LINE小幫手-MT.
-19:42	張桂洋 was banned from the OpenChat by LINE小幫手-MT.
-19:42	恩 was banned from the OpenChat by LINE小幫手-MT.
-19:42	想不到ㄅ was banned from the OpenChat by LINE小幫手-MT.
-19:43	本喵～ was banned from the OpenChat by LINE小幫手-MT.
-19:43	森林綠 was banned from the OpenChat by LINE小幫手-MT.
-19:43	汪汪喵 was banned from the OpenChat by LINE小幫手-MT.
-19:43	狗狗 was banned from the OpenChat by LINE小幫手-MT.
-19:43	琳 was banned from the OpenChat by LINE小幫手-MT.
-19:43	紀宇恆 was banned from the OpenChat by LINE小幫手-MT.
-19:44	郭 was banned from the OpenChat by LINE小幫手-MT.
-19:44	鈞 was banned from the OpenChat by LINE小幫手-MT.
-19:44	鈞鈞 was banned from the OpenChat by LINE小幫手-MT.
-19:44	阿懷 was banned from the OpenChat by LINE小幫手-MT.
-19:44	阿豆 was banned from the OpenChat by LINE小幫手-MT.
-19:44	阿賢 was banned from the OpenChat by LINE小幫手-MT.
-19:44	陳乾走 was banned from the OpenChat by LINE小幫手-MT.
-19:44	面七七 was banned from the OpenChat by LINE小幫手-MT.
-19:44	香香 was banned from the OpenChat by LINE小幫手-MT.
-19:44	🍉 was banned from the OpenChat by LINE小幫手-MT.
-19:48	南實 時尚四 楊逸 joined the chat.
-19:48	Lilian💗 joined the chat.
-19:48	Kerry joined the chat.
-19:48	FCU-AM-Peterson joined the chat.
-19:48	程ton joined the chat.
+19:36	LINE小幫手-MT已將41黃強制退出社群。
+19:36	LINE小幫手-MT已將AJA強制退出社群。
+19:36	LINE小幫手-MT已將Angel強制退出社群。
+19:36	LINE小幫手-MT已將Ashley Hsu強制退出社群。
+19:36	LINE小幫手-MT已將beck強制退出社群。
+19:36	LINE小幫手-MT已將Catwalk強制退出社群。
+19:36	LINE小幫手-MT已將Chong強制退出社群。
+19:36	LINE小幫手-MT已將CHUN強制退出社群。
+19:36	LINE小幫手-MT已將Cih強制退出社群。
+19:36	LINE小幫手-MT已將Dena強制退出社群。
+19:36	LINE小幫手-MT已將der強制退出社群。
+19:36	LINE小幫手-MT已將Gintama強制退出社群。
+19:37	LINE小幫手-MT已將Hazel強制退出社群。
+19:37	LINE小幫手-MT已將HONG強制退出社群。
+19:37	LINE小幫手-MT已將Jerry強制退出社群。
+19:37	LINE小幫手-MT已將Jessie強制退出社群。
+19:38	LINE小幫手-MT已將Johnny強制退出社群。
+19:38	LINE小幫手-MT已將Js強制退出社群。
+19:38	LINE小幫手-MT已將Jyun強制退出社群。
+19:38	LINE小幫手-MT已將Kelly強制退出社群。
+19:39	LINE小幫手-MT已將Kelvin強制退出社群。
+19:39	LINE小幫手-MT已將Kelvin強制退出社群。
+19:39	LINE小幫手-MT已將Kob強制退出社群。
+19:39	LINE小幫手-MT已將Ollie強制退出社群。
+19:39	LINE小幫手-MT已將Oray強制退出社群。
+19:39	LINE小幫手-MT已將Pan pan強制退出社群。
+19:39	LINE小幫手-MT已將Pascal強制退出社群。
+19:39	LINE小幫手-MT已將pong強制退出社群。
+19:40	LINE小幫手-MT已將Ruby強制退出社群。
+19:40	LINE小幫手-MT已將shan強制退出社群。
+19:40	LINE小幫手-MT已將Stephanie強制退出社群。
+19:40	LINE小幫手-MT已將ting強制退出社群。
+19:40	LINE小幫手-MT已將Vic強制退出社群。
+19:40	LINE小幫手-MT已將Winni強制退出社群。
+19:40	LINE小幫手-MT已將Wonderful強制退出社群。
+19:40	LINE小幫手-MT已將Yu強制退出社群。
+19:40	LINE小幫手-MT已將Yvonne強制退出社群。
+19:40	LINE小幫手-MT已將yyy強制退出社群。
+19:40	LINE小幫手-MT已將zz強制退出社群。
+19:40	LINE小幫手-MT已將ネギ強制退出社群。
+19:41	LINE小幫手-MT已將之昀強制退出社群。
+19:41	LINE小幫手-MT已將佑子強制退出社群。
+19:41	LINE小幫手-MT已將儂儂強制退出社群。
+19:42	LINE小幫手-MT已將吳金澍強制退出社群。
+19:42	LINE小幫手-MT已將嗨強制退出社群。
+19:42	LINE小幫手-MT已將地瓜強制退出社群。
+19:42	LINE小幫手-MT已將天天強制退出社群。
+19:42	LINE小幫手-MT已將奕興強制退出社群。
+19:42	LINE小幫手-MT已將安迪強制退出社群。
+19:42	LINE小幫手-MT已將容飛強制退出社群。
+19:42	LINE小幫手-MT已將小騎士強制退出社群。
+19:42	LINE小幫手-MT已將張桂洋強制退出社群。
+19:42	LINE小幫手-MT已將恩強制退出社群。
+19:42	LINE小幫手-MT已將想不到ㄅ強制退出社群。
+19:43	LINE小幫手-MT已將本喵～強制退出社群。
+19:43	LINE小幫手-MT已將森林綠強制退出社群。
+19:43	LINE小幫手-MT已將汪汪喵強制退出社群。
+19:43	LINE小幫手-MT已將狗狗強制退出社群。
+19:43	LINE小幫手-MT已將琳強制退出社群。
+19:43	LINE小幫手-MT已將紀宇恆強制退出社群。
+19:44	LINE小幫手-MT已將郭強制退出社群。
+19:44	LINE小幫手-MT已將鈞強制退出社群。
+19:44	LINE小幫手-MT已將鈞鈞強制退出社群。
+19:44	LINE小幫手-MT已將阿懷強制退出社群。
+19:44	LINE小幫手-MT已將阿豆強制退出社群。
+19:44	LINE小幫手-MT已將阿賢強制退出社群。
+19:44	LINE小幫手-MT已將陳乾走強制退出社群。
+19:44	LINE小幫手-MT已將面七七強制退出社群。
+19:44	LINE小幫手-MT已將香香強制退出社群。
+19:44	LINE小幫手-MT已將🍉強制退出社群。
+19:48	FCU-AM-Peterson加入聊天
+19:48	Kerry加入聊天
+19:48	Lilian💗加入聊天
+19:48	南實 時尚四 楊逸加入聊天
+19:48	南實 時尚四 楊逸加入聊天
+19:48	程ton加入聊天
 19:49	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-19:59	北科-資工二-王信宇 joined the chat.
-19:59	高科-應英-Jessie joined the chat.
-19:59	成大-現文二-任冠穎 joined the chat.
+19:59	成大-現文二-任冠穎加入聊天
+19:59	高科-應英-Jessie加入聊天
+19:59	北科-資工二-王信宇加入聊天
 19:59	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 20:24	NUTN-BM-詠琪	請問~報名要繳交的作品集、證照等證明，LINE有格式規定嗎？
 20:40	LINE小幫手-A	嗨詠琪～排版格式不限，但建議有影片、網頁等等內容，用網址的方式列入檔案，最後會需要存成一整個📎PDF檔案📎在報名時上傳作為附件喔！下週三有說明會，有空的話歡迎線上來參加(clap)
-20:40	LINE小幫手-A	[Sticker]
+20:40	LINE小幫手-A	[貼圖]
 
-Mon, 8/23/2021
-10:07	Becca joined the chat.
-10:07	Darian joined the chat.
-10:07	leo joined the chat.
-10:07	Penny joined the chat.
-10:07	Shannon joined the chat.
-10:07	u. joined the chat.
-10:07	powerful joined the chat.
-10:07	Cynthia joined the chat.
-10:07	國立勤益科技大學-張桂洋 joined the chat.
-10:07	C joined the chat.
-10:07	H.Chung joined the chat.
-10:07	Lion joined the chat.
-10:07	成大-企研-鄭淳芬 joined the chat.
-10:07	銘傳-外交-Essentttt joined the chat.
-10:07	D joined the chat.
-10:07	Dena joined the chat.
-10:07	Shelly joined the chat.
-10:07	Weiwei joined the chat.
-10:07	FISH joined the chat.
-10:07	Sammy joined the chat.
-10:07	中央-法文-葉家妤 joined the chat.
-10:07	吉米王 joined the chat.
-10:07	志玄 joined the chat.
-10:07	Nan joined the chat.
-10:07	愛吃藕片的喜鵲 joined the chat.
-10:07	菜雞 joined the chat.
-10:07	もも joined the chat.
-10:07	雲科-應外-Hazel joined the chat.
-10:07	Micky joined the chat.
-10:07	小菜 joined the chat.
-10:07	王喬 joined the chat.
-10:07	北大-企管-劉東霖 joined the chat.
-10:07	Chia joined the chat.
-10:07	欸嘿 joined the chat.
+2021/8/23（週一）
+10:07	國北-玩遊所-Becca加入聊天
+10:07	清大-資應-Darian加入聊天
+10:07	中原 環工 leo加入聊天
+10:07	Shannon加入聊天
+10:07	中央-資工-Penny加入聊天
+10:07	長庚-資管-Jessica加入聊天
+10:07	勤益-企管-張桂洋加入聊天
+10:07	國北教-玩遊一-Cynthia加入聊天
+10:07	powerful加入聊天
+10:07	NTCUST-統計-陳明萱加入聊天
+10:07	東華-資工-Nick加入聊天
+10:07	H.Chung加入聊天
+10:07	台科-MIS-靖宜加入聊天
+10:07	D加入聊天
+10:07	銘傳-外交-Essentttt加入聊天
+10:07	成大-企研-Ruby加入聊天
+10:07	SHU-Finance-Caroline加入聊天
+10:07	Thu-iba-ann加入聊天
+10:07	臺中科大-應用統計系-王志軒加入聊天
+10:07	NTUB-IM-Jimmy加入聊天
+10:07	NCU-FR-Joanne加入聊天
+10:07	NCU-MIS-思妤加入聊天
+10:07	政大-企管-彭敏昀加入聊天
+10:07	Weiwei加入聊天
+10:07	CJCU-Fin-Kli加入聊天
+10:07	NCKU-IIM-王喬加入聊天
+10:07	小菜加入聊天
+10:07	MCU-國企碩一-郭閔晴加入聊天
+10:07	雲科-應外-Lun加入聊天
+10:07	LTU-VCD-もも加入聊天
+10:07	菜雞加入聊天
+10:07	北市大-教育-Chia加入聊天
+10:07	NTPU-DBA-劉東霖加入聊天
+10:07	雲科-資工-柯念佑加入聊天
 10:07	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-10:31	中正-哲學+財金-林君臻 joined the chat.
-10:31	FJU-金融國企-余柔柔 joined the chat.
+10:31	中正-哲學+財金-林君臻加入聊天
+10:31	中正-哲學+財金-林君臻加入聊天
+10:31	FJU-金融國企-Mabel加入聊天
 10:31	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-10:37	NTC_CSIE_Jack joined the chat.
-10:37	台大-資管-Sam joined the chat.
-10:37	南開科大電子碩 joined the chat.
-10:37	NTHU-ECON-1璇 joined the chat.
-10:37	曾鈺欣 joined the chat.
+10:37	NTC_CSIE_Jack加入聊天
+10:37	NTHU-ECON-1璇加入聊天
+10:37	南開科大電子碩加入聊天
+10:37	台大-資管-Sam加入聊天
+10:37	曾鈺欣加入聊天
 10:37	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
@@ -1603,62 +1621,62 @@ Mon, 8/23/2021
 最後因為是團隊競爭，所以如果真的有非同學的朋友蓄意加入，我們是以「組」為單位進行取消資格的唷，有因為這次比賽特別組隊參賽的同學要特別注意，組隊前要先確認好具備同學身份這件事唷！(BacBac Admire)
 
 希望有回答到你的所有問題～ 期待你們來報名參加(BacBac Praise)
-11:27	交大-資管-Joanne joined the chat.
-11:27	台大-工管-Jessie joined the chat.
-11:27	政大 國貿二 曾鈺欣 joined the chat.
-11:27	NTUE-CS-Eric joined the chat.
-11:27	NYCU-MS-Dina joined the chat.
-11:27	政大_企研_鄭葦彥 joined the chat.
-11:27	Mei joined the chat.
-11:27	NTUB-AFL-Roger Huang joined the chat.
-11:27	蘇柏瑋 joined the chat.
+11:27	交大-資管-Joanne加入聊天
+11:27	台大-工管-Jessie加入聊天
+11:27	政大 國貿二 曾鈺欣加入聊天
+11:27	NTUB-AFL-Roger Huang加入聊天
+11:27	Mei加入聊天
+11:27	政大_企研_鄭葦彥加入聊天
+11:27	NYCU-MS-Dina加入聊天
+11:27	NTUE-CS-Eric加入聊天
+11:27	蘇柏瑋加入聊天
 11:27	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 11:28	NTHU-ECON-1璇	好的，瞭解了！謝謝小幫手迅速回覆(thumbs up) 非常期待這次的競賽
-11:28	LINE小幫手-A	[Sticker]
-11:29	台大-工管-朱向崴 joined the chat.
+11:28	LINE小幫手-A	[貼圖]
+11:29	台大-工管-朱向崴加入聊天
 11:29	LINE小幫手-A	加油唷！期待你們的創意～
 11:29	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 11:32	NTCUST-統計-陳明萱	請問可以從哪邊確認線上說明會有報名成功？
-11:33	安 joined the chat.
+11:33	安加入聊天
 11:33	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 11:40	LINE小幫手-A	Hi 明萱～
 只要你有在說明會報名連結送出資料表即可唷，因為是線上說明會，我們並沒有特別設人數上限，記得把週三晚上時間空下來，與我們（LINE FRESH官方帳號或粉絲團）線上見唷～ 謝謝你報名活動(heart)
 12:06	NTCUST-統計-陳明萱	好的謝謝！
-12:26	NUK-亞太三-黃鈺晴 joined the chat.
-12:26	Emily joined the chat.
-12:26	政大-企管-陳亦伶 joined the chat.
+12:26	Emily加入聊天
+12:26	NUK-亞太三-黃鈺晴加入聊天
+12:26	政大-企管-陳亦伶加入聊天
 12:26	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-12:43	FJU-金融國企-黃柏勳 joined the chat.
-12:43	中正-哲學+傳播-亭 joined the chat.
+12:43	中正-哲學+傳播-亭加入聊天
+12:43	FJU-金融國企-黃柏勳加入聊天
 12:43	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-17:20	STUST-工管資訊系-Jane joined the chat.
-17:20	TKU-國企-Paula joined the chat.
-17:20	STUST-企業管理系-Yu璇 joined the chat.
-17:20	NKFUST-行銷-BT joined the chat.
+17:20	NKFUST-行銷-BT加入聊天
+17:20	STUST-企業管理系-Yu璇加入聊天
+17:20	TKU-國企-Paula加入聊天
+17:20	STUST-工管資訊系-Jane加入聊天
 17:20	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-17:51	NTOU-商船-Wendy joined the chat.
+17:51	NTOU-商船-Wendy加入聊天
 17:51	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 23:14	成大-企研-Ruby	想請問決賽會取幾隊進入呢？若進入決賽後會有工作坊之類的培訓計畫嗎？謝謝😊
 
-Tue, 8/24/2021
+2021/8/24（週二）
 09:35	NCKU-BME-柏瑜	請問說明會要怎麼報名呢？有連結嗎
 09:46	NTU-CSIE-Rain	說明會 幫連
 09:47	NCKU-BME-柏瑜	@NTU-CSIE-Rain 謝謝☺️
-10:14	LINE小幫手-A	[Sticker]
+10:14	LINE小幫手-A	[貼圖]
 10:17	LINE小幫手-A	Hi 淳芬～
 目前安排是進入初賽後即陸續安排有線上課程，以及導師面談指導等排程，詳細的內容會在明晚的線上說明會說明，歡迎有空來參加唷～(BacBac Touch)
 10:17	台大-工管-朱向崴	可以再發一次說明會報名連結嗎 因為比較晚進來群組顯示不出來 謝謝🙏
@@ -1670,49 +1688,49 @@ Tue, 8/24/2021
 但想參加明晚場次的同學還是可以在晚上七點上LINE FRESH 官方粉絲團 & 官方帳號上等直播唷！
 
 如果是想報名第二場次的要再等等唷！預計今日會釋出(Capoo_heart eye)
-10:30	LINE小幫手-A	[Sticker]
-10:31	NTU-CSIE-Rain	[Sticker]
+10:30	LINE小幫手-A	[貼圖]
+10:31	NTU-CSIE-Rain	[貼圖]
 10:45	台大-工管-朱向崴	好的 謝謝
-14:46	UT-Math-PoYung joined the chat.
-14:46	台大-工管-wang joined the chat.
-14:46	Johnnie joined the chat.
-14:46	Hsia joined the chat.
-14:46	抒情 joined the chat.
-14:46	NCU-企研-SONG joined the chat.
-14:46	SCU-Hao joined the chat.
-14:46	中央-資管-Leo joined the chat.
-14:46	Ken joined the chat.
-14:46	仁仁 joined the chat.
-14:46	Domo joined the chat.
-14:46	MarsWang joined the chat.
-14:46	UT-UIMM-ming joined the chat.
-14:46	William joined the chat.
-14:46	全兄 joined the chat.
-14:46	文山雨神 joined the chat.
-14:46	Evie joined the chat.
-14:46	呱呱 joined the chat.
-14:46	SHU-JOUR-Claire joined the chat.
-14:46	東吳-資科-Lightning joined the chat.
-14:46	Kenny joined the chat.
-14:46	東吳-資科-雷 joined the chat.
+14:46	UT-Math-PoYung加入聊天
+14:46	Johnnie加入聊天
+14:46	台大-工管-wang加入聊天
+14:46	NCU-企研-SONG加入聊天
+14:46	中興-行銷-抒情加入聊天
+14:46	NSYSU-企管112-Hsia加入聊天
+14:46	NCU-EE-Mars加入聊天
+14:46	Domo加入聊天
+14:46	NCHU-MKT-Daniel加入聊天
+14:46	Ken加入聊天
+14:46	中央-資管-Leo加入聊天
+14:46	東吳-資科-Hao加入聊天
+14:46	台大-土木-全兄加入聊天
+14:46	LHU-IEM-William加入聊天
+14:46	UT-UIMM-ming加入聊天
+14:46	文山雨神加入聊天
+14:46	台大-工海-Ken加入聊天
+14:46	東吳-資科-Lightning加入聊天
+14:46	SHU-JOUR-Claire加入聊天
+14:46	TKU-ET-張琬琪加入聊天
+14:46	Evie加入聊天
+14:46	東吳-資科-雷加入聊天
 14:46	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-16:13	yeeda joined the chat.
-16:13	中央大學-碩一-何亮甫 joined the chat.
+16:13	中央大學-碩一-何亮甫加入聊天
+16:13	NKNU-SEM-yeeda加入聊天
 16:13	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-17:30	Lyra joined the chat.
-17:30	蔡時富 joined the chat.
-17:30	Irene joined the chat.
-17:30	許世琦 joined the chat.
+17:30	蔡時富加入聊天
+17:30	中山-企研-Lyra加入聊天
+17:30	清大-科管-Irene加入聊天
+17:30	東海-資工-許世琦加入聊天
 17:30	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-18:31	NTU-化工系David joined the chat.
-18:31	龔照峻 joined the chat.
-18:31	耶 joined the chat.
+18:31	NTU-化工系David加入聊天
+18:31	耶加入聊天
+18:31	龔照峻加入聊天
 18:31	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
@@ -1724,52 +1742,52 @@ https://www.facebook.com/LINEFRESHTW/posts/121800776823483
 明晚也會在粉絲團及官方帳號上進行線上說明會，歡迎來參加～
 19:00	NTU-化工系David	謝謝🙏
 
-Wed, 8/25/2021
-11:20	實踐-媒傳-Lulu joined the chat.
-11:20	Andy Do joined the chat.
-11:20	Andy joined the chat.
-11:20	Becca joined the chat.
-11:20	NUTC-IM-葛茽亘 joined the chat.
-11:20	國北-玩遊一-Ruby joined the chat.
-11:20	交大-工工-Wei joined the chat.
-11:20	Aliciaaa joined the chat.
-11:20	東吳-會計-Ping joined the chat.
-11:20	白白 joined the chat.
-11:20	北科-資財-大衛 joined the chat.
-11:20	FCU-MKT-Kevin joined the chat.
-11:20	Lin joined the chat.
-11:20	ccy joined the chat.
-11:20	蘇蘇 joined the chat.
-11:20	成大工設碩一 李姿儀 joined the chat.
-11:20	成大電機-碩一-黃心渝 joined the chat.
-11:20	北大-企研-Hannah joined the chat.
-11:20	政大-會計 David joined the chat.
-11:20	NQU-應英系-Oliver joined the chat.
-11:20	彥瑞 joined the chat.
-11:20	中興-資管-Chloe joined the chat.
+2021/8/25（週三）
+11:20	實踐-媒傳-Lulu加入聊天
+11:20	台大-經濟三-王昱淮加入聊天
+11:20	Andy Do加入聊天
+11:20	北科-資財-大衛加入聊天
+11:20	白白加入聊天
+11:20	東吳-會計-Ping加入聊天
+11:20	Aliciaaa加入聊天
+11:20	交大-工工-Wei加入聊天
+11:20	國北-玩遊一-Ruby加入聊天
+11:20	NUTC-IM-葛茽亘加入聊天
+11:20	NSYSU-資管-Becca加入聊天
+11:20	政大-會計 David加入聊天
+11:20	北大-企研-Hannah加入聊天
+11:20	成大電機-碩一-黃心渝加入聊天
+11:20	成大工設碩一 李姿儀加入聊天
+11:20	蘇蘇加入聊天
+11:20	ccy加入聊天
+11:20	Lin加入聊天
+11:20	FCU-MKT-Kevin加入聊天
+11:20	中興-資管-Chloe加入聊天
+11:20	彥瑞加入聊天
+11:20	NQU-應英系-Oliver加入聊天
 11:20	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-12:19	東吳-社會-林欣 joined the chat.
-12:19	Chichy Vichy joined the chat.
+12:19	Chichy Vichy加入聊天
+12:19	SCU_SOC_林欣加入聊天
 12:19	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-14:58	Sen joined the chat.
-14:58	Vy joined the chat.
-14:58	台大-國企二-蔡詩云 joined the chat.
-14:58	CGU_電機_tin joined the chat.
-14:58	Shu joined the chat.
-14:58	黃冠泓 joined the chat.
-14:58	中央-資管-郭哲銘 joined the chat.
+14:58	台大-國企二-蔡詩云加入聊天
+14:58	Vy加入聊天
+14:58	NTU-ESOE-趙昱森加入聊天
+14:58	Shu加入聊天
+14:58	CGU_電機_tin加入聊天
+14:58	中央-資管-郭哲銘加入聊天
+14:58	黃冠泓加入聊天
 14:58	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-17:51	NYCU-IEM-孫于涵 joined the chat.
-17:51	Weiii joined the chat.
-17:51	NTHU-科管-Lina joined the chat.
-17:51	政大-資管-heng joined the chat.
-17:51	紀醬 joined the chat.
+17:51	NYCU-IEM-孫于涵加入聊天
+17:51	紀醬加入聊天
+17:51	政大-資管-heng加入聊天
+17:51	NTHU-科管-Lina加入聊天
+17:51	Weiii加入聊天
 17:51	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
@@ -1785,29 +1803,30 @@ LINE FRESH 2021校園競賽 首場線上說明會就在今晚七點！！！
 
 p.s. 直播最後還有學長姊經驗分享與有獎徵答～ 🎁
 大家一定要觀看到最後呦(moon wink)(moon wink)(moon wink)
-18:19	NTHU-EECS-Devin joined the chat.
-18:19	PCCU IMD Shann joined the chat.
+18:19	PCCU IMD Shann加入聊天
+18:19	NTHU-EECS-Devin加入聊天
 18:19	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-19:04	輔大-資管-高赫頎 joined the chat.
-19:04	成大-企管-Chy joined the chat.
-19:04	CCU-資工-黃薰磊 joined the chat.
-19:04	洪毓誠 joined the chat.
-19:04	清大-資工-saker joined the chat.
-19:04	北大-經濟三-王寧晞 joined the chat.
-19:04	WJ joined the chat.
-19:04	碗飯 joined the chat.
-19:04	政大-資管-朱紜彤 joined the chat.
-19:04	誠 joined the chat.
-19:04	中國科技大學-資工系-蔡詠安 joined the chat.
-19:04	Vanessa joined the chat.
-19:04	台大-資工-傅樂芸 joined the chat.
+19:04	輔大-資管-高赫頎加入聊天
+19:04	成大-企管-Chy加入聊天
+19:04	CCU-資工-黃薰磊加入聊天
+19:04	NCCU-DCT-林韋君加入聊天
+19:04	北大-經濟三-王寧晞加入聊天
+19:04	清大-資工-saker加入聊天
+19:04	清大-資工-saker加入聊天
+19:04	北科-機械-洪毓誠加入聊天
+19:04	交大-傳播所-Vanessa加入聊天
+19:04	中國科技大學-資工系-蔡詠安加入聊天
+19:04	NCCU-MIS-Cheng加入聊天
+19:04	政大-資管-朱紜彤加入聊天
+19:04	政大-傳播-吳宛樺加入聊天
+19:04	台大-資工-傅樂芸加入聊天
 19:04	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-19:06	聯合-光電-許 joined the chat.
-19:06	NTPU-ACC-喬 joined the chat.
+19:06	NTPU-ACC-喬加入聊天
+19:06	聯合-光電-許加入聊天
 19:06	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
@@ -1815,12 +1834,12 @@ p.s. 直播最後還有學長姊經驗分享與有獎徵答～ 🎁
 https://linliv.ee/qCCXD2B/li/tk/sh/ll
 #LINELIVE 直播
 活動開始囉～～～(BacBac Touch)(BacBac Touch)(BacBac Touch)
-19:16	CCs joined the chat.
-19:16	竹子君 joined the chat.
+19:16	竹子君加入聊天
+19:16	CCs加入聊天
 19:16	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-19:16	昕 joined the chat.
+19:16	昕加入聊天
 19:16	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
@@ -1845,48 +1864,39 @@ https://linliv.ee/qCCXD2B/li/tk/sh/ll
 四選一即可，可以依照同學的偏好、商圈特色，或者和團隊企劃最適合的皆可唷～期待你們投稿(BacBac Admire)
 20:10	LINE小幫手-A	Hi C同學～
 主要是以指定的商圈四選一，並以整體商圈轉型的角度切角進行，至於是否用到商圈中的某類型店家進行延伸，就是看同學們的創意囉！感覺同學已經有很好的idea，小編很期待(BacBac Praise)
-20:13	Allen joined the chat.
-20:13	Allen joined the chat.
+20:13	Allen加入聊天
 20:13	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-20:13	NYCU-BT-林彥成 joined the chat.
-20:13	NYCU-BT-林彥成 joined the chat.
-20:13	Jack joined the chat.
-20:13	Jack joined the chat.
-20:13	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
-加入後的第一步☝️請參考置頂公告改暱稱喔🙏
-
-20:13	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
-加入後的第一步☝️請參考置頂公告改暱稱喔🙏
-
-20:13	Judy joined the chat.
-20:13	Judy joined the chat.
-20:13	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
-加入後的第一步☝️請參考置頂公告改暱稱喔🙏
-
-20:13	KID joined the chat.
-20:13	KID joined the chat.
-20:13	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
-加入後的第一步☝️請參考置頂公告改暱稱喔🙏
-
-20:13	NCTU-DCAT-Sally Cho joined the chat.
-20:13	NCTU-DCAT-Sally Cho joined the chat.
-20:13	CCU-FIN-Chien joined the chat.
-20:13	CCU-FIN-Chien joined the chat.
-20:13	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
-加入後的第一步☝️請參考置頂公告改暱稱喔🙏
-
-20:13	雨 joined the chat.
-20:13	雨 joined the chat.
+20:13	NYCU-BT-林彥成加入聊天
+20:13	Jack加入聊天
 20:13	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 20:13	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-20:15	中興大學-資管所-小P joined the chat.
-20:15	中興大學-資管所-小P joined the chat.
+20:13	Judy加入聊天
+20:13	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+20:13	KID加入聊天
+20:13	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+20:13	NCTU-DCAT-Sally Cho加入聊天
+20:13	CCU-FIN-Chien加入聊天
+20:13	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+20:13	東吳-國貿-雨涵加入聊天
+20:13	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+20:13	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+20:15	中興大學-資管所-小P加入聊天
 20:15	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
@@ -1901,57 +1911,57 @@ https://linliv.ee/qCCXD2B/li/tk/sh/ll
 20:19	NCU-EE-Mars	感謝
 20:20	LINE小幫手-A	感覺會是個很完整的解決方案，小幫手期待在賽中看到你們的作品，加油加油，等你們來挑戰(BacBac Praise)
 
-Thu, 8/26/2021
-10:19	00 joined the chat.
-10:19	交大-電子-修棋 joined the chat.
-10:19	靜宜大學-企管-許斐婷 joined the chat.
-10:19	Jeff joined the chat.
-10:19	政大-資管-劉承翰 joined the chat.
-10:19	UCH-企管-Boredn joined the chat.
-10:19	NCYU-外語-Irving joined the chat.
-10:19	nknu-eng113-jamie joined the chat.
-10:19	Oreo joined the chat.
-10:19	kk joined the chat.
-10:19	台大-圖資-凌麗 joined the chat.
-10:19	國北教-玩遊一-May joined the chat.
-10:19	淡江-統計-Kuo joined the chat.
-10:19	中正-資工-黃俊凱 joined the chat.
-10:19	USc_IB_ Josh joined the chat.
-10:19	德明科大-多媒體-陳郁娸 joined the chat.
-10:19	交大-傳播所-9 joined the chat.
-10:19	誠 joined the chat.
-10:19	中正-資工-fliez joined the chat.
+2021/8/26（週四）
+10:19	00加入聊天
+10:19	靜宜大學-企管-許斐婷加入聊天
+10:19	交大-電子-修棋加入聊天
+10:19	Oreo加入聊天
+10:19	nknu-eng113-jamie加入聊天
+10:19	NCYU-外語-Irving加入聊天
+10:19	UCH-企管-Boredn加入聊天
+10:19	政大-資管-劉承翰加入聊天
+10:19	Jeff加入聊天
+10:19	台大-圖資-Li加入聊天
+10:19	kk加入聊天
+10:19	淡江-統計-Kuo加入聊天
+10:19	國北教-玩遊一-May加入聊天
+10:19	NTHU-EECS-誠加入聊天
+10:19	交大-傳播所-9加入聊天
+10:19	德明科大-多媒體-陳郁娸加入聊天
+10:19	USc_IB_ Josh加入聊天
+10:19	中正-資工-黃俊凱加入聊天
+10:19	中正-資工-fliez加入聊天
 10:19	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-12:30	NTU-IM-Xin joined the chat.
+12:30	NTU-IM-Xin加入聊天
 12:30	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-16:00	Cindy joined the chat.
-16:00	洋蔥🧅 joined the chat.
+16:00	TKU-ELC-Cindy加入聊天
+16:00	洋蔥🧅加入聊天
 16:00	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-18:39	NKNU-軟體一-jacky joined the chat.
-18:39	NC joined the chat.
-18:39	FJU-TC-黃培銘 joined the chat.
-18:39	成大-資工-林佳妤 joined the chat.
+18:39	高師大-軟體二-netcat加入聊天
+18:39	NKNU-軟體一-jacky加入聊天
+18:39	FJU-TC-黃培銘加入聊天
+18:39	成大-資工-林佳妤加入聊天
 18:39	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Fri, 8/27/2021
-10:36	Joanne Chu joined the chat.
-10:36	Mike joined the chat.
-10:36	NTU-IB-K joined the chat.
-10:36	🐯 joined the chat.
-10:36	Anber joined the chat.
-10:36	Yu joined the chat.
-10:36	喬俊杰 joined the chat.
-10:36	Chloe joined the chat.
-10:36	Ga joined the chat.
-10:36	LHU-文創-Sihan joined the chat.
+2021/8/27（週五）
+10:36	Joanne Chu加入聊天
+10:36	喬俊杰加入聊天
+10:36	Yu加入聊天
+10:36	Anber加入聊天
+10:36	🐯加入聊天
+10:36	NTU-IB-K加入聊天
+10:36	Mike加入聊天
+10:36	LHU-文創-Sihan加入聊天
+10:36	Ga加入聊天
+10:36	Chloe加入聊天
 10:36	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
@@ -1966,22 +1976,22 @@ Fri, 8/27/2021
 這邊也小提醒一下，屆時報名資料裡面需要附上學生證或在學證明文件，否則很有可能白白喪失參賽資格的，再麻煩您們留意了，謝謝！
 13:31	NTU-IB-K	好的好的，謝謝您的解惑！
 13:32	LINE小幫手-AW	不客氣，期待您們的報名參賽～！
-14:47	Ezra Lin joined the chat.
-14:47	NTOU-CS-Ricky joined the chat.
-14:47	鴻 joined the chat.
-14:47	LINE小幫手-AH joined the chat.
+14:47	鴻加入聊天
+14:47	NTOU-CS-Ricky加入聊天
+14:47	Ezra Lin加入聊天
+14:47	LINE小幫手-AH加入聊天
 14:48	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 16:44	中興-資管-Joker	小編，我想問一下 作品集要以什麼形式呈現呢 ? 企劃撰寫和程式撰寫的部分
-16:47	中興大學行銷碩一周書懃	也想詢問關於自我介紹:
+16:47	中興-行銷-抒情	也想詢問關於自我介紹:
 1、有限定繳交格式嗎?是否有字數或頁數的限制~
 2、內容是類似一頁式CV還是自傳之類的呢?
 16:54	LINE小幫手-AW	Joker 同學您好，作品集不限形式唷！可以是您們團隊之前相關競賽或一些專案、實習等等累積的經驗作品分享，展現您們團隊的優勢與最好的一面呈現給我們唷～～～
 17:01	LINE小幫手-A	小幫手來追加一點(pointing up)活動報名的時候會需要將五大項目包含隊伍的學生證/在學證明一起集結成一個pdf檔案並小於10M才能送出成功喔！(BacBac Touch)
 17:07	臺大-政治-丹	是兩者都需要嗎！還是擇一即可？
-17:07	中興大學行銷碩一周書懃	小於10M是只有證件檔案嗎
-17:08	中興大學行銷碩一周書懃	想問所有人的自我介紹+作品集有沒有檔案總限制
+17:07	中興-行銷-抒情	小於10M是只有證件檔案嗎
+17:08	中興-行銷-抒情	想問所有人的自我介紹+作品集有沒有檔案總限制
 17:10	LINE小幫手-A	學生身分證名文件是二擇一喔
 17:13	LINE小幫手-AW	小幫手也補充一下，學生身分證明文件請以學生證作為優先提供，可以是照片或掃描檔放置「所有項目」的總PDF文件中。如果學生證遺失或不在身邊，請跟貴校申請在學證明放入。
 17:14	LINE小幫手-A	不是喔，是除了報名的資本資料填寫欄位以外的 "團隊介紹附件"＋"學生證明文件" 要整合成一個PDF檔案，並小於10Ｍ
@@ -2010,200 +2020,203 @@ https://lin.ee/mNfZwsy/newf
 想請問「line服務的瞭解程度」之項目具體期待參賽者呈現對開發技術的了解或者line產品提供消費者的服務之描述？
 19:31	LINE小幫手-AW	嗨 良～ 您說的都可以寫進去，沒有特別設限喔！關於 LINE 的所有服務或是 API 等開發工具的了解都可以具體的描述出來讓我們知道的！
 20:18	NDHU ACI C	謝謝您
-20:18	NDHU ACI C	[Sticker]
+20:18	NDHU ACI C	[貼圖]
 20:33	NKNU-SEM-yeeda	想請問一下一些問題～
 作品集是隊中每個人都要放嗎？
 作品集是各放各的嗎？
 20:55	LINE小幫手-AW	哈囉 yeeda！雖說沒有限定每個人的作品都要放入，但建議是您們團隊成員互相討論後各取最精華的部分放置喔！
 21:01	LINE小幫手-AW	儘可能地展現團隊的優勢讓我們看到就是了～
-21:12	00 was banned from the OpenChat by LINE小幫手-MT.
-21:12	Aliciaaa was banned from the OpenChat by LINE小幫手-MT.
-21:13	Allen was banned from the OpenChat by LINE小幫手-MT.
-21:13	Anber was banned from the OpenChat by LINE小幫手-MT.
-21:13	Andy Do was banned from the OpenChat by LINE小幫手-MT.
-21:13	CCs was banned from the OpenChat by LINE小幫手-MT.
-21:13	Chloe was banned from the OpenChat by LINE小幫手-MT.
-21:13	Chichy Vichy was banned from the OpenChat by LINE小幫手-MT.
-21:13	D was banned from the OpenChat by LINE小幫手-MT.
-21:13	Domo was banned from the OpenChat by LINE小幫手-MT.
-21:13	Emily was banned from the OpenChat by LINE小幫手-MT.
-21:13	Evie was banned from the OpenChat by LINE小幫手-MT.
-21:13	Ezra Lin was banned from the OpenChat by LINE小幫手-MT.
-21:13	Ga was banned from the OpenChat by LINE小幫手-MT.
-21:13	Jeff was banned from the OpenChat by LINE小幫手-MT.
-21:14	Joanne Chu was banned from the OpenChat by LINE小幫手-MT.
-21:14	Johnnie was banned from the OpenChat by LINE小幫手-MT.
-21:14	Judy was banned from the OpenChat by LINE小幫手-MT.
-21:14	Ken was banned from the OpenChat by LINE小幫手-MT.
-21:14	Kerry was banned from the OpenChat by LINE小幫手-MT.
-21:14	KID was banned from the OpenChat by LINE小幫手-MT.
-21:14	kk was banned from the OpenChat by LINE小幫手-MT.
-21:14	Lilian💗 was banned from the OpenChat by LINE小幫手-MT.
-21:14	Mei was banned from the OpenChat by LINE小幫手-MT.
-21:14	Mike was banned from the OpenChat by LINE小幫手-MT.
-21:15	Oreo was banned from the OpenChat by LINE小幫手-MT.
-21:15	Shannon was banned from the OpenChat by LINE小幫手-MT.
-21:15	Shu was banned from the OpenChat by LINE小幫手-MT.
-21:15	Vy was banned from the OpenChat by LINE小幫手-MT.
-21:15	Weiii was banned from the OpenChat by LINE小幫手-MT.
-21:15	Weiwei was banned from the OpenChat by LINE小幫手-MT.
-21:16	喬俊杰 was banned from the OpenChat by LINE小幫手-MT.
-21:16	安 was banned from the OpenChat by LINE小幫手-MT.
-21:16	小菜 was banned from the OpenChat by LINE小幫手-MT.
-21:16	彥瑞 was banned from the OpenChat by LINE小幫手-MT.
-21:16	文山雨神 was banned from the OpenChat by LINE小幫手-MT.
-21:16	昕 was banned from the OpenChat by LINE小幫手-MT.
-21:16	洋蔥🧅 was banned from the OpenChat by LINE小幫手-MT.
-21:16	白白 was banned from the OpenChat by LINE小幫手-MT.
-21:17	程ton was banned from the OpenChat by LINE小幫手-MT.
-21:17	竹子君 was banned from the OpenChat by LINE小幫手-MT.
-21:17	紀醬 was banned from the OpenChat by LINE小幫手-MT.
-21:17	耶 was banned from the OpenChat by LINE小幫手-MT.
-21:17	菜雞 was banned from the OpenChat by LINE小幫手-MT.
-21:17	蔡時富 was banned from the OpenChat by LINE小幫手-MT.
-21:17	蘇蘇 was banned from the OpenChat by LINE小幫手-MT.
-21:17	黃冠泓 was banned from the OpenChat by LINE小幫手-MT.
-21:17	龔照峻 was banned from the OpenChat by LINE小幫手-MT.
-21:17	🐯 was banned from the OpenChat by LINE小幫手-MT.
-21:56	NCU-CSIE-Ezra joined the chat.
+21:12	LINE小幫手-MT已將00強制退出社群。
+21:12	LINE小幫手-MT已將Aliciaaa強制退出社群。
+21:13	LINE小幫手-MT已將Allen強制退出社群。
+21:13	LINE小幫手-MT已將Anber強制退出社群。
+21:13	LINE小幫手-MT已將Andy Do強制退出社群。
+21:13	LINE小幫手-MT已將CCs強制退出社群。
+21:13	LINE小幫手-MT已將Chloe強制退出社群。
+21:13	LINE小幫手-MT已將Chichy Vichy強制退出社群。
+21:13	LINE小幫手-MT已將D強制退出社群。
+21:13	LINE小幫手-MT已將Domo強制退出社群。
+21:13	LINE小幫手-MT已將Emily強制退出社群。
+21:13	LINE小幫手-MT已將Evie強制退出社群。
+21:13	LINE小幫手-MT已將Ezra Lin強制退出社群。
+21:13	LINE小幫手-MT已將Ga強制退出社群。
+21:13	LINE小幫手-MT已將Jeff強制退出社群。
+21:14	LINE小幫手-MT已將Joanne Chu強制退出社群。
+21:14	LINE小幫手-MT已將Johnnie強制退出社群。
+21:14	LINE小幫手-MT已將Judy強制退出社群。
+21:14	LINE小幫手-MT已將Ken強制退出社群。
+21:14	LINE小幫手-MT已將Kerry強制退出社群。
+21:14	LINE小幫手-MT已將KID強制退出社群。
+21:14	LINE小幫手-MT已將kk強制退出社群。
+21:14	LINE小幫手-MT已將Lilian💗強制退出社群。
+21:14	LINE小幫手-MT已將Lilian💗強制退出社群。
+21:14	LINE小幫手-MT已將Mei強制退出社群。
+21:14	LINE小幫手-MT已將Mike強制退出社群。
+21:15	LINE小幫手-MT已將Oreo強制退出社群。
+21:15	LINE小幫手-MT已將Shannon強制退出社群。
+21:15	LINE小幫手-MT已將Shu強制退出社群。
+21:15	LINE小幫手-MT已將Vy強制退出社群。
+21:15	LINE小幫手-MT已將Weiii強制退出社群。
+21:15	LINE小幫手-MT已將Weiwei強制退出社群。
+21:16	LINE小幫手-MT已將喬俊杰強制退出社群。
+21:16	LINE小幫手-MT已將安強制退出社群。
+21:16	LINE小幫手-MT已將小菜強制退出社群。
+21:16	LINE小幫手-MT已將彥瑞強制退出社群。
+21:16	LINE小幫手-MT已將文山雨神強制退出社群。
+21:16	LINE小幫手-MT已將昕強制退出社群。
+21:16	LINE小幫手-MT已將洋蔥🧅強制退出社群。
+21:16	LINE小幫手-MT已將白白強制退出社群。
+21:17	LINE小幫手-MT已將程ton強制退出社群。
+21:17	LINE小幫手-MT已將竹子君強制退出社群。
+21:17	LINE小幫手-MT已將紀醬強制退出社群。
+21:17	LINE小幫手-MT已將耶強制退出社群。
+21:17	LINE小幫手-MT已將菜雞強制退出社群。
+21:17	LINE小幫手-MT已將蔡時富強制退出社群。
+21:17	LINE小幫手-MT已將蘇蘇強制退出社群。
+21:17	LINE小幫手-MT已將黃冠泓強制退出社群。
+21:17	LINE小幫手-MT已將龔照峻強制退出社群。
+21:17	LINE小幫手-MT已將🐯強制退出社群。
+21:56	NCU-CSIE-Ezra加入聊天
 21:56	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-22:02	高科-應英-Jessica joined the chat.
-22:02	高醫-107-邱緯嘉 joined the chat.
-22:02	TKU-CSIE-Harry joined the chat.
-22:02	NTU-CSIE-Johnson joined the chat.
-22:02	Amy joined the chat.
-22:02	台大-電機二-林暐城 joined the chat.
-22:02	Paul joined the chat.
-22:02	Tang joined the chat.
-22:02	中大-財金-cyc joined the chat.
-22:02	Vicky Young joined the chat.
+22:02	高醫-107-邱緯嘉加入聊天
+22:02	高科-應英-Jessica加入聊天
+22:02	台大-電機二-林暐城加入聊天
+22:02	淡江-資圖-Meme加入聊天
+22:02	NTU-CSIE-Johnson加入聊天
+22:02	TKU-CSIE-Harry加入聊天
+22:02	Vicky Young加入聊天
+22:02	中大-財金-cyc加入聊天
+22:02	Tang加入聊天
+22:02	Paul加入聊天
 22:03	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-22:03	NTU-網媒所碩一 Alan joined the chat.
-22:03	南台科大-csie-黃彥瑞 joined the chat.
+22:03	NTU-網媒所碩一 Alan加入聊天
+22:03	南台科大-csie-黃彥瑞加入聊天
 22:03	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Mon, 8/30/2021
-10:39	Jolin加入聊天
+2021/8/30（週一）
 10:39	王冠勛加入聊天
-10:39	tou加入聊天
+10:39	Jolin加入聊天
+10:39	NCHU FIN Chen加入聊天
 10:39	NTU-CE-mu加入聊天
+10:39	中科大-建築系-安傳軒加入聊天
 10:39	NCCU-MBA-00加入聊天
-10:39	安安加入聊天
+10:39	政大-企研-麥玳寧加入聊天
 10:39	108國企 張博崴加入聊天
-10:39	Ning加入聊天
-10:39	柔加入聊天
-10:39	NTU FIN JACK加入聊天
+10:39	108國企 張博崴加入聊天
 10:39	嗨嗨加入聊天
-10:39	Claire加入聊天
-10:39	W加入聊天
+10:39	NTU FIN JACK加入聊天
+10:39	北大-企管二-陳柔均加入聊天
 10:39	Tku-ic-Chen加入聊天
-10:39	Masalu加入聊天
+10:39	NTHU - CS -  Wesley加入聊天
+10:39	政大-科管-wen加入聊天
 10:39	ntu_law_allen加入聊天
+10:39	Masalu加入聊天
 10:39	Emily加入聊天
 10:39	rocio加入聊天
-10:39	JJ加入聊天
-10:39	阿懷加入聊天
-10:39	庭筠加入聊天
-10:39	Calvin加入聊天
 10:39	FCU-MKT-Lillian加入聊天
-10:39	成大-碩一-龔照峻加入聊天
-10:39	中山-財管-Hu加入聊天
-10:39	Sicilia加入聊天
-10:39	台大-資管所-林璟耀加入聊天
+10:39	Calvin加入聊天
+10:39	輔大-廣告二-黃庭筠加入聊天
+10:39	元智大學財金二楊文懷加入聊天
+10:39	交大_人社_屠娟娟加入聊天
 10:39	清華-計財-林家伃加入聊天
+10:39	台大-資管所-林璟耀加入聊天
+10:39	Sicilia加入聊天
+10:39	中山-財管-Hu加入聊天
+10:39	成大-碩一-龔照峻加入聊天
+10:39	成大-醫學112-孫聖晏加入聊天
 10:39	高科-海事資訊-周嘉睿加入聊天
-10:39	SamSun加入聊天
-10:39	淡江-法文-Irene加入聊天
-10:39	🙈🙈🙈加入聊天
-10:39	小盛加入聊天
 10:39	蔡時富加入聊天
-10:39	喬俊杰加入聊天
-10:39	北科-電資三-蔡翔宇加入聊天
-10:39	Cheng加入聊天
-10:39	NTHU/CS碩一/Elmon加入聊天
+10:39	NCCU-RMI-廖禹盛加入聊天
+10:39	🙈🙈🙈加入聊天
+10:39	淡江-法文-Irene加入聊天
+10:39	NYCU-HSS-Ring加入聊天
 10:39	成大-政治-曹瑋彤加入聊天
-10:39	Ring加入聊天
+10:39	NTHU/CS/Elmon加入聊天
+10:39	台大-資工-k加入聊天
+10:39	北科-電資三-蔡翔宇加入聊天
+10:39	輔大-數學-喬俊杰加入聊天
 10:39	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-16:02	NYCU-AC-Riley joined the chat.
-16:02	FJU-DE-Chloe joined the chat.
-16:02	交大-運管-Mich joined the chat.
-16:02	Huei joined the chat.
-16:02	mannyj joined the chat.
+16:02	NYCU-AC-Riley加入聊天
+16:02	NTHU-QF-mj加入聊天
+16:02	Huei加入聊天
+16:02	交大-運管-Mich加入聊天
+16:02	FJU-DE-Chloe加入聊天
 16:02	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
-18:16	台科大-資管四-Amy joined the chat.
+18:16	台科大-資管四-Amy加入聊天
 18:16	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 20:19	交大-管科-翊榛	請問一下小幫手 作品集需要幾頁啊
 
-Tue, 8/31/2021
-10:23	Xin joined the chat.
-10:23	成大-企管-7 joined the chat.
-10:23	Amber.N joined the chat.
-10:23	Yin joined the chat.
-10:23	台科大-電子-詹宏澤 joined the chat.
-10:23	Yuwan joined the chat.
-10:23	EMMMM joined the chat.
-10:23	梳子 joined the chat.
-10:23	阿唐 joined the chat.
-10:23	Nicole joined the chat.
-10:23	政大-資管-Vanessa joined the chat.
-10:23	小白 joined the chat.
-10:23	小涵 @hannahyen79 joined the chat.
-10:23	語禾 joined the chat.
+2021/8/31（週二）
+10:23	成大-企管-7加入聊天
+10:23	中興-夜外-張溢心加入聊天
+10:23	CCU-BA-Yin加入聊天
+10:23	Amber.N加入聊天
+10:23	政大-資管-Vanessa加入聊天
+10:23	虎尾科大.應外.Nicole加入聊天
+10:23	阿唐加入聊天
+10:23	梳子加入聊天
+10:23	NTUST-電機-柏凱加入聊天
+10:23	義守-大傳-Yuwan加入聊天
+10:23	台科大-電子-詹宏澤加入聊天
+10:23	台科大-電子-詹宏澤加入聊天
+10:23	語禾加入聊天
+10:23	小涵 @hannahyen79加入聊天
+10:23	台大-工管-白敘廷加入聊天
 10:23	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 11:02	LINE小幫手-MT	翊榛 您好，作品集不限頁數喔，只要總檔案小於10M即可喔～～
 11:13	交大-管科-翊榛	 想問一下 那初賽規定的五大標準是各自分開的pdf檔嗎 還是其實是要五個合起來為一個pdf
 11:22	LINE小幫手-A	需要同學幫我們合成一個檔案喔！特別叮嚀～我們是分組競賽所以繳交文件都是以組為單位，不是一人一個喔！(BacBac Praise)
-11:23	中興大學行銷碩一周書懃	想問如果作品集的原檔是企劃書或者市場調查報告，頁數很多，可以貼雲端網址嗎？
+11:23	中興-行銷-抒情	想問如果作品集的原檔是企劃書或者市場調查報告，頁數很多，可以貼雲端網址嗎？
 11:27	LINE小幫手-MT	可以的！！
 11:30	LINE小幫手-MT	建議是以簡述＋雲端網址，才有機會吸引評審注意了解更多喔(thumbs up)
-11:33	中興大學行銷碩一周書懃	[Sticker]
-18:21	Chien.加入聊天
-18:21	Théo加入聊天
-18:21	Patrick加入聊天
+11:33	中興-行銷-抒情	[貼圖]
 18:21	輔大-電機-蘇庭毅加入聊天
-18:21	紀宇恆加入聊天
+18:21	政大-金融-有朋加入聊天
+18:21	Théo加入聊天
+18:21	NUK-亞太系-Chien加入聊天
 18:21	僑光-資訊科技系-黃振皓加入聊天
+18:21	清華大學-物理三-紀宇恆加入聊天
 18:21	L加入聊天
-18:21	409402087張芸瑋加入聊天
+18:21	FJU_FAIB_張芸瑋加入聊天
 18:21	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Wed, 9/1/2021
-12:31	LINE小幫手-A	[Sticker]
-12:31	LINE小幫手-A	[Photo]
+2021/9/1（週三）
+12:31	LINE小幫手-A	[貼圖]
+12:31	LINE小幫手-A	[照片]
 12:32	東吳-企管-周育承	謝謝您
 12:33	LINE小幫手-A	同學們午安啊！大家有沒有人已經發現校園競賽官方網站更新啦～～～ 活動正式於今天開放報名囉！還沒有瀏覽過新網站的朋友們中午吃飯時間不要忘記手滑一下，瀏覽活動消息跟報名表的注意事項唷！
-12:33	LINE小幫手-A	[Sticker]
+12:33	LINE小幫手-A	[貼圖]
 12:33	中興-資管-Joker	感謝您🙏
 12:34	LINE小幫手-A	熱騰騰的網站手刀觀看(hand pointing down)
 https://lin.ee/OOppyo3/newf/OC
-12:39	政大廣電鍾德容加入聊天
 12:39	僑光-1加入聊天
+12:39	政大廣電鍾德容加入聊天
+12:39	NCCU－STAT－宥婕加入聊天
 12:39	東華-資管-白謹朋加入聊天
-12:39	Dong加入聊天
 12:39	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 13:42	LINE小幫手-AW	🎉🎉🎉
-16:49	咖咖加入聊天
-16:49	豆花是隻貓加入聊天
-16:49	興大-農資森林-淇加入聊天
 16:49	Sydney加入聊天
+16:49	興大-農資森林-淇加入聊天
+16:49	成大-電機-謝孟霓加入聊天
+16:49	咖咖加入聊天
 16:49	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
@@ -2212,9 +2225,10 @@ https://lin.ee/OOppyo3/newf/OC
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Thu, 9/2/2021
-10:25	嘉大-財金三-李幸微Wei加入聊天
+2021/9/2（週四）
 10:25	輔仁-資管-蘋果加入聊天
+10:25	輔仁-資管-蘋果加入聊天
+10:25	嘉大-財金三-李幸微Wei加入聊天
 10:25	成大-航太-黃宜蓁加入聊天
 10:25	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
@@ -2226,10 +2240,10 @@ Thu, 9/2/2021
 16:04	NYCU-AI-嚴想容	請問團隊自我介紹和作品集的報告格式，有規定統一直式或橫式嗎?
 16:10	LINE小幫手-A	嗨嗨～ 撰寫格式不拘，都可以讓同學自由發揮，只要幫我們合併成一個PDF檔案，並注意檔案大小不超過10MB可成功寄出即可唷～(BacBac Praise)
 16:12	NYCU-AI-嚴想容	好的，謝謝(Niu Niu Cat Smile)
-16:18	LINE小幫手-A	[Sticker]
-17:18	成大-會計-Steven加入聊天
+16:18	LINE小幫手-A	[貼圖]
 17:18	政大-資科-Mason加入聊天
-17:18	yu加入聊天
+17:18	成大-會計-Steven加入聊天
+17:18	雲科-前瞻二-褕晴加入聊天
 17:18	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
@@ -2238,16 +2252,16 @@ Thu, 9/2/2021
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
 
-Fri, 9/3/2021
+2021/9/3（週五）
 10:14	CCU-EE-昀顥加入聊天
-10:14	Ashley加入聊天
-10:14	TKU-IM-Bimo加入聊天
-10:14	NTU-CS-Matt加入聊天
-10:14	小甄豬加入聊天
+10:14	清大-計財-Ashley加入聊天
 10:14	EmilyFan加入聊天
-10:14	小哲加入聊天
-10:14	北科智動專三 許先信加入聊天
+10:14	小甄豬加入聊天
+10:14	NTU-CS-Matt加入聊天
+10:14	TKU-IM-Bimo加入聊天
 10:14	李悅禾加入聊天
+10:14	北科智動專三 許先信加入聊天
+10:14	小哲加入聊天
 10:14	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
 加入後的第一步☝️請參考置頂公告改暱稱喔🙏
 
@@ -2269,4 +2283,96 @@ Fri, 9/3/2021
 14:28	政大-金融-有朋	不好意思 想請問一下作品集跟競賽證書 證照等是以組別為單位嗎 還是可以放成員個人的經歷即可
 14:41	LINE小幫手-A	證照證書可以是個人的，但繳交附件是以團隊為單位，要請隊友們一起整合起來唷～
 14:41	政大-金融-有朋	好的 謝謝你
-14:42	LINE小幫手-A	[Sticker]
+14:42	LINE小幫手-A	[貼圖]
+18:01	LINE小幫手-MT	小幫手愛的提醒(heart)
+本次競賽的報名方式是以組為單位報名，並不開放個人報名喔，請先確認好您的團隊成員後，交由隊長統一填寫報名資料並送出，這部分請同學們注意囉(!!)
+19:03	淡江-資圖-陳沛君加入聊天
+19:03	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+19:51	LINE小幫手-MT已將108國企 張博崴強制退出社群。
+19:51	LINE小幫手-MT已將Amber.N強制退出社群。
+19:51	LINE小幫手-MT已將Calvin強制退出社群。
+19:51	LINE小幫手-MT已將Emily強制退出社群。
+19:51	LINE小幫手-MT已將Fred強制退出社群。
+19:51	LINE小幫手-MT已將Huei強制退出社群。
+19:51	LINE小幫手-MT已將Masalu強制退出社群。
+19:52	LINE小幫手-MT已將Paul強制退出社群。
+19:52	LINE小幫手-MT已將Sicilia強制退出社群。
+19:52	LINE小幫手-MT已將Théo強制退出社群。
+19:52	LINE小幫手-MT已將Sydney強制退出社群。
+19:52	LINE小幫手-MT已將Ying強制退出社群。
+19:52	LINE小幫手-MT已將僑光-1強制退出社群。
+19:52	LINE小幫手-MT已將咖咖強制退出社群。
+19:52	LINE小幫手-MT已將嗨嗨強制退出社群。
+19:53	LINE小幫手-MT已將小哲強制退出社群。
+19:53	LINE小幫手-MT已將小涵 @hannahyen79強制退出社群。
+19:53	LINE小幫手-MT已將小涵 @hannahyen79強制退出社群。
+19:53	LINE小幫手-MT已將小甄豬強制退出社群。
+19:53	LINE小幫手-MT已將李悅禾強制退出社群。
+19:53	LINE小幫手-MT已將梳子強制退出社群。
+19:53	LINE小幫手-MT已將王冠勛強制退出社群。
+19:53	LINE小幫手-MT已將蔡時富強制退出社群。
+19:54	LINE小幫手-MT已將語禾強制退出社群。
+19:54	LINE小幫手-MT已將阿唐強制退出社群。
+19:54	LINE小幫手-MT已將🙈🙈🙈強制退出社群。
+
+2021/9/4（週六）
+11:40	NKNU-SEM-yeeda	請問一下，學生證是跟悠遊卡合作，上面沒有註冊章，這樣可以嗎
+
+2021/9/5（週日）
+22:57	臺大-政治-丹	請問這個能夠再說明得仔細一些嗎！還是有點不明白，謝謝🙏🏼
+23:05	台大-日文四-Masa	不好意思，我很想參加9/8的說明會，但好可惜那時段已有行程(moon troubled)(moon troubled) 不知是否會在會後提供補聽連結🥺？
+23:14	中興-行銷-抒情	咦？？是指我的問題嗎？
+23:16	臺大 心理 나비	不是 是想請小幫手更詳細回答一次你的問題！🥺 （ 我是丹的隊友
+23:18	臺大-政治-丹	對不起打擾你🥵抱歉抱歉
+是想麻煩LINE小幫手再詳述一點這樣！
+23:26	中興-行銷-抒情	那我再完善一下我的第二個問題好了~~
+想問自我介紹的部分，是像小組報告PPT那種「成員簡介」（著重描述團隊內分工）即可，
+還是需要像求職時使用的
+個人一頁式簡歷（字數少著重經歷與成果）
+又或者是像推甄時的自傳（文字故事為主）呢？
+
+2021/9/6（週一）
+10:01	LINE小幫手-AW	哈囉，yeeda！可以的喔～這只為初步學生身份證明而已，別擔心！但是切記在報名時團隊每一位都要提供學生證或在學證明以利我們查核資格喔！
+10:02	LINE小幫手-AW	同學們早安！
+這邊小幫手來幫大家解惑並詳述一下好了～
+關於「團隊成員介紹」這塊，雖之前有說明過了沒有限制格式與形式，但以以往經驗來說，團隊成員每個人如果都有各自的簡歷，讓我們能夠第一眼就看到大家的學經歷與活動、競賽等經驗，勢必會讓審核人員印象更佳深刻，對於參賽資格的審核篩選上應該會有些幫助。至於自傳的部分，就看大家有沒有特別想呈現的，如有，也可簡短幾句話讓我們看到您們的個人特質與優點即可。
+10:34	臺大-政治-丹	好的 感謝您們！
+10:42	NKNU-SEM-yeeda	謝謝小幫手！
+10:44	LINE小幫手-AW	不要客氣XD，祝福大家都能順利報名並取得參賽資格唷～加油加油💪
+10:49	中興-行銷-抒情	謝謝小幫手~~
+13:08	中央大學-企管系-陳韻涵加入聊天
+13:08	中央大學-資訊工程系-黃予珩加入聊天
+13:08	108暨南國企 張博崴加入聊天
+13:08	僑光-資訊-許庭恩加入聊天
+13:08	Joanne加入聊天
+13:08	中央大學 - 產經 - Lisa加入聊天
+13:08	台大-113-Andrew加入聊天
+13:08	Eva加入聊天
+13:08	僑光-資科系-阿偉加入聊天
+13:08	政大 國貿二 曾鈺欣加入聊天
+13:08	Rayyaya加入聊天
+13:08	輔大-醫資-Teresa加入聊天
+13:08	清大-經濟-Vanessa加入聊天
+13:08	T.C加入聊天
+13:08	台大-政治四-亦君加入聊天
+13:08	NTHU-KIPE-Devin加入聊天
+13:08	江加入聊天
+13:08	清大-經濟-大四-Judy加入聊天
+13:08	Hannn加入聊天
+13:08	中正－資管＆成教系－Rou加入聊天
+13:08	中央-通訊-胡紡覺加入聊天
+13:08	王雅竹加入聊天
+13:08	NTU-IB-Alice加入聊天
+13:08	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+13:22	Eric加入聊天
+13:22	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+
+13:22	NTU-BA-Melody加入聊天
+13:22	Auto-reply	👨‍🎓歡迎新同學的加入 👏👏
+加入後的第一步☝️請參考置頂公告改暱稱喔🙏
+

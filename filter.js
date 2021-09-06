@@ -6,24 +6,28 @@ const fs = require('fs');
 const readline = require('readline');
 
 const line_reader = readline.createInterface({
-    input: fs.createReadStream('./[LINE] Chat in LINE FRESH.txt')
+    input: fs.createReadStream('./[LINE] LINE FRESH的聊天記錄.txt')
 });
 
 var history = {};
 var current_date = null;
 
-const date_pattern = /^\w\w\w, \d\d?\/\d\d?\/\d\d\d\d$/;
+const date_pattern = /^\d\d\d\d\/\d\d?\/\d\d?（.+）$/;
 const new_msg_pattern = /^(\d\d:\d\d)\t(.+?)\t(.+)$/;
 
 line_reader.on('line', function (line) {
     if(line.length === 0) return;
     if(line.includes('Auto-reply')) return;
-    if(line.includes('the chat')) return;
-    if(line.includes('was banned from the OpenChat')) return;
-    if(line.includes('[Sticker]')) return;
     if(line.includes('加入聊天')) return;
+    if(line.includes('退出社群')) return;
     if(line.includes('請參考置頂公告改暱稱喔')) return;
     if(line.includes('依照「學校-系級-姓名」做暱稱變更')) return;
+    if(line.includes('[貼圖]')) return;
+    if(line.includes('[照片]')) return;
+    if(line.includes('已將聊天室的人數上限設為')) return;
+    if(line.includes('變更了聊天室圖片')) return;
+    if(line.includes('Spam Filter')) return;
+    if(/已將「.+」加入/.test(line)) return;
 
     // new date
     if(date_pattern.test(line)) {
