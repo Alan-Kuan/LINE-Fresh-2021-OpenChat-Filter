@@ -10,6 +10,7 @@ const line_reader = readline.createInterface({
 });
 
 var history = {};
+var saved_date = null;
 var current_date = null;
 
 const date_pattern = /^\d\d\d\d\/\d\d?\/\d\d?（.+）$/;
@@ -36,6 +37,9 @@ line_reader.on('line', function (line) {
     // first 2 lines
     } else if(current_date === null) {
         console.log(line);
+        if(line.startsWith('儲存日期')) {
+            saved_date = line.split('：')[1];
+        }
     // new message
     } else if(new_msg_pattern.test(line)) {
         const msg = parseMessage(line);
@@ -46,7 +50,9 @@ line_reader.on('line', function (line) {
         history[current_date][len - 1].content.push(line.wrapURLs(true));
     }
 
-    fs.writeFileSync('./filtered_messages.json', JSON.stringify(history));
+    let data = { history, saved_date };
+
+    fs.writeFileSync('./filtered_messages.json', JSON.stringify(data));
 });
 
 function parseMessage(line) {

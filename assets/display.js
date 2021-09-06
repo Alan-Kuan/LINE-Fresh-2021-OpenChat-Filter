@@ -3,7 +3,7 @@
  */
 $(document).ready(function () {
 
-    $.getJSON('./filtered_messages.json', function (history) {
+    $.getJSON('./filtered_messages.json', function ({ history, saved_date }) {
 
         $.each(history, function (date, messages) {
             if(messages.length > 0) {
@@ -29,6 +29,13 @@ $(document).ready(function () {
                 });
             }
         });
+
+        const last_update_text = `最後更新於 ${ saved_date }`;
+        $('#last-update-time').text(last_update_text);
+        $('<div />', {
+            class: 'date-tag',
+            html: last_update_text
+        }).appendTo($('#content'));
 
         scrollBack();
 
