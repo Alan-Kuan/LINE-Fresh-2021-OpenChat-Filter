@@ -13,7 +13,9 @@ $(document).ready(function () {
                 }).appendTo($('#content'));
 
                 $.each(messages, function (_, msg) {
-                    $('<div />', { class: 'msg-box' })
+                    let box_class = 'msg-box';
+                    if(msg.author.startsWith('LINE小幫手')) box_class += ' answer';
+                    $('<div />', { class: box_class })
                         .append($('<span />', {
                             class: 'author',
                             html: msg.author
