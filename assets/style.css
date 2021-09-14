@@ -59,12 +59,10 @@ h1 {
     width: 3rem;
     height: 3rem;
     padding-top: 0.5rem;
+    box-sizing: border-box;
     border: 0px solid;
     border-radius: 0.75rem;
-    background-color: #b8a57a;
-    box-sizing: border-box;
-    color: white;
-    font-size: 2rem;
+    background-color: #b8964c;
     cursor: pointer;
 }
 #scroll-bottom:hover {
@@ -72,6 +70,10 @@ h1 {
 }
 #scroll-bottom:active {
     opacity: 0.5;
+}
+#scroll-bottom span {
+    color: white;
+    font-size: 2rem;
 }
 
 @media only screen and (max-width: 768px) {
