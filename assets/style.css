@@ -24,6 +24,22 @@ h1 {
     margin-top: 2rem;
 }
 
+.fold {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.fold-switch {
+    cursor: pointer;
+}
+.fold-content {
+    display: none;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.fold.expanded .fold-content {
+    display: block;
+}
+
 .date-tag {
     margin-top: 1.5rem;
     padding: 0.5rem;

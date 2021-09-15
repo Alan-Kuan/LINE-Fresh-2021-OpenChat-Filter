@@ -9,6 +9,7 @@
             crossorigin="anonymous"></script>
         <script src="./assets/scroll.js"></script>
         <script src="./assets/display.js"></script>
+        <script src="./assets/fold.js"></script>
         <link href="./assets/style.css" media="screen" rel="stylesheet" type="text/css" />
     </head>
     <body>
@@ -16,21 +17,24 @@
             <h1>LINE Fresh 2021 社群訊息整理</h1>
             <p>由於官方的社群太多系統訊息，致使重要的訊息被推到上面，因此我透過簡單的規則過濾掉某些訊息。</p>
             <div>包含以下內容的訊息會被過濾掉：</div>
-            <ul>
-                <li>Auto-reply</li>
-                <li>Spam Filter</li>
-                <li>[貼圖]</li>
-                <li>[照片]</li>
-                <li>加入聊天</li>
-                <li>退出社群</li>
-                <li>已將「...」加入</li>
-                <li>已將聊天室的人數上限設為</li>
-                <li>變更了聊天室圖片</li>
-                <li>請參考置頂公告改暱稱喔</li>
-                <li>依照「學校-系級-姓名」做暱稱變更</li>
-                <li>+1 (不含小幫手)</li>
-                <li>＋1</li>
-            </ul>
+            <div class="fold">
+                <span class="fold-switch"><span class="icon">▶</span> 點擊以展開</span>
+                <ul class="fold-content">
+                    <li>Auto-reply</li>
+                    <li>Spam Filter</li>
+                    <li>[貼圖]</li>
+                    <li>[照片]</li>
+                    <li>加入聊天</li>
+                    <li>退出社群</li>
+                    <li>已將「...」加入</li>
+                    <li>已將聊天室的人數上限設為</li>
+                    <li>變更了聊天室圖片</li>
+                    <li>請參考置頂公告改暱稱喔</li>
+                    <li>依照「學校-系級-姓名」做暱稱變更</li>
+                    <li>+1 (不含小幫手)</li>
+                    <li>＋1</li>
+                </ul>
+            </div>
             <div id="last-update-time"></div>
             <div id="content"></div>
         </div>
