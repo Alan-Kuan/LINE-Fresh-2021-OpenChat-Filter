@@ -28,6 +28,8 @@ line_reader.on('line', function (line) {
     if(line.includes('已將聊天室的人數上限設為')) return;
     if(line.includes('變更了聊天室圖片')) return;
     if(line.includes('Spam Filter')) return;
+    if(line.includes('+1') && !line.includes('LINE小幫手')) return;
+    if(line.includes('＋1')) return;
     if(/已將「.+」加入/.test(line)) return;
 
     // new date
