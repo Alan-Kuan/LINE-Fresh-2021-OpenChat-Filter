@@ -25,6 +25,7 @@ line_reader.on('line', function (line) {
     if(line.includes('依照「學校-系級-姓名」做暱稱變更')) return;
     if(line.includes('[貼圖]')) return;
     if(line.includes('[照片]')) return;
+    if(line.includes('[影片]')) return;
     if(line.includes('已將聊天室的人數上限設為')) return;
     if(line.includes('變更了聊天室圖片')) return;
     if(line.includes('Spam Filter')) return;
